@@ -33,7 +33,9 @@ async function readJson<T>(relativePath: string): Promise<T> {
 
 async function main() {
   const subjects = await readJson<SubjectSeed[]>("data/pgimer/subjects.json");
-  const questions = await readJson<QuestionSeed[]>("data/pgimer/questions-pgimer.json");
+  const primary = await readJson<QuestionSeed[]>("data/pgimer/questions-pgimer.json");
+  const deep = await readJson<QuestionSeed[]>("data/pgimer/questions-deep.json");
+  const questions = [...primary, ...deep];
 
   console.log("\n🎯 Seeding PGIMER CP/047 content...\n");
 
@@ -84,8 +86,12 @@ async function main() {
 
   let inserted = 0;
   let updated = 0;
+  const seen = new Set<string>();
 
   for (const question of questions) {
+    if (seen.has(question.text)) continue;
+    seen.add(question.text);
+
     const subjectId = subjectMap.get(question.subjectSlug);
     if (!subjectId) throw new Error(`Unknown subject slug: ${question.subjectSlug}`);
 
@@ -130,6 +136,7 @@ async function main() {
   }
 
   console.log(`✓ Subjects enabled: ${subjects.length}`);
+  console.log(`✓ PGIMER questions in source pack: ${seen.size}`);
   console.log(`✓ PGIMER questions inserted: ${inserted}`);
   console.log(`✓ PGIMER questions refreshed: ${updated}`);
   console.log("✓ Legacy generic/Python questions archived");
