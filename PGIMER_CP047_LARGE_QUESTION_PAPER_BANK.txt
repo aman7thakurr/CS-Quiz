@@ -1,0 +1,450 @@
+PGIMER CP/047 — LARGE PAST-PAPER BANK
+Target: PGIMER Satellite Centre, Sangrur — Computer Programmer, Group B
+Research date: 06-Sep-2026
+
+THIS IS A QUESTION-PAPER BANK, NOT A GENERIC CS RESOURCE LIST.
+I have expanded the collection substantially and kept the selection centered on Programmer /
+Computer Programmer / Assistant Programmer / System Analyst / closely related technical
+government recruitment exams.
+
+PGIMER BASELINE
+- Computer Programmer, CP/047, Group B
+- 100 MCQs / 100 minutes / 100 marks
+- English
+- -0.25 for wrong answers
+- No interview
+- PGIMER has not published a chapter-by-chapter CP/047 syllabus; its CBT guidance ties the
+  syllabus to the prescribed educational qualification/professional course.
+- Accordingly, papers below are evidence for the likely technical MCQ universe, not a claim that
+  every topic is guaranteed.
+
+============================================================
+TIER A — DIRECT / NEAR-DIRECT PROGRAMMER RECRUITMENT PAPERS
+============================================================
+
+[01] HIGH COURT OF MANIPUR — SYSTEM ANALYST AND COMPUTER PROGRAMMER
+Year: 2018
+Actual paper: 100 MCQs / 100 marks / 2 hours / -0.33
+DIRECT PDF:
+https://hcmimphal.nic.in/PreviousQuestions/technical%20manpower/SYSTEM%20ANALYST%20and%20COMPUTER%20PROGRAMMER%20PRELIM%20EXAM%202016.pdf
+Official archive:
+https://hcmimphal.nic.in/PreviousQuestions.html
+Relevance: A+
+Use: technical questions; skip the unrelated GK/current-affairs block.
+
+[02] HIGH COURT OF MADHYA PRADESH — SENIOR COMPUTER PROGRAMMER
+Year: 2018
+DIRECT PDF (questions + model answers):
+https://mphc.gov.in/PDF/web_pdf/RC/senior%20computer%20programmer%20model%20answer.pdf
+Relevance: A+
+Technical coverage includes Networking, Ubuntu/Linux, C, C++, Java, PHP, troubleshooting,
+MySQL/SQL/PostgreSQL.
+
+[03] HPPSC — PROGRAMMER
+Exam date: 23-Jun-2019
+DIRECT PDF (questions + final/revised key):
+https://www.hppsc.hp.gov.in/hppsc/WriteReadData/LINKS/Programmere706c5da-a0cc-4bf0-ac0a-8c33f56c5a30.pdf
+Relevance: A+
+Strong for: digital logic, number systems, data structures, compilers, algorithms, programming,
+CS fundamentals. The paper also contains GK near the end; ignore that part for PGIMER technical
+preparation.
+
+[04] HPPSC — ASSISTANT COMPUTER PROGRAMMER
+Exam date: 20-Jun-2019
+DIRECT PDF (questions + final/revised key):
+https://hppsc.hp.gov.in/hppsc/WriteReadData/LINKS/Assistant%20Computer%20Programmer5aef83cc-77af-4ff8-b7de-03e583eacbb7.pdf
+Relevance: A+
+Very useful for digital logic, number systems, programming fundamentals, discrete mathematics,
+and technical CS. The paper also has Himachal GK toward the end; ignore that for PGIMER.
+
+[05] HPPSC — COMPUTER PROGRAMMER, JAI SHAKTI VIBHAG
+Exam date: 23-Aug-2021
+DIRECT PDF (questions + final/revised key):
+https://hppsc.hp.gov.in/hppsc/WriteReadData/LINKS/Computer%20Programmer%20%20Jai%20Shakti%20Vibhag2278ef73-ecdc-45bc-b194-e1ae81b2a83f.pdf
+Relevance: A+
+Strong DBMS/SQL/database theory + systems/programming.
+
+[06] KERALA PSC — PROGRAMMER
+Exam date: 11-Jul-2024
+Question code: 84/2024/OL
+Official page:
+https://www.keralapsc.gov.in/programmer-kerala-public-service-commission-7
+Direct questions/provisional-key PDF:
+https://www.keralapsc.gov.in/sites/default/files/2024-07/84%2024%20Provl%20key%20Programmer.pdf
+Relevance: A+
+Actual Programmer recruitment paper.
+
+[07] KERALA PSC — SYSTEM ANALYST / COMPUTER PROGRAMMER / SYSTEM
+Exam date: 28-Jul-2025
+Question code: 93/2025
+Official question-paper page:
+https://keralapsc.gov.in/system-analyst-computer-programmersystem
+Official final key:
+https://www.keralapsc.gov.in/system-analyst-computer-programmersystem-0
+Relevance: A+
+Very recent exact Programmer-family recruitment.
+
+[08] KERALA PSC — SYSTEM ADMINISTRATOR / PROGRAMMER / SYSTEM ANALYST /
+     COMPUTER PROGRAMMER
+Exam date: 29-Oct-2022
+Question code: 103/2022
+Official page:
+https://www.keralapsc.gov.in/index.php/system-administrator-programmer-system-analyst-computer-programmer
+Relevance: A+
+Exact Programmer-family technical exam.
+
+[09] KERALA PSC — PROGRAMMER CUM OPERATOR
+Exam date: 06-Oct-2023
+Question code: 194/2023
+Official page:
+https://www.keralapsc.gov.in/programmer-cum-operator-kerala-state-co-operative-coir-marketing-federation-ltd
+Official OMR-answer-key index:
+https://www.keralapsc.gov.in/answerkey_omrexams?page=60&tid=All
+Relevance: A
+English; Programmer-family paper.
+
+[10] KERALA PSC — DEPUTY MANAGER (IT) / ASSISTANT PROGRAMMER / COMPUTER
+Exam date: 20-May-2026
+Question code: 050/2026
+Official question-paper page:
+https://www.keralapsc.gov.in/deputy-manager-itassistant-programmercomputer
+Official final-key page:
+https://www.keralapsc.gov.in/deputy-manager-itassistant-programmercomputer-0
+Official OMR index:
+https://www.keralapsc.gov.in/answerkey_omrexams?page=1&tid=126
+Relevance: A+
+Most recent Assistant Programmer-family paper located.
+
+[11] MEGHALAYA PSC — COMPUTER PROGRAMMER
+Exam: Computer Programmer in Planning, Investment Promotion & Sustainable Development Department
+May 2025 examination
+Official PYQ archive:
+https://www.mpsc.meghalaya.gov.in/pyq.html
+Official answer-key page:
+https://mpsc.meghalaya.gov.in/anskey.html
+Official final answer key:
+https://mpsc.meghalaya.gov.in/finalanswerkey/cp%20may%2025.pdf
+Relevance: A+
+Official site explicitly lists the Computer Programmer question booklet and final key.
+If the question-booklet click does not open directly in a browser, use the official PYQ/answer-key page.
+
+[12] RPSC — PROGRAMMER (INFORMATION TECHNOLOGY & COMMUNICATION DEPARTMENT)
+Exam: 2024
+Papers I + II
+Official previous-question-paper index:
+https://rpsc.rajasthan.gov.in/previousquestionpapers.aspx/Static/InformationForCandidates/Static/Others/innovations.pdf
+Official final key (Paper II):
+https://rpsc.rajasthan.gov.in/Static/AnswerKeys/8338C4B9-B638-4FF1-9B0B-B6BB756AB1AC.pdf
+Relevance: A
+The official index contains both Programmer 2024 Paper-I and Paper-II.
+
+[13] JKPSC — PROGRAMMER
+Official old-objective-paper archive:
+https://jkpsc.nic.in/static/forms/old_paper_Screening_test.html
+Relevance: A
+The official archive explicitly lists “Question Paper of the Objective Type Test of Programmer”.
+Use the Programmer paper only, not unrelated posts.
+
+[14] APPSC — COMPUTER PROGRAMMER 2021
+Official previous-year question paper archive:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+Relevance: A
+The official archive explicitly lists:
+- General English
+- General Knowledge and Mathematics
+- Technical Paper
+For PGIMER: TECHNICAL PAPER is the main target.
+
+[15] APPSC — COMPUTER PROGRAMMER 2019
+Official previous-year question paper archive:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+Relevance: A
+The official archive lists Computer Programmer-2019 with Computer Science Application,
+Elementary Mathematics, General English and General Knowledge.
+For PGIMER: prioritize COMPUTER SCIENCE APPLICATION.
+
+[16] APPSC — ASSISTANT PROGRAMMER 2021
+Official archive:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+Relevance: A
+The archive lists Computer Application + Technical Paper (Computer Science-Application), plus
+general sections.
+For PGIMER: use Computer Application + Technical Paper.
+
+[17] APPSC — ASSISTANT SYSTEM MANAGER 2021
+Official archive:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+Relevance: B+
+Archive lists:
+- Practical Programming and web Design
+- Technical Paper
+For PGIMER: use these two technical papers selectively.
+
+[18] SIKKIM PSC — PROGRAMMER
+Official Question Bank:
+https://spsc.sikkim.gov.in/Question_Bank.html
+The official SPSC Question Bank contains:
+Programmer — Paper I (General English & General Knowledge)
+Programmer — Paper II (Main Paper)
+Relevance: A
+For PGIMER: use the Programmer Main Paper, not the general paper.
+
+[19] SIKKIM PSC — ASSISTANT PROGRAMMER
+Official Question Bank:
+https://spsc.sikkim.gov.in/Question_Bank.html
+The official Question Bank contains:
+Assistant Programmer — Paper-I (General English & General Knowledge)
+Assistant Programmer — Main Written Exams Paper-II
+Relevance: A
+For PGIMER: use Main Paper-II.
+
+[20] SIKKIM PSC — SOFTWARE DEVELOPER
+DIRECT MAIN-PAPER PDF:
+https://spsc.sikkim.gov.in/Question%20Bank/SOFTWARE%20DEVELOPER%20%28PAPER%20II%29.pdf
+Relevance: B+
+The main paper contains 75 MCQs plus descriptive questions and negative marking.
+Use the objective technical questions only; do not use its descriptive sections as a model for
+PGIMER because PGIMER is MCQ-only.
+
+============================================================
+TIER B — ADDITIONAL TECHNICAL PAPERS THAT HELP COVER SPECIFIC PGIMER SUBJECTS
+============================================================
+
+[21] HPPSC — PROGRAMMER 2019
+Already listed as [03], but use specifically for:
+- Digital logic
+- Number systems
+- Data structures
+- Compiler basics
+- Algorithms
+- Programming
+- OS/architecture-type fundamentals
+
+[22] HPPSC — ASSISTANT COMPUTER PROGRAMMER 2019
+Already listed as [04], but use specifically for:
+- Boolean logic / gates
+- counters / flip-flops
+- number representation
+- discrete mathematics
+- programming fundamentals
+
+[23] HPPSC — COMPUTER PROGRAMMER 2021
+Already listed as [05], but use specifically for:
+- DBMS
+- functional dependencies
+- normalization
+- RAID
+- integrity constraints
+- SQL/database systems
+
+[24] MP HIGH COURT — SENIOR COMPUTER PROGRAMMER
+Already listed as [02], but use specifically for:
+- C
+- C++
+- Java
+- PHP
+- networking
+- Ubuntu/Linux
+- troubleshooting
+- MySQL/SQL/PostgreSQL
+
+[25] JKPSC — PROGRAMMER
+Official archive:
+https://jkpsc.nic.in/static/forms/old_paper_Screening_test.html
+Use specifically for:
+- core Programmer MCQs
+- screening-test style
+- mixed CS objective questions
+
+[26] SIKKIM PSC — DIGITAL PROJECT ANALYST / SOFTWARE DEVELOPER
+Official Question Bank:
+https://spsc.sikkim.gov.in/Question_Bank.html
+The same archive exposes main papers for Digital Project Analyst and Software Developer.
+Use only technical main papers.
+
+============================================================
+SUBJECT → WHICH PAPERS TO USE
+============================================================
+
+C PROGRAMMING
+Primary: [02], [03], [04], [06], [07], [08], [10], [14], [16]
+What to extract:
+variables, types, operators, precedence, functions, arrays, strings, pointers, structures,
+dynamic memory, recursion, storage classes, scope/lifetime, output tracing.
+
+DATA STRUCTURES
+Primary: [03], [06], [07], [08], [10], [14], [16], [18]
+Extract:
+arrays, linked lists, stacks, queues, trees, BST, heaps, hashing, graphs, BFS/DFS,
+traversals, operations and complexity.
+
+ALGORITHMS / COMPLEXITY
+Primary: [03], [06], [07], [12], [14], [18]
+Extract:
+Big-O, searching, sorting, recursion, divide-and-conquer, greedy, dynamic programming basics,
+graph algorithms and algorithm tracing.
+
+DBMS / SQL
+Primary: [02], [05], [06], [07], [08], [09], [10], [11], [12]
+This is one of the strongest recurring areas.
+Extract:
+keys, ER model, functional dependencies, normalization, relational algebra, SQL, joins,
+GROUP BY/HAVING, subqueries, transactions, ACID, concurrency, locks, indexes, recovery.
+
+OPERATING SYSTEMS
+Primary: [02], [03], [05], [06], [07], [08], [10], [12]
+Extract:
+process/thread, scheduling, synchronization, semaphores, deadlocks, memory management,
+paging/segmentation, virtual memory, file systems, system calls, Linux basics.
+
+COMPUTER NETWORKS
+Primary: [02], [06], [07], [08], [10], [18], [20]
+Extract:
+OSI/TCP-IP, TCP/UDP, IP, subnetting, DNS, DHCP, ARP, HTTP/HTTPS, FTP, SMTP,
+ports, routing/switching, network devices, congestion/security basics.
+
+C++ / OOP
+Primary: [02], [03], [06], [07], [08], [10], [18]
+Extract:
+class/object, encapsulation, abstraction, inheritance, polymorphism, constructors,
+destructors, overloading/overriding, virtual functions, exceptions.
+
+JAVA
+Primary: [02], [06], [07], [08], [10]
+Extract:
+classes, inheritance, interfaces/abstract classes, exceptions, runtime basics,
+language behavior. No advanced frameworks.
+
+COMPUTER ARCHITECTURE / ORGANIZATION
+Primary: [03], [04], [05], [07], [10]
+Extract:
+CPU, registers, ALU, instruction cycle, memory hierarchy, cache, addressing modes,
+I/O, interrupts, binary/hex/number representation.
+
+DIGITAL LOGIC
+Primary: [04], [03], [05]
+This deserves more attention than it did in my earlier list because the HPPSC Programmer and
+Assistant Computer Programmer papers show very concrete digital-logic/number-system MCQs.
+Extract:
+Boolean algebra, gates, K-map/switching expressions, counters, flip-flops, complements,
+number systems, basic combinational/sequential logic.
+
+SOFTWARE ENGINEERING
+Primary: [07], [08], [10], [18]
+Extract:
+SDLC, requirements, design, testing, maintenance, coupling/cohesion, software quality.
+
+SYSTEM ANALYSIS / DESIGN
+Primary: [01], [07], [08], [18]
+Extract:
+requirements, feasibility, DFD, flowcharts, data dictionary, modularity, implementation,
+maintenance, system life cycle.
+
+LINUX / TROUBLESHOOTING
+Primary: [02], [05], [07], [10]
+Extract:
+files, permissions, processes, users/groups, commands, packages, networking commands,
+basic troubleshooting.
+
+WEB / PHP / INTERNET
+Primary: [02], [17], [20], [26]
+Extract:
+HTTP, client/server, HTML/CSS/JS basics, sessions/cookies, server-side concepts,
+basic PHP, web-security fundamentals.
+
+DISCRETE MATHEMATICS FOR CS
+Primary: [04], [06], [07], [18]
+Extract:
+logic, sets, relations, functions, partial orders, graphs, basic counting.
+
+SECURITY
+Primary: [02], [07], [10], [20]
+Extract:
+authentication/authorization, hashing, encryption, digital signatures, malware,
+TLS/HTTPS, access control.
+
+============================================================
+THE HIGH-VALUE CORE
+============================================================
+
+For the one PGIMER vacancy, the study order should remain:
+
+S:
+1. C programming
+2. Data Structures
+3. Algorithms + Complexity
+4. DBMS + SQL
+5. Operating Systems
+6. Computer Networks
+
+A:
+7. C++ / OOP
+8. Java
+9. Computer Architecture / Organization
+10. Digital Logic
+11. Software Engineering
+12. System Analysis / Design
+
+B:
+13. Linux / Troubleshooting
+14. Web / PHP / Internet
+15. Discrete Mathematics
+16. Security
+
+I am deliberately NOT treating General English, generic GK/current affairs, typing, office
+software trivia, banking-computer-awareness questions, or unrelated maths as core PGIMER
+technical preparation.
+
+============================================================
+BANKING / ARCHIVE BACKUP SOURCES
+============================================================
+
+Kerala PSC official previous-paper archive:
+https://www.keralapsc.gov.in/previous-question-papers
+
+Kerala PSC official OMR archive:
+https://www.keralapsc.gov.in/answerkey_omrexams
+
+Meghalaya PSC PYQ archive:
+https://www.mpsc.meghalaya.gov.in/pyq.html
+
+Sikkim PSC Question Bank:
+https://spsc.sikkim.gov.in/Question_Bank.html
+
+APPSC previous-year papers:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+
+JKPSC old objective papers:
+https://jkpsc.nic.in/static/forms/old_paper_Screening_test.html
+
+High Court of Manipur previous questions:
+https://hcmimphal.nic.in/PreviousQuestions.html
+
+============================================================
+LINK STATUS / HONEST LIMITATION
+============================================================
+
+DIRECT PDFs I located include:
+- High Court of Manipur Programmer/System Analyst 2018
+- MP High Court Senior Computer Programmer 2018
+- HPPSC Programmer 2019
+- HPPSC Assistant Computer Programmer 2019
+- HPPSC Computer Programmer, Jai Shakti Vibhag 2021
+- Kerala PSC Programmer 2024
+- Sikkim PSC Software Developer Paper II
+
+Other official commissions expose the actual paper through a question-paper button on an official
+archive page rather than a stable indexed attachment URL. In those cases, this file provides the
+official paper page instead of fabricating a PDF URL.
+
+IMPORTANT:
+A few archived papers contain a mixture of technical questions and state-specific GK/general
+sections. Those papers are still in the bank, but only their technical Computer Science sections
+should influence the PGIMER study plan.
+
+NEXT DATASET TO BUILD
+The ideal next step is not simply another list of links. It is to turn this bank into a
+QUESTION-LEVEL DATABASE:
+paper -> question -> subject -> topic -> difficulty -> MCQ type -> correct answer -> recurrence.
+That will let us calculate which topics have appeared repeatedly across Programmer recruitments
+and build a much tighter PGIMER 90-95+ preparation plan.

@@ -1,0 +1,625 @@
+PGIMER COMPUTER PROGRAMMER CP/047
+TARGETED QUESTION-PAPER / SUBJECT RESEARCH PACK
+Research date: 6 September 2026
+
+MISSION
+The goal is NOT to collect every computer-related government paper.
+The goal is to collect papers that can help predict and train for the PGIMER
+Computer Programmer Group-B CBT.
+
+PGIMER FACTS THAT CONTROL THIS RESEARCH
+- Post: Computer Programmer, CP/047, Group B, PGI Satellite Centre, Sangrur
+- Selection: 100 MCQs, 100 minutes, 100 marks
+- English only
+- Negative marking: 0.25 per wrong answer
+- No interview
+- PGIMER's published syllabus language says the CBT follows the prescribed
+  educational qualification / professional course and experience and may include
+  subjects/topics studied or practiced during that qualification/course.
+- PGIMER's Computer Programmer recruitment rules specify:
+  A) Master's in Statistics/Mathematics (with Statistics)/Operation Research/Physics
+     OR Degree in Engineering/Computer Science or equivalent
+  B) One year actual programming on an electronic computer / operation experience
+  OR the alternative 7-year science-degree route.
+- Desirable: formal training in programming/system design/analysis; knowledge of
+  one or more programming languages.
+
+CRITICAL CONSEQUENCE
+PGIMER has NOT published a chapter-by-chapter subject list for CP/047.
+Therefore no honest researcher can state that a particular topic is guaranteed.
+This pack uses:
+1) PGIMER's own recruitment rules and syllabus statement, and
+2) actual Programmer / Computer Programmer / System Analyst recruitment papers
+to build the highest-confidence subject universe.
+
+============================================================
+A. HIGHEST-VALUE REAL PROGRAMMER PAPERS
+============================================================
+
+1. HIGH COURT OF MANIPUR
+Post: System Analyst and Computer Programmer
+Paper: Preliminary Recruitment Examination
+Year: 2018 (the PDF file path contains 2016, but the booklet itself states 2018)
+Format: 100 MCQs, 100 marks, 2 hours, -0.33
+DIRECT PDF:
+https://hcmimphal.nic.in/PreviousQuestions/technical%20manpower/SYSTEM%20ANALYST%20and%20COMPUTER%20PROGRAMMER%20PRELIM%20EXAM%202016.pdf
+OFFICIAL PAPER INDEX:
+https://hcmimphal.nic.in/PreviousQuestions.html
+Use: A+ benchmark for Programmer-level MCQs.
+Filter out GK/current-affairs questions; retain technical CS questions.
+
+2. HIGH COURT OF MADHYA PRADESH
+Post: Senior Computer Programmer
+Year: 2018
+DIRECT QUESTIONS + MODEL ANSWERS PDF:
+https://mphc.gov.in/PDF/web_pdf/RC/senior%20computer%20programmer%20model%20answer.pdf
+Technical areas explicitly present in the paper:
+- Computer Networking
+- Ubuntu / Linux
+- C
+- C++
+- Java
+- PHP
+- Computer troubleshooting
+- MySQL / SQL / PostgreSQL
+- programming and computer fundamentals
+Use: A+ benchmark; especially good for programming/DB/network/Linux.
+
+3. KERALA PSC
+Post: System Analyst / Computer Programmer / System
+Question code: 93/2025
+Test: 28-Jul-2025
+Medium: English
+Official page:
+https://keralapsc.gov.in/system-analyst-computer-programmersystem
+Official final-key page:
+https://www.keralapsc.gov.in/system-analyst-computer-programmersystem-0
+Official OMR answer-key index:
+https://keralapsc.gov.in/answerkey_omrexams?page=11&tid=126
+Use: A+ recent Programmer-family benchmark.
+
+4. KERALA PSC
+Post: System Administrator / Programmer / System Analyst / Computer Programmer
+Question code: 103/2022
+Test: 29-Oct-2022
+Medium: English
+Official paper page:
+https://www.keralapsc.gov.in/index.php/system-administrator-programmer-system-analyst-computer-programmer
+Official OMR index:
+https://www.keralapsc.gov.in/index.php/answerkey_omrexams?page=86&tid=All
+Use: A+ Programmer-family benchmark.
+
+5. KERALA PSC
+Post: System Analyst / Programmer
+Question code: 17/2019/OL
+Test: 25-May-2019
+Medium: English
+DIRECT OFFICIAL ANSWER-KEY PDF CONTAINING THE ACTUAL QUESTIONS:
+https://www.keralapsc.gov.in/sites/default/files/2019-07/fans.pdf
+Official answer-key index:
+https://www.keralapsc.gov.in/index.php/answerkey_onlineexams?page=79&tid=All
+The indexed PDF includes the full question text plus correct answers.
+IMPORTANT: This particular paper contains substantial GK/current-affairs material.
+For PGIMER, extract the technical Computer Programmer/System Analyst questions and ignore
+the unrelated GK/current-affairs block.
+
+6. KERALA PSC
+Post: Programmer
+Question code: 84/2024/OL
+Test: 11-Jul-2024
+DIRECT OFFICIAL QUESTIONS/PROVISIONAL-KEY PDF:
+https://www.keralapsc.gov.in/sites/default/files/2024-07/84%2024%20Provl%20key%20Programmer.pdf
+Use: A Programmer recruitment paper. Excellent for MCQ practice.
+
+7. KERALA PSC
+Post: Deputy Manager (IT) / Assistant Programmer / Computer
+Question code: 050/2026
+Test: 20-May-2026
+Official page:
+https://www.keralapsc.gov.in/deputy-manager-itassistant-programmercomputer
+Official OMR index:
+https://www.keralapsc.gov.in/index.php/answerkey_omrexams?page=1&tid=126
+Use: A+ recent Assistant Programmer-family benchmark.
+
+8. RPSC
+Post: Programmer (Information Technology & Communication Department)
+Year: 2024
+Paper I + Paper II
+Official previous-question-paper listing:
+https://rpsc.rajasthan.gov.in/previousquestionpapers.aspx/Static/InformationForCandidates/Static/Others/innovations.pdf
+Official final answer key (Paper II):
+https://rpsc.rajasthan.gov.in/Static/AnswerKeys/8338C4B9-B638-4FF1-9B0B-B6BB756AB1AC.pdf
+Official listing confirms both Programmer 2024 Paper-I and Paper-II.
+Use: A benchmark for dedicated government Programmer recruitment.
+
+9. APPSC
+Post: Computer Programmer
+Year: 2019
+Official previous-year question papers:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+The official index explicitly lists:
+COMPUTER PROGRAMMER-2019
+- COMPUTER SCIENCE APPLICATION
+- ELEMENTARY MATHEMATICS
+- GENERAL ENGLISH AND GENERAL KNOWLEDGE
+For PGIMER: use COMPUTER SCIENCE APPLICATION only as the core technical source.
+
+10. APPSC
+Post: Computer Programmer
+Year: 2021
+Official previous-year question papers:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+The official index explicitly lists:
+COMPUTER PROGRAMMER-2021
+- General English
+- General Knowledge and Mathematics
+- Technical Paper
+For PGIMER: use TECHNICAL PAPER only.
+
+11. APPSC
+Post: Assistant Programmer
+Year: 2021
+Official previous-year question papers:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+The official index explicitly lists:
+- Computer Application
+- General English
+- General Knowledge and Elementary Mathematics
+- Technical Paper (Computer Science-Application)
+For PGIMER: prioritize COMPUTER APPLICATION + TECHNICAL PAPER.
+
+12. APPSC
+Post: Assistant System Manager
+Year: 2021
+Official previous-year question papers:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+The official index lists:
+- Practical Programming and Web Design
+- Technical Paper
+- General English
+- General Knowledge
+For PGIMER: use PRACTICAL PROGRAMMING AND WEB DESIGN + TECHNICAL PAPER.
+This is useful for web/programming coverage, but it is less direct than the dedicated Programmer
+papers.
+
+============================================================
+B. SUBJECT-BY-SUBJECT COVERAGE WE SHOULD EXTRACT
+============================================================
+
+SUBJECT 1 — C PROGRAMMING
+Priority: VERY HIGH
+
+Relevant real papers:
+- MP High Court Senior Computer Programmer 2018
+- Kerala PSC 2019 System Analyst/Programmer
+- Kerala PSC 2024 Programmer
+- Kerala PSC 2025 Programmer/System Analyst
+- Kerala PSC 2022 Programmer-family
+- APPSC Computer Programmer / Assistant Programmer technical papers
+
+What to prepare from these papers:
+- data types and storage
+- operators and precedence
+- expressions
+- if/else, switch, loops
+- functions
+- parameter passing
+- arrays
+- strings
+- pointers
+- pointer arithmetic
+- structures/unions
+- dynamic allocation
+- recursion
+- storage classes
+- scope/lifetime
+- output tracing
+- undefined/implementation-dependent behavior where relevant
+
+Exam style:
+Expect conceptual MCQs plus code-output / tracing questions.
+Practical coding projects are NOT the priority.
+
+SUBJECT 2 — DATA STRUCTURES
+Priority: VERY HIGH
+
+Relevant sources:
+- Kerala Programmer papers
+- APPSC technical Computer Programmer papers
+- RPSC Programmer
+- Computer Programmer/System Analyst papers above
+
+Prepare:
+- arrays vs linked lists
+- singly/doubly/circular linked lists
+- stack
+- queue / circular queue
+- deque
+- trees / BST
+- heap
+- hashing
+- graph representation
+- BFS / DFS
+- traversal
+- common operations and complexity
+
+SUBJECT 3 — ALGORITHMS + COMPLEXITY
+Priority: VERY HIGH
+
+Prepare:
+- Big-O / Big-Theta / Big-Omega basics
+- best/average/worst case
+- linear/binary search
+- bubble/selection/insertion/merge/quick/heap sorting
+- stability
+- divide-and-conquer
+- greedy
+- dynamic programming basics
+- recursion complexity
+- graph algorithms basics
+
+SUBJECT 4 — DBMS + SQL
+Priority: VERY HIGH
+
+Direct evidence:
+MP High Court Senior Computer Programmer explicitly includes MySQL, SQL and PostgreSQL.
+Programmer-family papers repeatedly include database concepts.
+
+Prepare:
+- DBMS vs RDBMS
+- data models
+- ER diagrams
+- entities/attributes/relationships
+- keys
+- functional dependencies
+- normalization (1NF, 2NF, 3NF, BCNF)
+- relational algebra basics
+- SQL SELECT
+- WHERE
+- ORDER BY
+- GROUP BY / HAVING
+- joins
+- subqueries
+- aggregate functions
+- INSERT/UPDATE/DELETE
+- views
+- indexes
+- transactions
+- ACID
+- concurrency
+- locking
+- deadlock
+- recovery
+- basic MySQL/PostgreSQL behavior
+
+SUBJECT 5 — OPERATING SYSTEMS
+Priority: VERY HIGH
+
+Prepare:
+- process vs thread
+- process states
+- PCB
+- scheduling
+- FCFS/SJF/RR/Priority
+- scheduling calculations
+- synchronization
+- race conditions
+- semaphores
+- mutex
+- critical section
+- deadlock and avoidance
+- memory management
+- paging
+- segmentation
+- virtual memory
+- page replacement
+- thrashing
+- file systems
+- permissions
+- system calls
+- basic Linux/Unix concepts
+
+SUBJECT 6 — COMPUTER NETWORKS
+Priority: VERY HIGH
+
+Strong direct evidence:
+MP High Court Senior Computer Programmer paper explicitly contains Networking.
+
+Prepare:
+- OSI model
+- TCP/IP model
+- TCP vs UDP
+- IP addressing
+- subnetting
+- IPv4/IPv6 basics
+- ARP
+- ICMP
+- DNS
+- DHCP
+- HTTP/HTTPS
+- FTP
+- SMTP/POP/IMAP
+- ports
+- switching
+- routing basics
+- LAN/WAN
+- network devices
+- error/flow/congestion basics
+- basic network security
+
+SUBJECT 7 — OOP + C++ + JAVA
+Priority: HIGH
+
+Strong direct evidence:
+MP High Court Senior Computer Programmer explicitly contains C++ and Java.
+
+Prepare:
+- class/object
+- encapsulation
+- abstraction
+- inheritance
+- polymorphism
+- constructors/destructors
+- overloading vs overriding
+- virtual functions
+- interfaces/abstract classes
+- access control
+- exceptions
+- memory/reference behavior
+- basic Java language/runtime concepts
+- basic C++ language behavior
+
+Do not spend time becoming advanced in frameworks.
+
+SUBJECT 8 — COMPUTER ARCHITECTURE / ORGANIZATION
+Priority: HIGH-MEDIUM
+
+Prepare:
+- CPU components
+- ALU/control unit/registers
+- instruction cycle
+- memory hierarchy
+- cache
+- RAM/ROM
+- addressing modes
+- interrupts
+- I/O
+- buses
+- number representation
+- binary/hex
+- complement arithmetic
+- basic performance measures
+
+SUBJECT 9 — SOFTWARE ENGINEERING
+Priority: MEDIUM-HIGH
+
+Prepare:
+- SDLC
+- waterfall
+- iterative/agile basics
+- requirements
+- feasibility
+- design
+- coding
+- testing
+- verification/validation
+- unit/integration/system testing
+- maintenance
+- coupling/cohesion
+- software quality
+- basic project metrics
+
+SUBJECT 10 — SYSTEM ANALYSIS / DESIGN
+Priority: MEDIUM-HIGH
+
+This is especially justified because the closest papers are titled
+System Analyst / Programmer / Computer Programmer.
+
+Prepare:
+- system investigation
+- requirement analysis
+- DFD
+- flowcharts
+- data dictionaries
+- structured analysis/design
+- feasibility
+- modularity
+- system life cycle
+- implementation/conversion
+- maintenance
+
+SUBJECT 11 — LINUX / COMPUTER TROUBLESHOOTING
+Priority: MEDIUM
+
+Strong direct evidence:
+MP High Court paper includes Ubuntu/Linux and troubleshooting.
+
+Prepare:
+- basic shell commands
+- files/directories
+- permissions
+- processes
+- users/groups
+- package/basic system concepts
+- networking commands
+- common troubleshooting concepts
+- boot/service basics
+
+SUBJECT 12 — WEB / INTERNET / PHP
+Priority: MEDIUM
+
+Evidence:
+MP High Court includes PHP.
+APPSC 2021 Assistant System Manager explicitly has Practical Programming and Web Design.
+
+Prepare:
+- HTTP request/response
+- client/server
+- HTML basics
+- CSS basics
+- JavaScript basics
+- forms
+- cookies/sessions
+- server-side concepts
+- basic PHP syntax/concepts
+- web security basics
+
+Do NOT make advanced web development a major study block.
+
+SUBJECT 13 — DISCRETE MATHEMATICS FOR CS
+Priority: MEDIUM
+
+Evidence:
+Programmer papers can contain logic/sets/relations and similar CS-math questions.
+
+Prepare:
+- propositions
+- logical operators
+- truth tables
+- implication/equivalence
+- sets
+- relations
+- functions
+- partial orders
+- graphs
+- counting basics
+
+SUBJECT 14 — DIGITAL LOGIC / NUMBER SYSTEMS
+Priority: MEDIUM-LOW
+
+Prepare:
+- Boolean algebra
+- gates
+- truth tables
+- simplification
+- binary/octal/decimal/hex conversions
+- complements
+- basic combinational/sequential logic
+
+SUBJECT 15 — COMPUTER SECURITY
+Priority: MEDIUM-LOW
+
+Prepare:
+- authentication/authorization
+- hashing vs encryption
+- symmetric/asymmetric encryption
+- digital signatures
+- malware
+- common attacks
+- HTTPS/TLS basics
+- access control
+
+============================================================
+C. TOPIC IMPORTANCE FOR OUR PGIMER PLAN
+============================================================
+
+TIER S — MUST MASTER
+1. C programming
+2. Data structures
+3. Algorithms + complexity
+4. DBMS + SQL
+5. Operating systems
+6. Computer networks
+
+TIER A — STRONG
+7. C++ / OOP
+8. Java
+9. Computer architecture/organization
+10. Software engineering
+11. System analysis/design
+
+TIER B — IMPORTANT BUT SMALLER
+12. Linux / troubleshooting
+13. Web / PHP / Internet
+14. Discrete mathematics for CS
+15. Digital logic
+16. Security
+
+WHY THIS ORDER
+It is based on the repeated technical content seen in actual Programmer-family recruitment papers
+and on the nature of the PGIMER qualification rule, rather than on a generic B.Tech syllabus.
+
+============================================================
+D. WHAT NOT TO WASTE TIME ON
+============================================================
+
+Unless PGIMER later publishes an explicit separate syllabus requiring them:
+- General current affairs
+- broad GK
+- general English
+- banking computer awareness
+- office productivity trivia
+- typing speed
+- unrelated elementary mathematics
+- unrelated subject papers
+
+Some Programmer recruitment papers contain GK/English because those commissions use a mixed
+recruitment scheme. PGIMER's own notice does not establish those as CP/047 technical subjects.
+
+============================================================
+E. IMPORTANT PRIMARY SOURCES
+============================================================
+
+PGIMER recruitment rules:
+https://pgimer.edu.in/PGIMER_PORTAL/AbstractFilePath?FileName=Recruitment+Rules+for+non-faculty+employees+under+7th+CPC.pdf&FileType=E&PathKey=EDITORREPOSITORY_PATH
+
+PGIMER recruitment/syllabus guidance:
+https://pgimer.edu.in/PGIMER_PORTAL/AbstractFilePath?FileName=guidelines+03Jul2025164133.pdf&FileType=E&PathKey=VACANCY_PATH
+
+Kerala PSC 2025 Programmer-family:
+https://keralapsc.gov.in/system-analyst-computer-programmersystem
+
+Kerala PSC 2022 Programmer-family:
+https://www.keralapsc.gov.in/index.php/system-administrator-programmer-system-analyst-computer-programmer
+
+Kerala PSC 2019 System Analyst/Programmer actual-question PDF:
+https://www.keralapsc.gov.in/sites/default/files/2019-07/fans.pdf
+
+Kerala PSC 2024 Programmer actual-question PDF:
+https://www.keralapsc.gov.in/sites/default/files/2024-07/84%2024%20Provl%20key%20Programmer.pdf
+
+Kerala PSC 2026 Assistant Programmer-family:
+https://www.keralapsc.gov.in/deputy-manager-itassistant-programmercomputer
+
+RPSC Programmer 2024 paper listing:
+https://rpsc.rajasthan.gov.in/previousquestionpapers.aspx/Static/InformationForCandidates/Static/Others/innovations.pdf
+
+RPSC Programmer 2024 Paper-II answer key:
+https://rpsc.rajasthan.gov.in/Static/AnswerKeys/8338C4B9-B638-4FF1-9B0B-B6BB756AB1AC.pdf
+
+APPSC previous-year question papers:
+https://appsc.gov.in/Index/common_sub_page/doc41138/Previous_Year_Questions
+
+High Court of Manipur previous papers:
+https://hcmimphal.nic.in/PreviousQuestions.html
+
+High Court of Manipur Programmer paper:
+https://hcmimphal.nic.in/PreviousQuestions/technical%20manpower/SYSTEM%20ANALYST%20and%20COMPUTER%20PROGRAMMER%20PRELIM%20EXAM%202016.pdf
+
+MP High Court Senior Computer Programmer:
+https://mphc.gov.in/PDF/web_pdf/RC/senior%20computer%20programmer%20model%20answer.pdf
+
+NIEPA Computer Programmer archive:
+https://www.niepa.ac.in/NT_Archives
+
+NIEPA Computer Programmer syllabus (use as a secondary benchmark only; its recruitment also has
+a practical skill stage, unlike PGIMER):
+https://www.niepa.ac.in/download/Recruitment/2024/cp/Syllabus_Computer_Programmer.pdf
+
+============================================================
+F. FINAL WARNING
+============================================================
+
+Do NOT interpret this file as saying "these 16 subjects are officially guaranteed."
+The PGIMER notice does not publish that exact chapter list. These are the highest-confidence
+subjects to prepare because the official PGIMER qualification/syllabus framework points to the
+professional course and the actual government Programmer-family papers repeatedly test them.
+
+For a one-vacancy exam, the correct strategy is:
+official PGIMER document -> relevant past Programmer papers -> question frequency analysis ->
+topic priority -> MCQ training -> timed mocks.
+
+The next research step should be a QUESTION-LEVEL DATABASE:
+extract the technical questions from these papers, tag each question by subject/topic,
+count recurrence, difficulty, and question type, and use that to create the exact PGIMER
+study-weight map.
