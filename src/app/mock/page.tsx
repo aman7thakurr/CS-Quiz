@@ -4,24 +4,46 @@ import { MockConfigForm } from "./mock-config-form";
 export const dynamic = "force-dynamic";
 
 export default async function MockConfigPage() {
-  const [subjects, activeQuestionCount] = await Promise.all([
-    prisma.subject.findMany({
-      where: { isActive: true },
-      orderBy: { order: "asc" },
-      include: {
-        _count: { select: { questions: { where: { status: "ACTIVE" } } } },
-      },
-    }),
-    prisma.question.count({ where: { status: "ACTIVE" } }),
-  ]);
+  type SubjectItem = Awaited<ReturnType<typeof prisma.subject.findMany<{
+    include: {
+      _count: { select: { questions: { where: { status: "ACTIVE" } } } };
+    };
+  }>>>[number];
+
+  let subjects: SubjectItem[] = [];
+  let activeQuestionCount = 0;
+  let dbError: string | null = null;
+
+  try {
+    const [s, count] = await Promise.all([
+      prisma.subject.findMany({
+        where: { isActive: true },
+        orderBy: { order: "asc" },
+        include: {
+          _count: { select: { questions: { where: { status: "ACTIVE" } } } },
+        },
+      }),
+      prisma.question.count({ where: { status: "ACTIVE" } }),
+    ]);
+    subjects = s;
+    activeQuestionCount = count;
+  } catch (err: unknown) {
+    dbError = err instanceof Error ? err.message : "Database not ready";
+  }
 
   return (
     <div className="max-w-3xl mx-auto space-y-8 animate-fadeIn">
+      {dbError && (
+        <div className="bg-amber-50 border border-amber-300 rounded-xl p-4 text-xs text-amber-900">
+          <p className="font-bold">⚠️ Database Initialization Notice</p>
+          <p className="mt-0.5 text-amber-700">Database tables are being initialized ({dbError}).</p>
+        </div>
+      )}
       {/* Header */}
       <div>
         <h1 className="text-3xl font-bold text-slate-900">CBT Mock Test</h1>
         <p className="text-slate-500 mt-1">
-          Simulate the real Computer Programmer CBT exam
+          Simulate the real Computer Science CBT exam
         </p>
       </div>
 

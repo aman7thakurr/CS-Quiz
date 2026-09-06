@@ -48,29 +48,54 @@ export default async function BankPage({ searchParams }: BankPageProps) {
     where.status = statusFilter;
   }
 
-  const [questions, totalCount, subjects] = await Promise.all([
-    prisma.question.findMany({
-      where,
-      include: {
-        subject: { select: { name: true, slug: true } },
-        topic: { select: { name: true } },
-      },
-      orderBy: { createdAt: "desc" },
-      skip: (page - 1) * perPage,
-      take: perPage,
-    }),
-    prisma.question.count({ where }),
-    prisma.subject.findMany({
-      where: { isActive: true },
-      orderBy: { order: "asc" },
-      select: { id: true, name: true },
-    }),
-  ]);
+  type QuestionItem = Awaited<ReturnType<typeof prisma.question.findMany<{
+    include: {
+      subject: { select: { name: true; slug: true } };
+      topic: { select: { name: true } };
+    };
+  }>>>[number];
+
+  let questions: QuestionItem[] = [];
+  let totalCount = 0;
+  let subjects: { id: string; name: string }[] = [];
+  let dbError: string | null = null;
+
+  try {
+    const [q, tc, s] = await Promise.all([
+      prisma.question.findMany({
+        where,
+        include: {
+          subject: { select: { name: true, slug: true } },
+          topic: { select: { name: true } },
+        },
+        orderBy: { createdAt: "desc" },
+        skip: (page - 1) * perPage,
+        take: perPage,
+      }),
+      prisma.question.count({ where }),
+      prisma.subject.findMany({
+        where: { isActive: true },
+        orderBy: { order: "asc" },
+        select: { id: true, name: true },
+      }),
+    ]);
+    questions = q;
+    totalCount = tc;
+    subjects = s;
+  } catch (err: unknown) {
+    dbError = err instanceof Error ? err.message : "Database connection failed";
+  }
 
   const totalPages = Math.ceil(totalCount / perPage);
 
   return (
     <div className="space-y-6 animate-fadeIn">
+      {dbError && (
+        <div className="bg-amber-50 border border-amber-300 rounded-xl p-4 text-xs text-amber-900">
+          <p className="font-bold">⚠️ Database Initialization Notice</p>
+          <p className="mt-0.5 text-amber-700">Database tables are being initialized ({dbError}).</p>
+        </div>
+      )}
       {/* Header */}
       <div className="flex items-center justify-between">
         <div>

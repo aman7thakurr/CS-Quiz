@@ -1,6 +1,6 @@
-# CBT Trainer — Punjab Government Computer Programmer (Group B) Exam
+# CBT Trainer — Computer Science CBT Mock Exam Practice
 
-**CBT Trainer** is a high-performance, personal exam-practice and simulation platform designed specifically for the **Punjab Government Group B — Computer Programmer** recruitment Computer Based Test (CBT).
+**CBT Trainer** is a high-performance, personal exam-practice and simulation platform designed for Computer Science recruitment and competitive Computer Based Tests (CBT).
 
 The application replicates the official exam environment, implements the exact negative marking mathematics, provides instant-feedback practice modes, and includes an AI-powered pipeline to generate grounded Multiple Choice Questions (MCQs) from previous year question papers (PYQs) and syllabus PDFs.
 

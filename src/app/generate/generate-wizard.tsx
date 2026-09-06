@@ -530,7 +530,7 @@ export function GenerateWizard({ subjects }: GenerateWizardProps) {
                 type="text"
                 value={sourceLabel}
                 onChange={(e) => setSourceLabel(e.target.value)}
-                placeholder="e.g. PYQ 2023 - Computer Programmer, Chapter 4 Notes"
+                placeholder="e.g. PYQ 2023 - Computer Science, Chapter 4 Notes"
                 className="w-full px-3 py-2 border border-slate-300 rounded-lg text-sm bg-white focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
               <p className="text-[11px] text-slate-400 mt-1">

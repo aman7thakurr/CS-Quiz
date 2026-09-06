@@ -3,9 +3,9 @@ import "./globals.css";
 import { Sidebar } from "@/components/nav/sidebar";
 
 export const metadata: Metadata = {
-  title: "CBT Trainer — Computer Programmer Exam Practice",
+  title: "CBT Trainer — Computer Science Exam Practice",
   description:
-    "Personal CBT mock-test trainer for Punjab Government Group B Computer Programmer recruitment exam. Practice with AI-generated MCQs, full mock tests, and detailed analytics.",
+    "Personal CBT mock-test trainer for Computer Science recruitment and competitive exams. Practice with AI-generated MCQs, full mock tests, and detailed analytics.",
 };
 
 export default function RootLayout({

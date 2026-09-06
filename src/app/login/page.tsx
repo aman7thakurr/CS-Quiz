@@ -22,7 +22,7 @@ export default async function LoginPage({ searchParams }: LoginPageProps) {
           </div>
           <h1 className="text-2xl font-bold text-slate-900">CBT Trainer</h1>
           <p className="text-xs text-slate-500">
-            Punjab Government Group B — Computer Programmer
+            Computer Science Exam Practice Portal
           </p>
         </div>
 

@@ -22,7 +22,7 @@ export async function proxy(request: NextRequest) {
 
   const sessionToken = request.cookies.get("cbt_session")?.value;
 
-  const secret = process.env.AUTH_SECRET || "cbt-trainer-punjab-group-b-exam-secret";
+  const secret = process.env.AUTH_SECRET || "cbt-trainer-exam-secret";
   const encoder = new TextEncoder();
   const data = encoder.encode(passcode + ":" + secret);
   const hashBuffer = await crypto.subtle.digest("SHA-256", data);

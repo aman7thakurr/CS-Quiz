@@ -4,26 +4,48 @@ import { PracticeConfigForm } from "./practice-config-form";
 export const dynamic = "force-dynamic";
 
 export default async function PracticePage() {
-  const subjects = await prisma.subject.findMany({
-    where: { isActive: true },
-    orderBy: { order: "asc" },
+  type SubjectItem = Awaited<ReturnType<typeof prisma.subject.findMany<{
     include: {
-      topics: { orderBy: { name: "asc" } },
-      _count: { select: { questions: { where: { status: "ACTIVE" } } } },
-    },
-  });
+      topics: { orderBy: { name: "asc" } };
+      _count: { select: { questions: { where: { status: "ACTIVE" } } } };
+    };
+  }>>>[number];
 
-  // Count weak questions
-  const allQuestions = await prisma.question.findMany({
-    where: { status: "ACTIVE", timesUsed: { gt: 0 } },
-    select: { timesUsed: true, timesCorrect: true },
-  });
-  const weakCount = allQuestions.filter(
-    (q) => q.timesCorrect / q.timesUsed < 0.5
-  ).length;
+  let subjects: SubjectItem[] = [];
+  let weakCount = 0;
+  let dbError: string | null = null;
+
+  try {
+    const s = await prisma.subject.findMany({
+      where: { isActive: true },
+      orderBy: { order: "asc" },
+      include: {
+        topics: { orderBy: { name: "asc" } },
+        _count: { select: { questions: { where: { status: "ACTIVE" } } } },
+      },
+    });
+    subjects = s;
+
+    // Count weak questions
+    const allQuestions = await prisma.question.findMany({
+      where: { status: "ACTIVE", timesUsed: { gt: 0 } },
+      select: { timesUsed: true, timesCorrect: true },
+    });
+    weakCount = allQuestions.filter(
+      (q) => q.timesCorrect / q.timesUsed < 0.5
+    ).length;
+  } catch (err: unknown) {
+    dbError = err instanceof Error ? err.message : "Database connection failed";
+  }
 
   return (
     <div className="max-w-3xl mx-auto space-y-6 animate-fadeIn">
+      {dbError && (
+        <div className="bg-amber-50 border border-amber-300 rounded-xl p-4 text-xs text-amber-900">
+          <p className="font-bold">⚠️ Database Initialization Notice</p>
+          <p className="mt-0.5 text-amber-700">Database tables are being initialized ({dbError}).</p>
+        </div>
+      )}
       <div>
         <h1 className="text-2xl font-bold text-slate-900">Practice Mode</h1>
         <p className="text-slate-500 mt-1">

@@ -69,7 +69,7 @@ function buildSystemPrompt(
   topic: string | undefined,
   difficulty: string
 ): string {
-  return `You are an expert exam question creator for the Punjab Government Group B Computer Programmer recruitment CBT exam.
+  return `You are an expert exam question creator for Computer Science CBT competitive examinations.
 Your task is to generate exactly ${count} high-quality, technically accurate single-answer Multiple Choice Questions (MCQs) for the subject "${subject}"${
     topic ? ` and topic "${topic}"` : ""
   }.

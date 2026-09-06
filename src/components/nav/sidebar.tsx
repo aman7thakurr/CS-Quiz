@@ -77,7 +77,7 @@ export function Sidebar() {
             </div>
             <div>
               <h1 className="font-bold text-lg leading-tight">CBT Trainer</h1>
-              <p className="text-xs text-blue-300/80">Computer Programmer</p>
+              <p className="text-xs text-blue-300/80">CS Exam Practice</p>
             </div>
           </Link>
           <button
