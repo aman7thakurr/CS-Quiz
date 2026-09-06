@@ -4,11 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "prisma generate && node scripts/init-db.js && next build",
+    "build": "prisma generate && node scripts/init-db.js && npm run seed:pgimer && next build",
     "start": "next start",
     "lint": "eslint",
     "test:scoring": "ts-node scripts/test-scoring.ts",
-    "seed": "ts-node prisma/seed.ts",
+    "seed": "ts-node prisma/seed.ts && npm run seed:pgimer",
+    "seed:pgimer": "ts-node scripts/seed-pgimer.ts",
     "postinstall": "prisma generate"
   },
   "prisma": {
