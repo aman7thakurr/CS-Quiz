@@ -77,7 +77,7 @@ export function Sidebar() {
             </div>
             <div>
               <h1 className="font-bold text-lg leading-tight">CBT Trainer</h1>
-              <p className="text-xs text-blue-300/80">CS Exam Practice</p>
+              <p className="text-xs text-blue-300/80">PGIMER CP/047 Prep</p>
             </div>
           </Link>
           <button
@@ -124,7 +124,7 @@ export function Sidebar() {
           <div className="bg-white/5 rounded-lg p-3 text-xs text-slate-400 space-y-1">
             <p className="font-medium text-slate-300">Exam Format</p>
             <p>100 MCQs × 1 mark = 100 marks</p>
-            <p>120 min • +1 / −0.25 / 0</p>
+            <p>100 min • +1 / −0.25 / 0</p>
           </div>
         </div>
       </aside>

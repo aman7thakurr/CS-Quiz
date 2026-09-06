@@ -15,7 +15,7 @@ export function MockConfigForm({ subjects, maxQuestions }: MockConfigFormProps) 
   const [questionCount, setQuestionCount] = useState(
     Math.min(100, maxQuestions)
   );
-  const [durationMinutes, setDurationMinutes] = useState(120);
+  const [durationMinutes, setDurationMinutes] = useState(100);
   const [selectedSubjects, setSelectedSubjects] = useState<string[]>([]);
   const [selectedDifficulties, setSelectedDifficulties] = useState<string[]>(
     []
@@ -106,8 +106,8 @@ export function MockConfigForm({ subjects, maxQuestions }: MockConfigFormProps) 
           <Clock className="w-4 h-4" />
           Duration (minutes)
         </label>
-        <div className="flex gap-2">
-          {[30, 60, 90, 120, 150, 180].map((m) => (
+        <div className="flex flex-wrap gap-2">
+          {[30, 60, 90, 100, 120].map((m) => (
             <button
               key={m}
               onClick={() => setDurationMinutes(m)}

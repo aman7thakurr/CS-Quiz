@@ -1,4 +1,4 @@
-# Build Prompt — "CBT Trainer" Quiz App for Computer Programmer (Group B) Exam
+# Build Prompt — "CBT Trainer" Quiz App for PGIMER Computer Programmer (CP/047) Group B Exam
 
 > **How to use this prompt:** Copy the whole document (or attach this file) and paste it into an AI coding agent (this workspace's Agent Mode, Cursor, Claude Code, Gemini CLI, v0, etc.). It is written as a complete brief, so the agent should build the app in one pass without needing to re-ask the setup questions already answered here. If the agent still asks clarifying questions, reply with the **"Fixed decisions"** block at the end.
 
@@ -6,7 +6,7 @@
 
 ## 1. Role & Goal
 
-You are a senior full-stack engineer. Build me a complete, production-quality, single-user web application called **"CBT Trainer"** — a personal exam-practice platform for the **Punjab Government Group B — Computer Programmer** recruitment CBT.
+You are a senior full-stack engineer. Build me a complete, production-quality, single-user web application called **"CBT Trainer"** — a personal exam-practice platform for the **PGIMER Satellite Centre Sangrur — Computer Programmer (CP/047) Group B** recruitment CBT.
 
 I am the only user (no accounts, no sign-up), but the app will be **deployed on the web** (e.g., Vercel) so I can use it from any device. Because it is public-facing, add a **simple passcode gate** (value from an environment variable) so only I can open it.
 
@@ -16,7 +16,7 @@ Deliver a **working app end-to-end**: database schema + migrations, seed data, q
 
 ## 2. Exam context (real facts the app must simulate)
 
-- **Post:** Computer Programmer, Group B (Punjab Government recruitment). Objective-type **Computer Based Test (CBT)**.
+- **Post:** Computer Programmer, Group B, Post Code CP/047 (PGIMER recruitment). Objective-type **Computer Based Test (CBT)**.
 - **Format:** 100 questions, each carrying **1 mark** → total **100 marks**.
 - **Options:** 4 per question, exactly one correct (single-answer MCQ).
 - **Marking (must be exact):**

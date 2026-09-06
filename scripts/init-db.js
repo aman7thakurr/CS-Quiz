@@ -15,7 +15,11 @@ if (dbUrl && !dbUrl.includes("localhost") && !dbUrl.includes("127.0.0.1")) {
 
     console.log("2. Seeding 12 syllabus subjects and starter MCQs...");
     execSync("npx ts-node prisma/seed.ts", { stdio: "inherit" });
-    console.log("✓ Seed completed successfully!");
+    console.log("✓ Starter seed completed successfully!");
+
+    console.log("3. Seeding PGIMER CP/047 technical question bank...");
+    execSync("npx ts-node scripts/seed-pgimer.ts", { stdio: "inherit" });
+    console.log("✓ PGIMER seed completed successfully!");
   } catch (err) {
     console.warn("⚠️ Notice: Database auto-setup had a warning:", err.message);
     console.warn("Continuing with Next.js build...");

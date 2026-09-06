@@ -105,7 +105,7 @@ export default async function DashboardPage() {
       <div>
         <h1 className="text-3xl font-bold text-slate-900">Dashboard</h1>
         <p className="text-slate-500 mt-1">
-          Computer Science CBT Mock Exam Practice
+          PGIMER Computer Programmer CP/047 CBT Exam Practice
         </p>
       </div>
 
@@ -141,7 +141,7 @@ export default async function DashboardPage() {
             <div>
               <h2 className="text-2xl font-bold">Start CBT Mock Test</h2>
               <p className="text-blue-100 mt-1">
-                100 Questions • 120 Minutes • +1 / −0.25 / 0 Marking
+                100 Questions • 100 Minutes • +1 / −0.25 / 0 Marking
               </p>
             </div>
           </div>

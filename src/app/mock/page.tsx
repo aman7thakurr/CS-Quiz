@@ -43,7 +43,7 @@ export default async function MockConfigPage() {
       <div>
         <h1 className="text-3xl font-bold text-slate-900">CBT Mock Test</h1>
         <p className="text-slate-500 mt-1">
-          Simulate the real Computer Science CBT exam
+          Simulate the real PGIMER CP/047 CBT exam
         </p>
       </div>
 
@@ -58,7 +58,7 @@ export default async function MockConfigPage() {
               <strong>Format:</strong> 100 MCQs × 1 mark = 100 marks
             </p>
             <p className="text-blue-800">
-              <strong>Duration:</strong> 120 minutes (2 hours)
+              <strong>Duration:</strong> 100 minutes
             </p>
             <p className="text-blue-800">
               <strong>Options:</strong> 4 per question, single correct

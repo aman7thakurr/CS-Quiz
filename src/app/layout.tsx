@@ -3,9 +3,9 @@ import "./globals.css";
 import { Sidebar } from "@/components/nav/sidebar";
 
 export const metadata: Metadata = {
-  title: "CBT Trainer — Computer Science Exam Practice",
+  title: "PGIMER CP/047 CBT Trainer — Computer Programmer Preparation",
   description:
-    "Personal CBT mock-test trainer for Computer Science recruitment and competitive exams. Practice with AI-generated MCQs, full mock tests, and detailed analytics.",
+    "Personal CBT mock-test platform and study reference for PGIMER Satellite Centre Sangrur Computer Programmer (CP/047) Group B recruitment. 100 single-answer MCQs, 100 minutes, syllabus-targeted technical practice, and instant teaching explanations.",
 };
 
 export default function RootLayout({

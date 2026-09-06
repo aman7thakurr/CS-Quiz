@@ -1,37 +1,29 @@
-# CBT Trainer — Computer Science CBT Mock Exam Practice
+# CBT Trainer — PGIMER Computer Programmer (CP/047) CBT Preparation
 
-**CBT Trainer** is a high-performance, personal exam-practice and simulation platform designed for Computer Science recruitment and competitive Computer Based Tests (CBT).
+**CBT Trainer** is a high-performance, personal exam-practice and simulation platform designed specifically for the **PGIMER Satellite Centre, Sangrur — Computer Programmer, Post Code CP/047, Group B** recruitment Computer Based Test (CBT).
 
-The application replicates the official exam environment, implements the exact negative marking mathematics, provides instant-feedback practice modes, and includes an AI-powered pipeline to generate grounded Multiple Choice Questions (MCQs) from previous year question papers (PYQs) and syllabus PDFs.
+The application replicates the official exam environment, implements the exact negative marking mathematics (+1 / −0.25 / 0), provides instant-feedback practice modes, and includes an AI-powered pipeline to generate grounded Multiple Choice Questions (MCQs) from previous year question papers (PYQs) and technical syllabi.
 
 ---
 
 ## 📋 Exam Blueprint & Exact Scoring Formula
 
-The application adheres strictly to the official examination pattern:
+The application adheres strictly to the official PGIMER CP/047 examination pattern:
 
+- **Post:** Computer Programmer, Post Code CP/047, Group B, PGI Satellite Centre, Sangrur
 - **Total Questions:** 100 Objective Type Single-Answer MCQs (4 options per question: A, B, C, D)
 - **Total Marks:** 100 Marks (1 mark per question)
-- **Exam Duration:** 120 Minutes (2 Hours)
+- **Exam Duration:** 100 Minutes
 - **Negative Marking Scheme:**
   - **Correct Answer:** `+1.00`
   - **Incorrect Answer:** `−0.25`
   - **Unattempted Question:** `0.00` (no penalty)
   - **Formula:** `Score = (Correct × 1.00) − (Wrong × 0.25)`
 
-### 12 Core Computer Science Syllabus Domains
-1. Computer Fundamentals & Computer Awareness
-2. Programming in C (Data types, pointers, memory, file handling)
-3. Programming in C++ (Object-Oriented Programming, templates, STL)
-4. Java Programming (OOP, JVM architecture, exception handling, collections)
-5. Python Programming (Syntax, data structures, OOP, file handling)
-6. Data Structures & Algorithms (Arrays, trees, graphs, sorting, complexity)
-7. Database Management Systems (DBMS) & SQL (ER models, normalization, transactions, SQL)
-8. Operating Systems (Process management, scheduling, deadlocks, memory, paging)
-9. Computer Networks & Network Security (OSI/TCP-IP, protocols, subnetting, cryptography)
-10. Computer Organization & Architecture + Digital Logic (CPU, pipelining, Boolean algebra)
-11. Software Engineering (SDLC, Agile, testing, UML)
-12. Web Technologies & Internet Fundamentals (HTML/CSS, JS, HTTP, DNS, REST)
+### Working PGIMER Preparation Domains
+- **S-Tier (Core):** Programming in C, Data Structures, Algorithms & Complexity, DBMS & SQL, Operating Systems, Computer Networks
+- **A-Tier (Strong):** C++ / OOP, Java Programming, Computer Organization & Architecture, Digital Logic / Number Systems, Software Engineering & System Analysis, Compiler / System Software
+- **B-Tier (Selective):** Linux / Unix / Troubleshooting, Web Technologies / Internet, Discrete Mathematics for CS, Computer Security, Files / RAID / Storage Organization
 
 ---
 

@@ -27,7 +27,7 @@ export type QuestionFormData = z.infer<typeof questionFormSchema>;
 
 export const attemptConfigSchema = z.object({
   questionCount: z.number().int().min(1).max(200).default(100),
-  durationSec: z.number().int().min(60).max(14400).default(7200), // 120 min
+  durationSec: z.number().int().min(60).max(14400).default(6000), // 100 min
   perQuestionMark: z.number().default(1),
   negativeMarkPerWrong: z.number().default(0.25),
   subjectFilter: z.array(z.string()).optional(),
@@ -42,7 +42,7 @@ export type AttemptConfig = z.infer<typeof attemptConfigSchema>;
 
 export const startMockSchema = z.object({
   questionCount: z.number().int().min(1).max(200).default(100),
-  durationMinutes: z.number().int().min(1).max(240).default(120),
+  durationMinutes: z.number().int().min(1).max(240).default(100),
   subjectFilter: z.array(z.string()).default([]),
   difficultyFilter: z.array(z.enum(["EASY", "MEDIUM", "HARD"])).default([]),
   shuffle: z.boolean().default(true),
