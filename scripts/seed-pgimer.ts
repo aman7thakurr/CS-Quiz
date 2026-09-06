@@ -66,11 +66,20 @@ async function main() {
     }
   }
 
-  // The repository's old generic blueprint includes Python. It is not a default PGIMER target
-  // and is deliberately disabled rather than silently deleting user data.
+  // Keep the repository focused on PGIMER. The old generic seed includes Python and generic
+  // starter questions; archive that legacy content instead of allowing it into PGIMER mocks.
   await prisma.subject.updateMany({
     where: { slug: "python-programming" },
     data: { isActive: false },
+  });
+  await prisma.question.updateMany({
+    where: {
+      OR: [
+        { source: { startsWith: "Seed —" } },
+        { subject: { slug: "python-programming" } },
+      ],
+    },
+    data: { status: QuestionStatus.ARCHIVED },
   });
 
   let inserted = 0;
@@ -123,7 +132,7 @@ async function main() {
   console.log(`✓ Subjects enabled: ${subjects.length}`);
   console.log(`✓ PGIMER questions inserted: ${inserted}`);
   console.log(`✓ PGIMER questions refreshed: ${updated}`);
-  console.log("✓ Python subject disabled for PGIMER mode");
+  console.log("✓ Legacy generic/Python questions archived");
   console.log("\n✅ PGIMER content seed complete.\n");
 }
 
