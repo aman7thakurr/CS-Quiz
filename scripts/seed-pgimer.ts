@@ -68,8 +68,6 @@ async function main() {
     }
   }
 
-  // Keep the repository focused on PGIMER. The old generic seed includes Python and generic
-  // starter questions; archive that legacy content instead of allowing it into PGIMER mocks.
   await prisma.subject.updateMany({
     where: { slug: "python-programming" },
     data: { isActive: false },
@@ -98,7 +96,9 @@ async function main() {
     const topic = await prisma.topic.findUnique({
       where: { name_subjectId: { name: question.topicName, subjectId } },
     });
-    if (!topic) throw new Error(`Unknown topic: ${question.subjectSlug}/${question.topicName}`);
+    if (!topic) {
+      throw new Error(`Unknown topic: ${question.subjectSlug}/${question.topicName}`);
+    }
 
     if (question.options.length !== 4) {
       throw new Error(`Question must have 4 options: ${question.text}`);
@@ -107,7 +107,10 @@ async function main() {
       throw new Error(`Invalid correctIndex: ${question.text}`);
     }
 
-    const source = `${question.source} | ${question.provenance} | ${question.sourceUrl}`;
+    const source = question.sourceUrl
+      ? `${question.source} | ${question.provenance} | ${question.sourceUrl}`
+      : `${question.source} | ${question.provenance}`;
+
     const existing = await prisma.question.findFirst({
       where: { text: question.text },
       select: { id: true },
