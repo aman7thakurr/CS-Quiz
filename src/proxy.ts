@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 
-export async function middleware(request: NextRequest) {
+export async function proxy(request: NextRequest) {
   const passcode = process.env.APP_PASSCODE;
   // If no passcode gate configured, proceed without blocking
   if (!passcode || passcode.trim() === "") {

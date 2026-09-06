@@ -12,71 +12,88 @@ import {
   ChevronRight,
   Upload,
   ClipboardList,
+  AlertTriangle,
 } from "lucide-react";
 import { formatScore, formatPercent } from "@/lib/utils";
 
 export const dynamic = "force-dynamic";
 
 async function getDashboardStats() {
-  const [
-    totalActiveQuestions,
-    totalDraftQuestions,
-    totalAttempts,
-    subjects,
-    recentAttempts,
-    subjectQuestionCounts,
-  ] = await Promise.all([
-    prisma.question.count({ where: { status: "ACTIVE" } }),
-    prisma.question.count({ where: { status: "DRAFT" } }),
-    prisma.attempt.count({ where: { status: "SUBMITTED" } }),
-    prisma.subject.findMany({
-      where: { isActive: true },
-      orderBy: { order: "asc" },
-      include: {
-        _count: { select: { questions: { where: { status: "ACTIVE" } } } },
-      },
-    }),
-    prisma.attempt.findMany({
-      where: { status: "SUBMITTED" },
-      orderBy: { createdAt: "desc" },
-      take: 5,
-    }),
-    prisma.question.groupBy({
-      by: ["subjectId"],
-      where: { status: "ACTIVE" },
-      _count: true,
-    }),
-  ]);
+  try {
+    const [
+      totalActiveQuestions,
+      totalDraftQuestions,
+      totalAttempts,
+      subjects,
+      recentAttempts,
+      subjectQuestionCounts,
+    ] = await Promise.all([
+      prisma.question.count({ where: { status: "ACTIVE" } }),
+      prisma.question.count({ where: { status: "DRAFT" } }),
+      prisma.attempt.count({ where: { status: "SUBMITTED" } }),
+      prisma.subject.findMany({
+        where: { isActive: true },
+        orderBy: { order: "asc" },
+        include: {
+          _count: { select: { questions: { where: { status: "ACTIVE" } } } },
+        },
+      }),
+      prisma.attempt.findMany({
+        where: { status: "SUBMITTED" },
+        orderBy: { createdAt: "desc" },
+        take: 5,
+      }),
+      prisma.question.groupBy({
+        by: ["subjectId"],
+        where: { status: "ACTIVE" },
+        _count: true,
+      }),
+    ]);
 
-  // Calculate averages from submitted attempts
-  let avgScore = 0;
-  let avgAccuracy = 0;
-  if (recentAttempts.length > 0) {
-    const submittedWithScores = recentAttempts.filter(
-      (a) => a.score !== null
-    );
-    if (submittedWithScores.length > 0) {
-      avgScore =
-        submittedWithScores.reduce((sum, a) => sum + (a.score ?? 0), 0) /
-        submittedWithScores.length;
-      avgAccuracy =
-        submittedWithScores.reduce(
-          (sum, a) => sum + (a.accuracy ?? 0),
-          0
-        ) / submittedWithScores.length;
+    // Calculate averages from submitted attempts
+    let avgScore = 0;
+    let avgAccuracy = 0;
+    if (recentAttempts.length > 0) {
+      const submittedWithScores = recentAttempts.filter(
+        (a) => a.score !== null
+      );
+      if (submittedWithScores.length > 0) {
+        avgScore =
+          submittedWithScores.reduce((sum, a) => sum + (a.score ?? 0), 0) /
+          submittedWithScores.length;
+        avgAccuracy =
+          submittedWithScores.reduce(
+            (sum, a) => sum + (a.accuracy ?? 0),
+            0
+          ) / submittedWithScores.length;
+      }
     }
-  }
 
-  return {
-    totalActiveQuestions,
-    totalDraftQuestions,
-    totalAttempts,
-    avgScore,
-    avgAccuracy,
-    subjects,
-    recentAttempts,
-    subjectQuestionCounts,
-  };
+    return {
+      totalActiveQuestions,
+      totalDraftQuestions,
+      totalAttempts,
+      avgScore,
+      avgAccuracy,
+      subjects,
+      recentAttempts,
+      subjectQuestionCounts,
+      dbError: null,
+    };
+  } catch (err: unknown) {
+    console.error("Dashboard database error:", err);
+    return {
+      totalActiveQuestions: 0,
+      totalDraftQuestions: 0,
+      totalAttempts: 0,
+      avgScore: 0,
+      avgAccuracy: 0,
+      subjects: [],
+      recentAttempts: [],
+      subjectQuestionCounts: [],
+      dbError: err instanceof Error ? err.message : "Database connection failed",
+    };
+  }
 }
 
 export default async function DashboardPage() {
@@ -91,6 +108,25 @@ export default async function DashboardPage() {
           Punjab Government Group B — Computer Programmer CBT Trainer
         </p>
       </div>
+
+      {/* Database Setup Notice if not connected */}
+      {stats.dbError && (
+        <div className="bg-amber-50 border border-amber-300 rounded-2xl p-6 text-amber-900 shadow-sm space-y-3">
+          <div className="flex items-center gap-2 font-bold text-base text-amber-900">
+            <AlertTriangle className="w-5 h-5 text-amber-600 shrink-0" /> Database Setup Needed
+          </div>
+          <p className="text-xs text-amber-800 leading-relaxed">
+            Your application is live on Vercel, but PostgreSQL is not connected or tables are not initialized yet ({stats.dbError}).
+          </p>
+          <div className="bg-white/90 rounded-xl p-4 border border-amber-200 text-xs font-mono text-slate-800 space-y-1.5">
+            <p className="font-semibold text-slate-900 font-sans">Quick 2-Step Database Setup:</p>
+            <p>1. In your Vercel Dashboard → Project Settings → Environment Variables:</p>
+            <p className="pl-3 text-blue-600 font-bold">Add DATABASE_URL = your_postgres_connection_string</p>
+            <p>2. In your local terminal, push the database schema & starter seed:</p>
+            <p className="pl-3 text-slate-900 font-bold bg-slate-100 p-1.5 rounded inline-block">npx prisma db push && npm run seed</p>
+          </div>
+        </div>
+      )}
 
       {/* Big CTA */}
       <Link
