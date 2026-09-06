@@ -1,0 +1,63 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Digital Logic,General,What is the base of the decimal number system?,2,8,10,16,C,The base of the decimal number system is 10.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What of the following is the correct representation of a decimal number system?,192.146 = (1 × 102) + (9 × 101) + (2 × 100) + (1 × 10-1) + (4 × 10-2) + (6 × 10-3),192.146 = (1 × 103) + (9 × 102) + (2 × 101) + (1 × 10-1) + (4 × 10-2) + (6 × 10-3),192.146 = (1 × 101) + (9 × 102) + (2 × 103) + (1 × 10-1) + (4 × 10-2) + (6 × 10-3),None,A,192.146 = (1 × 102) + (9 × 101) + (2 × 100) + (1 × 10-1) + (4 × 10-2) + (6 × 10-3) is the correct answer.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the base number of the binary number system?,2,4,6,8,A,The base of the binary number system is 2.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the range of numbers used in a binary number system?,0-2,0-1,1-2,None,B,O and 1 numbers are used in the binary number system.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the base of the Octal number system?,2,4,8,16,C,The base of the Octal number system is 8.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What range of numbers are used in the octal number system?,0-8,1-9,0-9,0-7,D,From 0 to 7 numbers are used in the octal number system.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the base of the hexadecimal number system?,10,16,20,18,B,The base of the hexadecimal number system is = 6.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the range of the hexadecimal number system?,0 to 10 and A to F,0 to 9 and A to F,1-10 and A to E,0-9 and A to E,B,The range of the hexadecimal number system is: 0 to 9 and A to F.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,MSB of signed binary numbers is also known as ____.,Most bit,Min bit,Signed bit,Sign bit,D,MSB of signed binary numbers is also known as the sign bit.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of representation are there for signed binary numbers?,5,4,3,2,C,"There are three types of representations for signed binary numbers:
+ Sign-Magnitude form
+ 1's complement form
+ 2's complement form",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What will be the 1's complement of 30 in binary number?,11110,00000,11111,00001,D,"First step is to convert decimal 30 to binary i.e., 11110, now just change the value of 0 to 1 and 1 to 0 therefore the final answer is = 00001.",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,Binary codes are classified into how many types?,5,4,3,2,D,"Binary codes are classified into 2 types:
+ Weighted codes
+ Unweighted codes",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,Weighted codes are classified into how many types?,5,4,3,2,D,Weighted codes are classified into 2 types: positively weighted codes and negatively weighted codes.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the full form of BCD?,Base decimal code,Binary dialogue code,Binary coded decimal,Base-coded decimal,C,BCD stands for binary coded decimal.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of parity codes are there?,5,4,2,1,C,There are two types of parity codes: Even parity code and odd parity code.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,Hamming code is used for ____.,Error detection,Error correction,None,Both,D,Hamming code is used for Error detection and Error correction.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,Canonical PoS form is also known as ____.,Product of Max terms,Sum of Max terms,Product of Min terms,Sum of Min terms,A,Canonical PoS is also known as Product of Max terms.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the number of cells in 3 variable K-map?,5,2,6,8,D,There are 8 cells in 3 variable K-map.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the number of cells in 2 variable K-map?,4,2,6,8,A,There are 4 cells in 2 variable K-map.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the number of cells in 4 variable K-map?,32,16,20,14,B,There are 16 cells in 4 variable K-map.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the number of cells in 5 variable K-map?,40,24,32,20,C,There are 32 cells in 5 variable K-map.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,Which of the following is the universal gate?,NAND,NOR,Both,None,C,NAND and NOR both come under the category of universal gate.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,Octal to binary encoder has how many inputs?,2,8,16,1,B,Octal to binary encoder has 8 inputs.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,A 4*1 mux has how many inputs?,5,4,2,1,B,"4*1 mux has 4 data inputs, two selection lines, and one output.",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What do you mean by PLDs?,Programmable Logic devices,Perfect Logic devices,Prune Logic devices,Personal Logic devices,A,PLDs are known as Programmable Logic devices. These are the integrated circuits.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of PLDs are there based on the types of arrays?,5,4,3,2,C,"On the basis of type of array there are 3 kinds of PLDs:
+ Programmable Read Only Memory
+ Programmable Array Logic
+ Programmable Logic Array",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How do you represent the threshold gate?,Via circle,Via Square,Via Combinational circuit,None,A,A circle represents a threshold gate.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of sequential circuits are there?,5,4,3,2,D,"There are two types of sequential circuits:
+ Asynchronous sequential circuits
+ Synchronous Sequential circuits",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of triggers are used in sequential circuits?,5,4,3,2,D,"Two types of triggers are used in sequential circuits:
+ Level triggering
+ Edge Triggering",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of level triggering are there?,2,3,4,5,A,"There are two types of level triggering:
+ Positive level triggering
+ Negative level triggering",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of edge triggering are there based on the transitions of the clock signal?,5,4,3,2,D,"There are two types of edge triggering based on the transitions of clock signal:
+ Positive level triggering
+ Negative level triggering",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the full form of a D latch?,Datagram latch,Dataset latch,Database latch,Data latch,D,Full form of the D latch is the Data latch.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,The ____ is a collection of flip-flops that are used to store binary data.,Log,Database,Ledger,Register,D,The register is a collection of flip-flops that are used to store binary data.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,The register is known as a ____- register if it is capable of moving bits either to the right or to the left.,Flag,Shift,Accumulator,Stack,B,The register is known as a shift register if it is capable of moving bits either to the right or to the left.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,An 'N' bit shift register contains ____ flip-flops.,N-1,N+1,N,N2,C,An 'N' bit shift register contains 'N' flip-flops.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,____ shift register is a shift register that accepts serial input and outputs serial output.,SISO,SIPO,PISO,PIPO,A,Serial In - Serial Out SISO shift register is a shift register that accepts serial input and outputs serial output.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of counters are there based on the flip-flops?,5,4,3,2,D,"There are two types of counters based on the flip flops:
+ Asynchronous counter
+ Synchronous counter",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,How many types of Finite state machines are there?,5,4,3,2,D,"There are two types of FSM:
+ Mealy state machine
+ Moore state machine",medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,What is the Mealy machine?,A Mealy machine is a machine in which the output symbol depends upon the present input symbol and the present state of the machine,A Mealy machine is a machine in which the output symbol depends upon the present input symbol and the next state of the machine,A Mealy machine is a machine in which the output symbol depends upon the next input symbol and the next state of the machine,A Mealy machine is a machine in which the output symbol depends upon the next input symbol and the present state of the machine,A,A Mealy machine is a machine in which the output symbol depends upon the present input symbol and the present state of the machine.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,In ASM charts state box is represented in which shape?,Oval,Cube,Triangle,Rectangular,D,In ASM charts state box is represented in a rectangular shape.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,In ASM charts decision box is represented in which shape?,Oval,Cube,Triangle,Diamond,D,In ASM charts decision box is represented in a diamond shape.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,
+Digital Logic,List of Digital Circuits,In ASM charts conditional output box is represented in which shape?,Oval,Cube,Triangle,Square,A,In ASM charts conditional output box is represented in an oval shape.,medium,web:Includehelp.com https://www.includehelp.com/mcq/digital-circuits-mcqs.aspx,

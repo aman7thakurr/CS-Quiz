@@ -1,0 +1,158 @@
+series found: 18
+    page 1: 10 q
+    page 2: 9 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  introduction to c plus plus: 99 raw, cumulative 98
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  variables and data types in c plus plus: 100 raw, cumulative 196
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 6 q
+  operators and expressions in c plus plus: 36 raw, cumulative 232
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 7 q
+  control flow statements in c plus plus: 47 raw, cumulative 277
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  functions and procedures in c plus plus: 100 raw, cumulative 376
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 2 q
+  arrays and strings in c plus plus: 72 raw, cumulative 448
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 8 q
+  pointers and references in c plus plus: 98 raw, cumulative 545
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 5 q
+  structures and unions in c plus plus: 35 raw, cumulative 579
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+  object oriented programming in c plus plus: 80 raw, cumulative 658
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  classes and objects in c plus plus: 100 raw, cumulative 751
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 7 q
+  constructors and destructors in c plus plus: 77 raw, cumulative 815
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+  inheritance in c plus plus: 80 raw, cumulative 892
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 2 q
+  polymorphism in c plus plus: 42 raw, cumulative 932
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 6 q
+  file handling in c plus plus: 56 raw, cumulative 988
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 8 q
+  exception handling in c plus plus: 68 raw, cumulative 1056
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  standard template library (stl) in c plus plus: 100 raw, cumulative 1156
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 2 q
+  multi threading in c plus plus: 42 raw, cumulative 1198
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  c plus plus miscellaneous: 100 raw, cumulative 1291
+wrote cpp_examveda_web.csv: 1291 rows

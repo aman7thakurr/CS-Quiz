@@ -68,17 +68,8 @@ async function main() {
     }
   }
 
-  await prisma.subject.updateMany({
-    where: { slug: "python-programming" },
-    data: { isActive: false },
-  });
   await prisma.question.updateMany({
-    where: {
-      OR: [
-        { source: { startsWith: "Seed —" } },
-        { subject: { slug: "python-programming" } },
-      ],
-    },
+    where: { source: { startsWith: "Seed —" } },
     data: { status: QuestionStatus.ARCHIVED },
   });
 

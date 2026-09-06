@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "test:scoring": "ts-node scripts/test-scoring.ts",
-    "seed": "ts-node prisma/seed.ts && npm run seed:pgimer",
+    "seed": "ts-node scripts/seed-bank.ts",
+    "seed:bank": "ts-node scripts/seed-bank.ts",
     "seed:pgimer": "ts-node scripts/seed-pgimer.ts",
     "postinstall": "prisma generate"
   },

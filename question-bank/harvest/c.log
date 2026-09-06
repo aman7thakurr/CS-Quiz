@@ -1,0 +1,132 @@
+series found: 13
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 8 q
+    page 7: 9 q
+  c miscellaneous: 66 raw, cumulative 66
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 8 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  c fundamentals: 98 raw, cumulative 162
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 9 q
+    page 8: 9 q
+    page 9: 9 q
+    page 10: 10 q
+  arrays and strings: 96 raw, cumulative 257
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 10 q
+    page 6: 9 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 5 q
+  operators and expressions: 83 raw, cumulative 338
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 9 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  control structures: 98 raw, cumulative 431
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 9 q
+  function: 98 raw, cumulative 529
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 9 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  pointer: 99 raw, cumulative 625
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 7 q
+    page 5: 10 q
+    page 6: 9 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 3 q
+  c preprocessor: 89 raw, cumulative 714
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  structure and union: 100 raw, cumulative 814
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 9 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 9 q
+    page 10: 10 q
+  file input output: 97 raw, cumulative 911
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 4 q
+  storage class: 34 raw, cumulative 945
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 10 q
+    page 6: 8 q
+    page 7: 2 q
+  memory allocation: 59 raw, cumulative 1003
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 8 q
+    page 6: 9 q
+    page 7: 9 q
+    page 8: 10 q
+    page 9: 9 q
+    page 10: 10 q
+  standard library functions: 94 raw, cumulative 1093
+wrote c_web_examveda.csv: 1093 rows

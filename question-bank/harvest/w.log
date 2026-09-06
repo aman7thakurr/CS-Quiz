@@ -1,0 +1,98 @@
+series found: 12
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 7 q
+    page 8: 9 q
+    page 9: 1 q
+  basic and variables: 77 raw, cumulative 74
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 8 q
+  array and function: 38 raw, cumulative 112
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 8 q
+  classes and modules: 68 raw, cumulative 180
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+  server side and client side scripting: 80 raw, cumulative 260
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  document object model and event handling: 100 raw, cumulative 360
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+  graphics and rendering: 40 raw, cumulative 399
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 8 q
+  performance measures: 68 raw, cumulative 464
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 9 q
+  sockets: 69 raw, cumulative 533
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 9 q
+  parsing, benchmarking and logging: 69 raw, cumulative 601
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 8 q
+  invocation and performance navigation: 88 raw, cumulative 685
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  caching and debugging: 100 raw, cumulative 781
+    page 1: 10 q
+    page 2: 10 q
+  animation: 20 raw, cumulative 801
+wrote js_web_examveda.csv: 801 rows

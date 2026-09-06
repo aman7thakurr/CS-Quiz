@@ -1,0 +1,124 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Computer Networks,Computer Network MCQs with Answers,What is the full form of NIC?,Network ID card,Network interface card,National interface card,New interface card,B,NIC stands for Network interface card.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of NIC are there?,5,4,3,2,D,There are two types of NIC: Wireless NIC and Wired NIC.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,A ____ is a central device that divides a network connection among several devices.,Switch,Hub,Router,Modem,B,A hub is a central device that divides a network connection among several devices.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,A ____ is a networking device that connects all of the devices on the network to transport data to another device.,Switch,Hub,Router,Modem,A,A switch is a networking device that connects all of the devices on the network to transport data to another device.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of cables are there?,5,4,3,2,C,"There are 3 types of cables:
+ Twisted pair cables
+ Coaxial cable
+ Fibre optic cable",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of network architecture are used?,4,3,2,1,C,"The two types of network architecture are used:
+ Peer-To-Peer network
+ Client/Server network",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Peer-To-Peer network has ____ dedicated servers.,1,2,3,None,D,Peer-To-Peer network has no dedicated server.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,A computer network is mainly of how many types?,2,3,4,5,C,"A computer network is mainly of four types:
+ LAN(Local Area Network)
+ PAN(Personal Area Network)
+ MAN(Metropolitan Area Network)
+ WAN(Wide Area Network)",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of personal area networks are there?,5,4,3,2,D,There are two types of Personal Area Networks: Wireless Personal Area Networks and wired Personal Area Networks.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of internetworking are there?,2,3,4,5,B,"Mainly there are three types of internet working:
+ Extranet
+ Intranet
+ Internet",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,The ____ topology is designed such that all stations are linked by a single cable known as a backbone cable.,Ring,Tree,Mesh,Bus,D,The bus topology is designed such that all stations are linked by a single cable known as a backbone cable.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,What is the full form of CSMA?,Carrier senses marginal access,Carrier system multiple access,Carrier sense multiple access,Carrier sense mostly access,C,CSMA stands for carrier sense multiple access.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Mesh topology can be created using which of the following formula?,Number of cables = (n*(n-1))/2,Number of cables = (n*(n-1))*2,Number of cables = (n*(n+1))/2,Number of cables = (n*(n+1))*2,A,Mesh topology can be created using the following formula:Number of cables = (n*(n-1))/2.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Mesh topology is divided into how many categories?,3,4,5,2,D,"Mesh topology is classified into two types:
+ Fully connected mesh topology
+ Partially connected mesh topology",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,What is the other name of the transmission mode?,Parallel node,Series node,Communication node,Feedback node,C,The transmission mode is also known as the communication mode.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,The transmission node is defined in which layer?,Physical layer,Data link layer,Transport layer,Session layer,A,The transmission mode is defined at the physical layer.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of transmission nodes are there?,5,4,3,2,C,"There are three types of transmission modes:
+ Simplex mode
+ Half-duplex mode
+ Full-duplex mode",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Which of the following is the example of Half duplex mode?,Keyboard,Television,Mouse,Walkie talkie,D,Half-duplex mode is illustrated via a walkie-talkie.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,What is OSI?,Open secure Intercommunication,Open system Intercommunication,Open shift Intercommunication,Open swing Intercommunication,B,OSI stands for Open system Interconnection.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,OSI consists of how many layers?,8,6,7,5,C,"OSI consists of seven layers:
+ Physical Layer
+ Data-Link Layer
+ Network Layer
+ Transport Layer
+ Session Layer
+ Presentation Layer
+ Application Layer",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Which layer's primary duty is to transmit individual bits from one node to another?,Physical Layer,Data-Link Layer,Network Layer,Transport Layer,A,The physical layer's primary duty is to transmit individual bits from one node to another.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Which of the following Layer serves as a network data translator?,Transport Layer,Session Layer,Presentation Layer,Application Layer,C,The Presentation Layer serves as a network data translator.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Which of the following layer delivers network services to end users?,Transport Layer,Session Layer,Data link Layer,Application Layer,D,The application layer delivers network services to end users.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,The ____ layer is in charge of the error-free transport of data frames.,Transport Layer,Session Layer,Data link Layer,Network Layer,C,The Data-Link layer is in charge of the error-free transport of data frames.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,The data link layer consists of how many sublayers?,2,3,4,5,A,"The data link layer contains two sub-layers:
+ Logical Link Control Layer
+ Media Access Control Layer.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,"Which of the following layer finds the optimum path to transport data from the source to the destination depending on network circumstances, service priority, and other considerations?",Transport Layer,Session Layer,Data link Layer,Network Layer,D,"The network Layer finds the optimum path to transport data from the source to the destination depending on network circumstances, service priority, and other considerations.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Which of the following layer ensures that messages are transmitted in the sequence in which they are sent and that no data is duplicated?,Physical Layer,Data-Link Layer,Network Layer,Transport Layer,D,The transport layer ensures that messages are transmitted in the sequence in which they are sent and that no data is duplicated.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,The TCP/IP model consists of how many layers?,5,4,3,2,A,"There are five layers in the TCP/IP model: the application layer, transport layer, network layer, data link layer, and physical layer.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,A network layer of TCP/IP is a mix of the ____ layer and the ____ layer as outlined by the OSI reference model.,Physical Layer and Data-Link Layer,Network Layer and Transport Layer,Data-Link Layer and Network Layer,Transport Layer and Physical layer,A,A network layer is a mix of the Physical layer and the Data Link layer as outlined by the OSI reference model.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Which of the following is the network layer protocol?,IP Protocol,ARP,ICMP,All of the above,D,"The network layer has three protocols:
+ IP Protocol
+ ARP
+ ICMP",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Which of the following is the topmost layer in the TCP/IP model?,Application layer,Transport layer,Network layer,Data link layer,A,The application layer is the topmost layer in the TCP/IP model.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Digital-to-digital encoding is divided into how many categories?,5,4,2,3,D,"Digital-to-digital encoding is divided into three categories:
+ Unipolar Encoding
+ Polar Encoding
+ Bipolar Encoding",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Bipolar encoding scheme represents how many voltage levels?,2,3,4,5,B,"Bipolar encoding scheme represents three voltage levels: positive, negative, and zero.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of Bipolar encodings are there?,5,4,3,2,C,"Bipolar can be classified as AMI, B8ZS, HDB3.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,What do you mean by PAM?,Pulse amplification method,Pulse amplifier method,Public amplitude modulation,Pulse amplitude modulation,D,PAM stands for pulse amplitude modulation.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of twisted pair cables are there?,5,4,3,2,D,Types of twisted pair: An unshielded twisted pair and A shielded twisted pair.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of coaxial cables are there?,5,4,3,2,D,Types of coaxial cables: Baseband transmission and Broadband transmission.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of microwaves are there?,5,4,3,2,D,"Microwaves are of two types:
+ Terrestrial microwave
+ Satellite microwave communication",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Multiplexing is done in a ____ manner.,One-to-one,One-to-many,Many-to-many,Many-to-one,D,"Multiplexing is done in a many-to-one manner, with n input lines and one output line.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,DEMUX follows which of the following approach?,One-to-one,One-to-many,Many-to-many,Many-to-one,B,"DEMUX divides a signal into its constituent signals (one input and n outputs). As a result, demultiplexing follows the one-to-many strategy.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of TDM are there?,5,3,2,1,C,"There are two types of TDM:
+ Synchronous TDM
+ Asynchronous TDM",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of switching modes are there?,5,4,3,2,C,"There are 3 types of switching modes:
+ Store-and-forward
+ Cut-through
+ Fragment-free",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Space Division Switches can be categorized in how many ways?,5,4,3,2,D,"Space Division Switches can be categorized in two ways:
+ Crossbar Switch
+ Multistage Switch",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Errors can be categorized into how many types?,5,4,3,2,D,"Errors can be classified into two categories:
+ Single-Bit Error
+ Burst Error",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Line Discipline can be achieved in how many ways?,1,4,3,2,D,"Line Discipline can be achieved in two ways:
+ ENQ/ACK
+ Poll/Select",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many methods have been developed to control the flow of data?,5,4,2,6,C,"Two methods have been developed to control the flow of data:
+ Stop-and-wait
+ Sliding window",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Which layer is responsible for converting logical addresses into physical addresses?,Physical layer,Data link layer,Transport layer,Network layer,D,The network layer is responsible for converting logical addresses into physical addresses.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,An IP address is divided into how many parts?,5,4,3,2,D,"An IP address is divided into two parts:
+ Network ID
+ Host ID",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Class A IP address have ____ bits long Host ID.,16,8,24,32,C,The host ID is 24 bits long in a Class A IP address.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Class C IP address have ____ bits long network ID.,16,8,24,32,C,Class C IP addresses have 24 bits-long network IDs.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Class C IP address have ____ bits long Host ID.,16,8,24,32,B,Class C IP addresses have 8 bits-long host IDs.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,Routing can be classified into how many categories?,5,4,3,2,C,"Routing can be classified into three categories:
+ Static Routing
+ Default Routing
+ Dynamic Routing",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,"In Dynamic Routing, which protocols are utilized to discover new routes?",RIP,OSPF,Both,None,C,"In Dynamic Routing, the protocols RIP and OSPF are utilized to discover new routes.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,The ICMP protocol handles how many sorts of errors?,6,5,4,3,B,"Five types of errors are handled by the ICMP protocol:
+ Destination unreachable
+ Source Quench
+ Time Exceeded
+ Parameter problems
+ Redirection",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,The Routing algorithm is divided into how many categories?,5,4,3,2,D,"The Routing algorithm is divided into two categories:
+ Adaptive Routing algorithm
+ Non-adaptive Routing algorithm",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of adaptive routing algorithms are there?,3,4,5,6,A,"An adaptive routing algorithm can be classified into three parts:
+ Centralized algorithm
+ Isolation algorithm
+ Distributed algorithm",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,How many types of non-adaptive routing algorithms are there?,3,4,2,5,C,"The Non-Adaptive Routing algorithm is of two types:
+ Flooding
+ Random walks",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,The domain name space is divided into how many different sections?,5,4,3,2,C,"The domain name space is divided into three different sections: generic domains, country domains, and inverse domains.",medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,
+Computer Networks,Computer Network MCQs with Answers,What is SNMP?,Social Network Management Protocol.,Strict Network Management Protocol.,Simple Network Management Protocol.,Soft Network Management Protocol.,C,SNMP is an abbreviation for Simple Network Management Protocol.,medium,web:Includehelp.com https://www.includehelp.com/mcq/computer-network-mcqs.aspx,

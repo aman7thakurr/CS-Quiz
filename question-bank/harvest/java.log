@@ -1,0 +1,223 @@
+series found: 24
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 10 q
+    page 7: 8 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  data types and variables: 97 raw, cumulative 97
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 8 q
+    page 6: 5 q
+  declaration and access control: 52 raw, cumulative 149
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 5 q
+  array: 55 raw, cumulative 204
+    page 1: 9 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  strings: 98 raw, cumulative 299
+    page 1: 9 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 9 q
+    page 9: 10 q
+    page 10: 9 q
+  operators: 97 raw, cumulative 394
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 9 q
+    page 7: 10 q
+    page 8: 9 q
+    page 9: 10 q
+    page 10: 8 q
+  constructors and methods: 96 raw, cumulative 489
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 9 q
+    page 6: 8 q
+  flow control: 56 raw, cumulative 544
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 2 q
+  overriding and overloading: 62 raw, cumulative 600
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 8 q
+    page 6: 9 q
+    page 7: 10 q
+    page 8: 9 q
+    page 9: 10 q
+    page 10: 9 q
+  interfaces and abstract classes: 94 raw, cumulative 693
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 9 q
+    page 8: 9 q
+    page 9: 6 q
+  inheritence: 84 raw, cumulative 767
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 9 q
+  exceptions: 99 raw, cumulative 865
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 9 q
+    page 9: 9 q
+    page 10: 10 q
+  threads: 98 raw, cumulative 962
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 7 q
+  input output: 77 raw, cumulative 1036
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 10 q
+  regular expressions in java: 49 raw, cumulative 1085
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 5 q
+  event handling in java: 75 raw, cumulative 1160
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 9 q
+    page 9: 10 q
+    page 10: 10 q
+  collections framework in java: 99 raw, cumulative 1258
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 9 q
+    page 10: 10 q
+  java serialization and networking: 98 raw, cumulative 1354
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 9 q
+    page 8: 10 q
+    page 9: 10 q
+  java autoboxing: 89 raw, cumulative 1438
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 1 q
+  generics in java: 61 raw, cumulative 1493
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 9 q
+    page 6: 10 q
+  java beans and jdbc: 58 raw, cumulative 1551
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 10 q
+    page 7: 9 q
+  java server and servlet: 68 raw, cumulative 1617
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 8 q
+    page 5: 9 q
+    page 6: 8 q
+    page 7: 10 q
+    page 8: 10 q
+  session management, jsp and api: 75 raw, cumulative 1688
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 8 q
+    page 5: 10 q
+  application lifecycle and annotation: 48 raw, cumulative 1736
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 9 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  miscellaneous in java: 99 raw, cumulative 1830
+wrote java_examveda_web.csv: 1830 rows

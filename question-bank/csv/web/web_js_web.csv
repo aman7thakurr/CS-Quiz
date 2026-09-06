@@ -1,0 +1,318 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Web Technologies & Internet / PHP,List of JavaScript,Which type of JavaScript language is _____?,Object-oriented,Object-based,Functional programming,All of the above,B,JavaScript is an object-oriented based programming language.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which of the following statement(s) is true about the JavaScript?,It is a scripting language used to make the website interactive,It is an advanced version of Java for Desktop and Mobile application development,It is a markup language of Java to develop the webpages,All of the above,A,"The correct statement about the JavaScript programming language is ""It is a scripting language used to make the website interactive"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"In which HTML element, we put the JavaScript code?",<javascript>...</javascript>,<js>...</js>,<script>...</script>,<css>...</css>,C,The JavaScript code is written inside the <script>...</script> tag/element.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,JavaScript code can be written in ____.,JavaScript file (.js file),HTML document directly,JavaScript file and in HTML document directly,In style sheets (.css file),C,JavaScript code can be written in the JavaScript file and in HTML document directly.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which symbol is used separate JavaScript statements?,"Comma (,)",Colon (:),Hyphen (_),Semicolon (;),D,The semicolon (;) is used to separate the JavaScript statements.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,JavaScript ignores?,newlines,tabs,spaces,All of the above,D,"JavaScript ignores spaces, tabs, and newlines written in the code, we can use them for the alignment and separate the sections to give a perfect look at our code.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is the correct syntax to call an external JavaScript file in the current HTML document?,"<script src=""jsfile.js""></script>","<script href="" jsfile.js""></script>","<import src="" jsfile.js""></import>","<script link="" jsfile.js""></script>",A,"The correct syntax to call an external JavaScript file in the current HTML document is:
+<script src=""jsfile.js""></script>",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which JavaScript method is used to access an HTML element by id?,getElementById(),getElement(id),getElementById(id),elementById(id),C,The JavaScript method document.getElementById(id) is used to access an HTML document by id.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which property is used to define the HTML content to an HTML element with a specific id?,innerText,innerContent,elementText,innerHTML,D,"The innerHTML is the property that defined HTML content.
+Example:
+document.getElementById(""notif"").innerHTML = ""New course launched"";",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which JavaScript method is used to write HTML output?,document.write(),document.output(),console.log(),document.writeHTML(),A,The JavaScript method document.write() defines the HTML output.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which JavaScript method is used to write on browser's console?,console.write(),console.output(),console.log(),console.writeHTML(),C,The JavaScript method console.log() is used to write on browser's console.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which JavaScript method is used to write into an alert box?,window.alertHTML(),window.alert(),window.alertBox(),window.alertContent(),B,The JavaScript method window.alert() is used to write into an alert box.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"Which is the correct JavaScript statement to display ""Hello Boss!"" into an alert box?","alert(""Hello Boss!"");",alert('Hello Boss!');,alert(Text:'Hello Boss!');,Both A. and B.,D,"The both of statement are correct to display ""Hello Boss!"" into an alert box:
+window.alert(""Hello Boss!"");
+window.alert('Hello Boss!');",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is the correct JavaScript statement to print the addition of two numbers 10 and 20 in a paragraph whose id is 'result'?,"getElementById(""result"").innerHTML = 10+20;","getElementById(""result"").innerHTML = ""10+20"";","getElementById(""#result"").innerHTML = 10+20;",All of the above,A,"The correct JavaScript statement to print the addition of two numbers 10 and 2o in a paragraph whose id is ""result"" is:
+document.getElementById(""result"").innerHTML = 10+20;",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What is the use of this JavaScript statement?
+```
+<button onclick=""window.print()"">Submit</button>
+```","It will write ""Submit"" on the current Window",It will print the content of the current page,It will write the content of the current page in the browser’s console,None of the above,B,The window.print() method prints the content of the current page.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"In JavaScript, single line comment begins with ___.",#,/*,$,//,D,"In JavaScript, single line comment begins with //.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"In JavaScript, multi-line comments start with __ and end with ___.",/* and */,<!—and -->,## and ##,// and //,A,"In JavaScript, multi-line comments start with /* and end with */.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,How many keywords are there in JavaScript to declare variables or constants?,1,2,3,4,C,"There are 3 ways / keywords to declare variables or constants, those are:
+ var
+ let
+ const",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,What is the main difference between var and let keywords in JavaScript?,var defines a variable while let defines a constant,var defined function scoped variable while let define block scoped variable,The value of a variable declared with var can be changed while the value of a variable declared with let cannot be changed,All of the above,B,"The var and let keywords are both used for variable declaration in JavaScript. But, the main difference between them is that var defines function scoped variable while let defines block-scoped variable.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,The const keyword is used to define a ______.,Function scopes variable,Block scoped variable,Constant,Constant with no initial value,C,The const keyword is used to define a constant.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is the correct syntax to declare a constant in JavaScript?,const constant_name;,constant_name const;,constant_name const = value;,const constant_name = value;,D,"The correct syntax to declare a constant is: 
+const constant_name = value;
+Example:
+const PI = 3.14;",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the value of VALUE?
+```
+<script>
+	const VALUE = 10;
+	VALUE = 20;
+</script>
+```",10,20,ValueError,TypeError,D,"We cannot change the value of a constant, thus the above code will generate a TypeError – ""TypeError: Assignment to constant variable""",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,What is the default value of an uninitialized variable?,0,undefined,null,NaN,B,The default value of an unfinalized variable is undefined.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What is the output of the following JavaScript code?
+```
+<script>
+	var a;
+	document.getElementById(""demo"").innerHTML = a+1;
+</script>
+```",0,undefined,1,NaN,D,The output of the above JavaScript code is: NaN,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What is the output of the following JavaScript code?
+```
+<script>
+	var name = ""Alex"" + "" "" + ""Alvin"";
+	document.getElementById(""demo"").innerHTML = name;
+</script>
+```",Alex Alvin,AlexAlvin,TypeError,ValueError,A,"The output of the above JavaScript code is: ""Alex Alvin""",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What is the output of the following JavaScript code?
+```
+<script>
+	var a = 10 + 20 + ""5"";
+	document.getElementById(""demo"").innerHTML = a;
+</script>
+```",35,305,TypeError,ValueError,B,The output of the above JavaScript code is: 305,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What is the output of the following JavaScript code (let example)?
+```
+<script>
+	let a = 10;
+	let a = 0;
+</script>
+```",10,0,SyntaxError,TypeError,C,"The output of the above JavaScript code is: ""SyntaxError: 'a' has already been declared"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is the exponentiation operator in JavaScript?,exp(),^,**,pow,C,"The exponentiation operator in JavaScript is ** which is used to calculate the result of first operand's to the power of the second operators i.e., x**y = x to the power of y (xy).",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	var x = 5;
+	document.getElementById(""demo"").innerHTML = x--;
+</script>
+```",5,4,TypeError,ValueError,B,"The output of the above statement will be 5.
+ In the above statement, we used post-decrement (x--). Post-decrement decreases the value by 1 after evaluating the current statement.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	var x = 10 + 20 * 5;
+	document.getElementById(""tes"").innerHTML = x;
+</script>
+```",110,150,TypeError,ValueError,A,"The output of the above statement will be 110.
+ In the above code, the expression is 10 + 20 * 5. The precedence of multiplication operator (*) is higher than the addition operator (+). This 20 *5 will evaluate first.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	var x = (10 + 20) * 5;
+	document.getElementById(""tes"").innerHTML = x;
+</script>
+```",110,150,TypeError,ValueError,B,"The output of the above statement will be 150.
+ In the above code, the expression is (10 + 20) * 5. The precedence of () are higher than any other operators This (10 + 20) will evaluate first.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,JavaScript arrays are written with _____.,round brackets (),curly brackets {},"double quotes """"",square brackets [],D,JavaScript arrays are written with square brackets [].,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,JavaScript objects are written with _____.,round brackets (),curly brackets {},"double quotes """"",square brackets [],B,JavaScript objects are written with curly brackets {}.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is the correct syntax of JavaScript typeof operator?,typeof variable/value,typeof(variable/value),Both A. and B.,None of the above,C,Both of the syntaxes can be used for JavaScript typeof operator.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	var x = 12.34;
+	document.getElementById(""test"").innerHTML = typeof(x);
+</script>
+```",int,float,long,number,D,The output of the following JavaScript code is number.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which keyword is used to define a JavaScript function?,module,fun,func,function,D,The function keyword is used to define the JavaScript function.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is the correct syntax for the function definition?,"return_type function function_name(parameter1, parameter2, ...) { /*Function's body*/ }","function function_name(parameter1, parameter2, ...) { /*Function's body*/ }","return_type function_name(parameter1, parameter2, ...) { /*Function's body*/ }","function function_name(parameter1, parameter2, ...) as return_type { /*Function's body*/ }",B,"The function definition syntax is:
+function function_name(parameter1, parameter2, ...)
+{ 
+ /*Function's body*/ 
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	function addition(a, b) {
+		return a+b;
+	}
+	document.getElementById(""test"").innerHTML = addition;
+</script>
+```",SyntaxError,ValueError,0,"function addition(a, b) { return a+b; }",D,"Calling of a function without () will return the function definition i.e., function object instead of the result.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,In JavaScript a variable contains one value while an object may contain ___.,One value,Two values,Three values,Many values,D,In JavaScript a variable contains one value while an object may contain many values.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is the correct syntax to access an object property in JavaScript?,objectName:propertyName,propertyName,"objectName[""propertyName""]",Both B. and C.,D,"The properties of an object can we accessed using either objectName.propertyName or objectName[""propertyName""].",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	let str = ""IncludeHelp"";
+	document.getElementById(""test"").innerHTML = str.length;
+</script>
+```",11,12,ValueError,SyntaxError,A,The output of the above statement will be the length of the string. That is 11.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which character is used to break up a code line within a text string in JavaScript?,Single quote ('),Single backslash (\),"Double quote ("")",Tipple single quote ('''),B,"The Single backslash (\) is used to break up a code line within a text string in JavaScript.
+Example:
+document.getElementById(""test"").innerHTML = ""Hello \
+IncludeHelp!"";",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is the correct JavaScript statement to define string as object?,"var s = new String(""IncludeHelp!"");","var s = String(""IncludeHelp!"");","var s = ""IncludeHelp!""",All of the above,A,"The strings can also be defined as an object using the new keyword. The correct JavaScript statement to define a string as an object is:
+var s = new String(""IncludeHelp!"");",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which is/are the valid JavaScript method(s) to extract string parts?,"slice(start, end)","substring(start, end)","substr(start, length)",All of the above,D,The all of the above JavaScript methods can be used to extract string parts.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+    let x = ""Hello, IncludeHelp!"";
+    document.getElementById(""test"").innerHTML = x.slice(-13,-1);
+</script>
+```",IncludeHelp!,IncludeHelp,ValueError,"Hello,",B,"The negative value counts from the end of the string. Thus, the output will be ""IncludeHelp"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"In JavaScript, the string template literals use ____ rather than the quotes ("""") to define a string?",Single quotes (''),Backslash with single quote (\’'\'),Backslashes (\\),Back-ticks (``),D,"In JavaScript, the string template literals use back-ticks (``) rather than the quotes ("""") to define a string.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which JavaScript method is used to get a number as a string?,toString(),intToString(),parseInteger(),All of the above,A,The JavaScript method toString() is used to get a number as a string.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+    const myArray = ['h', 'e', 'l', 'l', 'o'];
+    document.write(myArray[0]);
+    document.write(myArray[1]);
+</script>
+```",he,undefinedh,ValueError,TypeError,A,"In JavaScript, the array indexing starts with 0. Thus, the above statement with print ""h"" and ""e"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+    let cars = ['Honda', 'Hyundai'];
+    cars.push('Mahindra');
+    document.write(typeof cars + "" "" + cars);
+</script>
+```","array Honda,Hyundai,Mahindra","string Honda,Hyundai,Mahindra","object Honda,Hyundai,Mahindra","object ""Honda"", ""Hyundai"", ""Mahindra""",C,"The push() method pushes an element at the end of the array. And, typeof returns the type of the object. Here, cars is an array.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+    let cars1 = ['Honda', 'Hyundai'];
+    let cars2 = cars1;
+
+    cars1.push('Mahinda');
+
+    document.write(cars1 + ""---"" + cars2);
+</script>
+```","Honda,Hyundai,Mahinda---Honda,Hyundai","Honda,Hyundai,Mahinda---Honda,Hyundai,Mahinda","Honda,Hyundai ---Honda,Hyundai","[Honda,Hyundai,Mahinda]---[Honda,Hyundai,Mahinda]",B,"In the JavaScript, the arrays are objects, and the array elements are stored by reference. Hence, when an array value is copied, any change in the copied array will also reflect in the original array. Thus, the values of cars1 and cars2 are the same.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	var msgs=new Array(""Hello"",""Hey"",""Morning!"");
+
+	for (i=0;i<msgs.length;i++){
+		document.write(msgs[i] + "" | "");
+	}
+</script>
+```",Hello | Hey | Morning! |,Hello | Hey |,ValueError,TypeError,A,"In the above JavaScript code, the array is declared using the new operator and all elements are printing using the loop. Thus, the output would be ""Hello | Hey | Morning! |"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	var values = [10, 20, 30, 40];
+
+	var result = values.reduceRight(function(x,y){
+		return (x + y);
+	});
+
+	document.write(""Result: "" + result);
+</script>
+```",Result: 40,Result: 70,Result: 90,Result: 100,D,"In the above JavaScript code, we used the reduceRight() method which is used to reduce the given array elements into a single value by executing a reducer function. The reducer() function is applied against the accumulator and reduces all the elements from right to left. Thus, the output would be ""Result: 100"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	var cars = [""Honda"",""Hyundai"",""Mahindra""];
+
+	var result = cars.shift();
+
+	document.writeln(""Result: "", cars);
+</script>
+```","Result: Honda,Hyundai,Mahindra",Result: Honda,"Result: Hyundai,Mahindra","Result: Honda,Mahindra",C,"In the above JavaScript code, we used the shift() method which is used to remove the first element of the given array and return that element. This method changes the length of the original array. Thus, the output would be ""Result: Hyundai,Mahindra"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	var cars = [""Honda"",""Hyundai"",""Mahindra""];
+
+	var result = cars.unshift(""Toyota"", ""Tata"");
+
+	document.writeln(""["", result, ""] "", cars);
+</script>
+```","[5] Toyota,Tata,Honda,Hyundai,Mahindra","[5]Honda,Hyundai,Mahindra,Toyota,Tata","[2] Toyota,Tata","[5] Honda,Hyundai,Toyota,Tata,Mahindra",A,"In the above JavaScript code, we used unshift() method which is used to add one or more elements in the beginning of the given array and returns the updated array. This method changes the length of the original array. Thus, the output would be ""[5] Toyota,Tata,Honda,Hyundai,Mahindra"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	const arr = [10, 20, 30];
+	let result = 0;
+
+	arr.forEach(myFunction);
+
+	document.write(""Result: "" , result)
+	function myFunction(value, index, array) {
+	  result += value;
+	}
+</script>
+```",Result: 60,Result: 102030,"Result: 10,20,30",ValueError,A,"In the above JavaScript code, we used the forEach() method which is used to call a function (a callback function) once for each array element, and in the callback function, we are adding the elements of the array. Thus, the output would be ""Result: 60"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	const values = [10, 20, 30];
+	const result = values.map(myFunction);
+
+	document.write(""Result: "", result);
+
+	function myFunction(value, index, array) {
+	  return value * value;
+	}
+</script>
+```","Result: 10,20,30","Result: 10*10,20*20,30*30","Result: 100,400,900",ValueError,C,"In the above JavaScript code, we used the map() method which is used to create a new array by performing a function on each array element, and in the myFunction() we are multiplying the elements with the same value. Thus, the output would be ""Result: 100,400,900"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,Which JavaScript method is used to create a new array with array elements that passes a test?,forEach(),map(),forMap(),filter(),D,The JavaScript method filter() is used to create a new array with array elements that pass a test.,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	const curr = new Date();
+	document.write(curr);
+</script>
+```",Tue Dec 21 2021 13:04:36 GMT+0530,Tue Dec 21 2021 13:04:36 (India Standard Time),Tue Dec 21 2021 13:04:36::00::01 GMT+0530 (India Standard Time),Tue Dec 21 2021 13:04:36 GMT+0530 (India Standard Time),D,The above JavaScript code will print the current date & time in the format of Tue Dec 21 2021 13:04:36 GMT+0530 (India Standard Time).,medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,The internal clock in JavaScript counts from midnight _____.,"January 1, 1972","January 1, 1947","January 1, 1980","January 1, 1970",D,"The internal clock in JavaScript counts from midnight January 1, 1970.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,What does the Date object's method getTime() return?,Date in DD-MM-YYYY format,Date in DD MON YYYY format,"Date in MON, DD YYYY format","Number of milliseconds since January 1, 1970",D,"The Date object's method getTime() returns the number of milliseconds since January 1, 1970.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+	document.write(Math.round(107.5))
+</script>
+```",107.5,107,108,107.00,C,"The Math.round(x) returns the value of x rounded to its nearest integer. Thus, the output would be 108.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+try{
+	const cars = {
+		company: 'Honda'
+	};
+
+	delete cars.company;
+	document.write(cars.company);
+}
+catch (err){
+	document.write(err.message);
+}
+</script>
+```",undefined,Honda,ValueError,TypeError,A,"In the above JavaScript code, the statement delete cars.company; will delete the property. Thus, the output would be ""undefined"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+try{
+    const cars = {
+        company: 'Honda'
+    };
+
+    Object.seal(cars);
+    delete cars.company;
+    document.write(cars.company);
+}
+catch (err){
+    document.write(err.message);
+}
+</script>
+```",undefined,Honda,ValueError,TypeError,B,"In the above JavaScript code, we have sealed the object and the seal property does not allow the object to be deleted. Hence, the property company will not be deleted.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+    let x = ""10"";
+    let y = + x;
+
+    document.write(typeof y);
+</script>
+```",string,object,undefined,number,D,"In JavaScript, the unary + operator can be used to convert a variable to a number. Hence, the statement let y = + x; will convert variable to number.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+    let x = 10;
+
+    document.write(typeof x, "" , "", typeof String(x));
+</script>
+```","number , string","number , number","object , string","object , object",A,"In the above JavaScript code, we are using the String() method which is a global method to convert numbers to string. Thus, the statement typeof String(x) will return string.",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of JavaScript,"What will be the output of the following JavaScript code?
+```
+<script>
+    let x = 10;
+
+    document.write(x, "" , "", toString(x));
+</script>
+```","10 , 10","10 , undefined","10 , [object Undefined]",None of the above,C,"In the above JavaScript code, the statement toString(x) will not convert number to string because toString() is not a global method, it is a Number method and the correct way is to call this function is x.toString().",medium,web:Includehelp.com https://www.includehelp.com/mcq/javascript-multiple-choice-questions-mcqs.aspx,

@@ -1,0 +1,245 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Web Technologies & Internet / PHP,List of CSS,What CSS describes?,CSS describes how calculation perform on button click.,"CSS describes how HTML elements are to be displayed on screen, paper, or in other media",Both A. and B.,None of the above,B,"CSS describes how HTML elements are to be displayed on screen, paper, or in other media.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What is the correct syntax for referring an external CSS?,"<link rel=""stylesheet"" type=""text/css"" href=""mystyle.css"">","<stylesheet rel=""stylesheet"" type=""text/css"" href=""mystyle.css"">","<style rel=""stylesheet"" type=""text/css"" href=""mystyle.css"">",All of the above,A,"The correct syntax to include (refer) an external CSS in an HTML document is,
+<link rel=""stylesheet"" type=""text/css"" href=""mystyle.css"">
+ Here,
+ rel defined the relationship.
+ href is the CSS filename.
+ type is the type of the file, for CSS – the type is ""text/css""",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What is a CSS selector?,A CSS selector is the CSS class name,A CSS selector is the set of properties that are going to be applied on HTML elements,A CSS selector is name of CSS file.,A CSS selector is the first part of a CSS Rule. It may an HTML element or pattern of elements.,D,A CSS selector is the first part of a CSS Rule. It may an HTML element or pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"In a CSS file, there is a CSS rule for paragraphs tags – what does p can be called?",Selector,Attribute,Property,Tag,A,"In a CSS rule, the HTML element(s) for them we are writing the CSS is known as ""CSS Selector"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Internal styles are written within the _____ element.,<style>…</style>,<css>…</css>,<stylesheet>…</stylesheet>,Both A. and B.,A,"Internal styles are defined within the <style> element, inside the <head> section of an HTML page.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Inline styles are written within the _____ attribute.,style,css,stylesheet,Both A. and B.,A,"Inline styles are defined within the style attribute of the relevant element.
+ Example:
+<h1 style=""color:blue;text-align:center;"">This is a heading</h1>
+<p style=""color:red;"">This is a paragraph.</p>",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,CSS comments are placed within the ______.,//,/* and */,<* and *>,<! And !>,B,"A CSS comment is placed inside the <style> element, and starts with /* and ends with */.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which property is used to define the text color?,text-color,color,font-color,Both A. and B.,B,The color property is used to define the text color in CSS.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which property is used to define the background color?,bgcolor,bg-color,background,background-color,D,The background-color property is used to define the background color in CSS.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,From the given options which is/are the valid way to represent a color?,"A valid color name like ""blue""","HEX code like ""#0000ff""","RGB Value like ""rgb(0,0,255)",All of the above,D,All of the given options are valid to define/represent the color name.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which property is used to define the font of the element's text?,font,font-family,font-style,All of the above,B,"The font-family property is used to define the font of the element's text.
+ Example:
+p
+{
+ font-family: ""Times New Roman"", Times, serif;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"To make a text italic, which CSS property is used?",font,font-family,font-style,All of the above,C,"The font-style property is used to define the font style i.e., to make the text bold. To make the text italic, italic value is used.
+ Example:
+p
+{
+font-style: italic;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What are the valid values of font-style property?,"italic, bold, bolder","normal, bold, italic","underline, bold, italic","inherit, italic, normal, oblique",D,"The following are the valid values of the font-style property,
+ inherit
+ italic
+ normal
+ oblique",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Why font-weight property is used?,Sets how thick or thin characters in text should be displayed.,Sets the size of the font,Both A. and B.,None of the above,A,The font-weight property sets how thick or thin characters in text should be displayed.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What is/are the correct value(s) of font-weight property?,"bold, italic, underline","normal, bold, italic","normal, bold, bolder, lighter, initial, and inherit",None of the above,C,"The valid values of the font-wight property:
+ normal,
+ bold
+ bolder
+ lighter
+ initial
+ inherit",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which is the correct inline CSS for p tag to define paragraph's text and background colors?,"<p css=""color: red; background-color: yellow;"">","<p cssstyle=""color: red; background-color: yellow;"">","<p inline=""color: red; background-color: yellow;"">","<p style=""color: red; background-color: yellow;"">",D,"The correct inline CSS style is,
+<p style=""color: red; background-color: yellow;"">Paragraph Text.</p>",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What is the correct syntax of border property in CSS?,border: border-width border-style border-color,border: border-color border-width border-style,border: border-style border-width border-color,All of the above,A,"The correct syntax to define element's border using the border property
+border: border-width border-style border-color
+ Example:
+<p style=""border: 2px solid red;"">
+This is some text in a paragraph.
+</p>",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which of the following is the correct syntax to display the hyperlinks without any underline?,a {text-decoration : underline;},a {text-decoration : none;},a {text-decoration : block;},None of the above,B,"The correct syntax to display the hyperlinks without any underline is,
+a {text-decoration : none;}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which of the following is the correct syntax to remove the underline on hyperlinks and visited hyperlinks?,"a {text-decoration : underline;}, a:visited {text-decoration : underline;}","a {text-decoration : block;}, a:visited {text-decoration : block;}","a {text-decoration : none;}, a:visited {text-decoration : none;}",None of the above,C,"The correct syntax to display the hyperlinks without any underline is,
+a {text-decoration : none;}, a:visited {text-decoration : none;}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property is used to style the hyperlinks on hover (Mouse over)?,a:mouseover,a:move,a:mover,a:hover,D,"The a:hover property is used to define the style on mouse over event,
+a:hover{
+// styles
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"If you want to use a green dotted border around an image, which CSS property is used for that?",border-style,border-color,border-decoration,Both A. and B.,D,"Two properties border-style and border-color are used to define a green dotted border around an image.
+Example:
+<img src=""image_1.jpg"" style=""border-style:dotted;border-color:green;""/>",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property and value is used to center an element?,text-align:center,align:center,text-align:middle,align:middle,A,text-align property with value center is used to center an elements.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What are the valid values of text-align property?,"left, middle, right","left, center, right","left, center, right, justify","left, middle, right, justify",C,"The valid values of text-align property are,
+ left
+ center
+ right
+ justify",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"What is the use of ""text-align:justify"" in CSS?",Stretches the lines so that each line has equal width,Stretches the lines so that each line can be arranged in left alignment,Stretches the lines so that each line can be arranged in right alignment,None of the above,A,The text-align:justify property stretches the lines so that each line has equal width.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property is used to specify the indentation of the first line of a text?,text-align,padding-left,margin-left,text-indent,D,"The text-indent property is used to specify the indentation of the first line of a text.
+ Example:
+p {
+ text-indent: 50px;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property is used to specify the space between the characters in a text?,text-space,letter-space,letter-spacing,letter-distance,C,"The letter-spacing property is used to specify the space between the characters in a text.
+ Example:
+p {
+ letter-spacing: 5px; 
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property is used to specify the space between lines?,line-space,line-spacing,line-padding,line-height,D,"The line-height property is used to specify the space between lines.
+ Example:
+p {
+ line-height: 2.0;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property is used to specify the space between the words in a text?,word-spacing,word-padding,word-height,characters-spacing,A,"The word-spacing property is used to specify the space between the words in a text.
+ Example:
+p {
+ word-spacing: 10px;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property adds shadow to text?,content-shadow,text-shadow,word-shadow,text-outline,B,"The text-shadow property adds shadow to text.
+ Example:
+p {
+ text-shadow: 1px 2px green;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property is used to specify uppercase and lowercase letters in a text?,text-transform,text-case,case,text-casing,A,"The text-transform property is used to specify uppercase and lowercase letters in a text.
+ Example:
+p {
+ text-transform: uppercase / lowercase / capitalize;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which is the correct CSS statement to capitalize the first letter of each word?,text-transform: uppercase,text-transform: capitalize,text-transform: sentence,Both A. and B.,B,"The correct CSS statement is to capitalize the first letter of each word,
+p {
+ text-transform: capitalize;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What are the valid values of text-transform property?,"uppercase, lowercase, and capitalize","uppercase, lowercase, capitalize, and sentence","upper, lower, and capital","upper, lower, capital, and sentence",A,"The valid values of text-transform property are,
+ uppercase
+ lowercase, and
+ capitalize",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"What are the valid values of ""text-decoration"" property?","overline, line-through, underline, and none","overline, strike, line-through, underline, and none","double-line, overline, line-through, underline, and none",None of these,A,"The valid values of text-decoration property are,
+ overline
+ line-through
+ underline, and
+ none",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property specifies how to align the last line of a text?,text-align,last-text-align,text-align-last-line,text-align-last,D,"The text-align-last property specifies how to align the last line of a text.
+ Example:
+p {
+ text-align-last: right;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property sets the vertical alignment of an element?,vertical-align,vertical-text-align,text-valign,vertical-align-text,A,"The vertical-align property sets the vertical alignment of an element.
+ Example:
+p {
+ vertical-align: baseline;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What are the valid values of vertical-align property?,"baseline, text-top, text-bottom, subscript, and superscript","baseline, top, bottom, sub, and super","baseline, text-top, text-bottom, sub, and super","base, text-top, text-bottom, sub, and super",C,"The valid values of vertical-align property are,
+ baseline
+ text-top
+ text-bottom
+ sub, and
+ super",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which is the correct CSS statement to define multiple font families?,"font: ""Times New Roman"", Times, serif;","font-name: ""Times New Roman"", Times, serif;","font-family: ""Times New Roman, Times, serif"";","font-family: ""Times New Roman"", Times, serif;",D,"The correct CSS statement to define multiple font families,
+p {
+ font-family: ""Times New Roman"", Times, serif;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property specifies the type of list item marker?,list-style,list-style-type,list-style-circle,list-style-square,B,"The list-style-type property specifies the type of list item marker.
+ Example:
+ul {
+ list-style-type: circle;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which is the correct CSS statement is used to remove the markers/bullets?,list-style: none;,list-style-type: 0;,list-style-type: blank;,list-style-type: none;,D,"The correct CSS statement is used to remove the markers/bullets,
+ul {
+ list-style-type: none;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property specifies an image as the list item marker?,list-style-image,list-style-picture,list-style-background,list-style-bgimage,A,"The list-style-image property specifies an image as the list item marker.
+ Example:
+ul {
+ list-style-image: url('sqpurple.gif');
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property specifies if/how an element is displayed?,block,display,element-display,element-block,B,"The display property specifies if/how an element is displayed.
+ Example:
+ul {
+ display: block;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property specifies the type of positioning method used for an element?,positions,text-position,positioning,position,D,"The position property specifies the type of positioning method used for an element.
+ Example:
+div.fixed{
+ position: fixed;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,HTML elements are positioned ___ by default.,static,fixed,relative,none,A,HTML elements are positioned static by default.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"What are the valid values for ""position"" property?","block, none, fixed, absolute, and static","block, static, fixed, absolute, and sticky","static, relative, fixed, absolute, and none","static, relative, fixed, absolute, and sticky",D,"The valid values for position property are,
+ static
+ relative
+ fixed
+ absolute
+ sticky",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property specifies the opacity/transparency of an element?,transparency,opacity,transform-opacity,opacity-all,B,"The opacity property specifies the opacity/transparency of an element.
+ Example:
+img {
+ opacity: 0.8;
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS function performs a calculation to be used as the property value?,sum(),add(),calc(),addition(),C,"The calc() function performs a calculation to be used as the property value.
+ Example:
+body {
+ width: calc(100% - 100px);
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS function uses the largest value?,large(),maximum(),max_value(),max(),D,"The max() function uses the largest value.
+ Example:
+body {
+ width: max(80%, 100px);
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS function uses the smallest value?,small(),minimum(),min_value(),min(),D,"The min() function uses the smallest value.
+ Example:
+body {
+ width: min(80%, 100px);
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,In how many ways can CSS be added to HTML?,One,Two,Three,Infinite,C,"CSS can be added to HTML in three different ways.
+ By using style attribute inside <body> tag.
+ By using <style> tag inside the <head> section of HTML
+ By creating an external CSS file and linking this file using <link> tag in HTML.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,The <style> in Internal CSS refers to ___.,Attributes,HTML tags,Selector,All of the above,B,"In Internal CSS, we add CSS using <style>, which is an HTML tag.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Can we link multiple stylesheets to a single page?,Yes,No,"Can't say, it depends on CSS properties",None of the above,A,"Yes, we can link multiple stylesheets to a single page. You just have to add the <link> element for each stylesheet.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,The CSS property used to change text sizes?,font-family,font-size,font,Both A and C,D,The font and font-size CSS properties are used to change the font size. Font size is one of the longhand properties of the font.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"In this line of code, identify the selector ___.
+```
+p {border: 2px solid blue;}
+```",p,border,2px,None of these,A,"In the given line of code, p is the selector. Selectors target HTML elements that we want to style. Here, the border is a CSS property and 2px solid blue is the property value.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,How many color names does CSS supports?,140,100,75,90,A,CSS3 has 140 color names available which are supported by all the browsers.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,The ___ property is used in the positioning of the background image.,background-image,background-position,padding,All of the above,B,"As the name suggests, the background-position property specifies the position of the background image.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,___ means 4 times the size of the current font.,4px,4 pt.,4em,4vw,C,All four units refer to the unit of length. 4em means 4 times the size of the current font which is relative to the font size of the element.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"Amongst the following browsers, which browser supports almost all the CSS properties?",Firefox,Safari,Google Chrome,Opera,C,Both Google Chrome and Microsoft Edge support almost all the CSS properties.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What is the CSS Entity for the character '#'?,0023,0026,0027,None of the these,A,"We use CSS Entities to display all the characters. There are different entities for different characters. For this character ""#"", CSS Entity is 0023.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,This selector selects all the <h> elements where the parent is a <div> element.,h + p,h > p,p.h,p > h,B,This is an element>element selector in which operand on the left side of child combinator (>) is the parent and operand on the right side is the child element.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which selector selects the markers of list items?,:: marker,.marker,::selector,None of these,A,The :: marker selector targets the list markers of list items.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which is the most widely used font in customizing web pages?,Times New Roman,Georgia,Arial,Garamond,C,Arial (sans-serif) is the most widely used font on web pages.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which of the following CSS properties are animatable?,color,border-left,flex,All of the above,D,"We can add animation and transitions to all these three properties. To add animations, we apply animation property.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which of these units of length is supported by Chrome Version 1.0?,rem,px,vw,vh,B,Pixels (px) is supported by Chrome Version 1.0.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which line of code is a must to write to apply CSS Flexbox properties?,display: flex;,display: flexbox;,display: block;,flex-direction: row;,A,"If you want to apply CSS Flexbox properties, you need to set the display to flex first.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,The default value of justify-content property is ___.,flex-start,flex-end,space-between,None,A,The justify-content property is one of the CSS Flexbox properties. Its default value is flex-start.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which is the correct syntax for adding animation?,animation: name timing-function duration,animation: name duration timing-function,animation: name delay duration,None of these,B,"The correct syntax for adding animation is:
+animation: name duration timing-function",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which line of code specifies playing an animation with the same speed from beginning to the end?,div {animation- timing function: linear;},div {animation- timing function: ease in;},div {animation- play- state: paused;},div {animation- fill-mode: both;},A,"We use the animation- timing- function property to define the time an animation uses to change from one set of CSS styles to another. When we set its value to linear, the animation will have the same speed from start to end.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which line of code represents a universal selector?,*{border: 2px solid red;},body {border: 2px solid red;},both A&B,None of these,A,"Syntax for Universal selector is:
+*{CSS property}
+ This selector selects all the HTML elements on the page.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which of the following properties specify the width of the borders?,border-width,border-style,border,Both A and C,D,"Both border and border-width properties specify the width of the borders. The border property is a shorthand property for border-width, border-style, and border-color.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What value is set to border: collapse property to define borders around each cell? (Refer to the image),collapse,separate,initial,inherit,B,"When we set the value of border:collapse property to separate, each cell will display its borders.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which cursor property value indicates that the program is busy?,help,default,auto,wait,D,"When we set the cursor property value to wait, the cursor indicates that the program is busy.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"What does this line of code explain?
+```
+p {display: flex;}
+```",All the <p> elements are displayed as a block-level flex container,All the <p> elements are not displayed by the browser,All the <p> elements are displayed as a grid container,All the <p> elements are displayed as an inline flex container,A,,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,The text-align property defines the ___ alignment of text in an element.,horizontal,vertical,both horizontal & vertical,None of these,A,The text-align property specifies the horizontal alignment of the text.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which CSS property is not supported by the Firefox browser?,text-indent,scroll- behavior,overflow,viewport,D,The viewport property is not supported by Firefox. Chrome and Microsoft Edge support this.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Which one is a fallback font?,Times New Roman,Georgia,Serif,None of these,C,One of the most commonly used fallback fonts is serif. Times New Roman and Georgia are examples of serif.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,Where do we store external stylesheets?,HTML files,CSS files,Folder,None of these,B,External stylesheets are stored in CSS files and we can link those files in HTML using the <link> tag.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"In the given line of code, identify the type of selector used.
+```
+#Main {background-color: yellow;}
+```",CSS element selector,CSS id selector,Combinator selector,All of the above,B,"The id selector uses the id attribute of an HTML element to select a specified element.
+ Syntax:
+#id attribute {CSS property}",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,The Hex Code for the red color is ___.,#FF0000,#F0F000,#F0000F,None of these,A,Hex codes are three-byte hexadecimal numbers that are used to identify color in HTML/CSS.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"In CSS, what does HSL stands for?","hue, standard, light","height, standard, line-width","hue, saturation, lightness","hue, standard, line-width",C,"HSL stands for hue, saturation, lightness. In CSS, we can specify color using the HSL value.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"Among the following CSS properties, which property is not a shorthand property?",background,padding,display,border,C,The display property is not a shorthand property. It has only one property value.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"In this line of code, what is the use of the alt attribute?
+```
+<img src=""circle.jpg"" alt=""It is red"">
+```",Adds a text description to an image,Provides alternative information for an image,To hide an image,Both A & B,D,The alt attribute is used to provide alternative information for an image if a user fails to view an image on the webpage and also it tells us something related to the image.,medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"The CSS border property specifies the style, color, and ___ of an element's border.",length,size,width,area,C,"The CSS border properties specify the style, color, and width of an element's border. The border property is a shorthand property for border-width, border-style, and border-color.",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"To get this output, the CSS properties put to use are ___.","display, border, align-items, justify-content","display, border-width, justify-content, border-color","margin, display, padding-left, justify-content",None of these,A,"Code:
+border: 4px solid blue;
+display: flex;
+align-items: center;
+justify-content: center;",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,What does 'padding: 50px 20px;' specifies?,top padding is 50px,bottom padding is 20px,right padding is 20px,Both A & C,D,"This line of code specifies top and bottom paddings are ""50px"" & ""right"" and left paddings are ""20px"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,List of CSS,"What is the default size for normal text, like paragraphs?",11px,12px,16px,18px,C,"If we don't specify a font size, the default size for normal texts is ""16px"" or ""1em"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/css-multiple-choice-questions-mcqs.aspx,

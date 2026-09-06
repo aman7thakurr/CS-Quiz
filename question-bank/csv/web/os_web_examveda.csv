@@ -1,0 +1,910 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Operating Systems,Operating System (Examveda),If there are multiple recycle bin for a hard disk,You can set different size for each recycle bin,You can choose which recycle bin to use to store your deleted files,You can make any one of them default recycle bin,None of above,A,"If there are multiple recycle bins for a hard disk, you can set the size for each recycle bin. There is one recycle bin for each partition.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),Identify false statement,You can find deleted files in recycle bin,You can restore any files in recycle bin if you ever need,You can increase free space of disk by sending files in recycle bin,You can right click and choose Empty Recycle Bin to clean it at once,C,"In Windows operating system, the recycle bin is temporary storage for files or folders that have been deleted but are not yet permanently erased from the system. A user can open the recycle bin and restore deleted file if need.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),"If the displayed system time and date is wrong, you can reset it using",Write,Calendar,Write file,Control panel,D,"The Control Panel is a component of Microsoft Windows that provides the ability to view and change system settings. It consists of a set of applets that include adding or removing hardware and software, controlling user accounts, changing accessibility options, and accessing networking settings.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),You should save your computer from?,Viruses,Time bombs,Worms,All of the above,D,"The correct answer is D: All of the above 
+Let's understand why: 
+Viruses: These are malicious programs that can replicate themselves and spread to other files or computers. They can corrupt data, slow down your computer, or even steal your personal information. 
+Time bombs: These are pieces of code that are designed to execute at a specific time or when a certain condition is met. They can cause damage to your system when they activate. 
+Worms: These are similar to viruses, but they can spread automatically across networks without needing human interaction. They can consume network bandwidth and cause system slowdowns. 
+Since viruses, time bombs, and worms are all harmful to your computer, you should protect your system from all of them.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),World Wide Web is being standard by,Worldwide corporation,W3C,World Wide Consortium,World Wide Web Standard,B,"The correct answer is B: W3C 
+Let's break down why: 
+ 
+W3C stands for the World Wide Web Consortium. 
+This organization is the main international standards organization for the World Wide Web. 
+They develop and maintain the standards that ensure websites work consistently across different browsers and devices. 
+ 
+Why the other options are incorrect: 
+* A: Worldwide corporation: This is too general; no specific corporation oversees web standards. 
+* C: World Wide Consortium: While similar to W3C, the correct and officially recognized acronym is W3C. 
+* D: World Wide Web Standard: This is a description, not the name of the organization responsible. 
+ 
+Therefore, W3C is the definitive body responsible for standardizing the World Wide Web.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),A co-processor,Is relatively easy to support in software,Causes all processor to function equally,Works with any application,Is quite common in modern computer,D,"In the context of computer fundamentals and operating systems, a co-processor (or coprocessor) is a specialized processing unit that assists the main processor (CPU) in executing certain operations, such as mathematical or graphical tasks, more efficiently. Co-processors are designed to work in conjunction with the main processor to enhance overall system performance. 
+Therefore, the correct answer is Option D: Is quite common in modern computers.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),A Microsoft Windows is a(n),Operating system,Graphic program,Word Processing,Database program,A,"Microsoft Windows is a group of Operating Systems manufactured by Microsoft. Windows is available in 32 and 64-bit versions and offers a graphical user interface (GUI), multitasking functionalities, virtual memory management capabilities, and support for several peripheral devices. Windows Operating Systems constitute client as well as server versions.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),Which of the following is program group?,Accessories,Paint,Word,All of above,A,"A paint program is a software graphics program that allows the user to draw, color, or paint bitmapped images on a computer. Though most are discontinued, examples include: KolourPaint, XPaint, Deluxe Paint, MacPaint, and Microsoft Paint, which is shown in the picture.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),Which is not application software?,Windows NT,Page Maker,WinWord XP,Photoshop,A,Windows NT is a family of operating systems produced by Microsoft.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),The ...... program compresses large files into a smaller file,WinZip,WinShrink,WinStyle,None of above,A,"WinZip is a Windows program that lets you archive and compress files so that you can store or distribute them more efficiently. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/,
+Operating Systems,Operating System (Examveda),Which of the following is an example of a real time operating system?,Lynx,MS DOS,Windows XP,Process Control,D,"A real-time operating system (RTOS) is an operating system (OS) intended to serve real-time applications that process data as it comes in, typically without buffer delays. Processing time requirements (including any OS delay) are measured in tenths of seconds or shorter increments of time.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),Which of the following operating system does not implement the multitasking truly?,Windows 98,Windows NT,Windows XP,MS DOS,D,"Multitasking, in an operating system, is allowing a user to perform more than one computer task (such as the operation of an application program) at a time. The operating system is able to keep track of where you are in these tasks and go from one to the other without losing information. 
+MS DOS does not implement the multitasking.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),Which of the following windows version support 64 bit processor?,Windows 98,Windows 2000,Windows XP,Windows 95,C,"Microsoft Windows XP Professional x64 Edition, released on 25th April 2005, is an edition of Windows XP for x86-64 personal computers. It is designed to use the expanded 64 bit memory address space provided by the x86-64 architecture. 
+The primary benefit of moving to 64 bit is the increase in the maximum allocatable random-access memory (RAM).",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),What program runs first after computer is booted and loading GUI?,Desktop Manager,File Manager,Windows Explorer,Authentication,D,It is the mechanism of associating an incoming request with a set of identifying credentials. The credentials provided are compared to those on a file in a database of the authorized user's information on a local operating system or within an authentication server.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),Which of the following operating system do you choose to implement a client server network?,MS DOS,Windows,Windows 98,Windows 2000,D,"Windows 2000 is a major release of the Windows NT operating system developed by Microsoft and oriented towards businesses. It was the direct successor to Windows NT 4.0, and was released to manufacturing on 15th December 1999, and was officially released to retail on 17th February 2000.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),Which of the following Operating systems is better for implementing a Client-Server network,MS DOS,Windows 95,Windows 98,Windows 2000,D,It is the main hub for configuring Windows 2000 network services. Windows 2000 is a major release of the Windows NT operating system developed by Microsoft and oriented towards businesses.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),My Computer was introduced from,Windows 3.1,Windows 3.11,Windows 95,Windows 98,C,My Computer is a Microsoft Windows feature first found in Windows 95 and included with all later versions that allows you to explore and manage the contents of your computer drives.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),Which of the following Windows do not have Start button,Windows Vista,Windows 7,Windows 8,None of above,C,"Windows 8 drew criticism from a lot of PC users for Microsoft's decision in removing the Start button. With no option to bring it back, users are forced to bring up the new Start screen by pressing the Windows key on your keyboard or by clicking the bottom left corner of your screen.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),Which is the latest version of MS Windows?,Windows 2007,Windows 7,Windows 11,Windows 10,C,"Still, numbers for server use of Windows (that are comparable to competitors) show one third market share, similar to that for end user use. As of October 2021, the most recent version of Windows for PCs and tablets is Windows 11, version 21H2. The most recent version for embedded devices is Windows 10, version 21H1.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),Which operating system doesn't support networking between computers?,Windows 3.1,Windows 95,Windows 2000,Windows NT,A,"Windows 3.1 is the GUI-based operating system from Microsoft that made personal computers easier and more fun to use. In 1992, Microsoft released Windows 3.1, which included additional enhancements and utilities. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=2,
+Operating Systems,Operating System (Examveda),Which of the following does not support more than one program at a time?,DOS,Linux,Windows,Unix,A,DOS is a family of disk operating systems. DOS primarily consists of MS-DOS and a rebranded. Only one program at a time can use them and DOS itself has no functionality to allow more than one program to execute at a time.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),Which of the following is not an operating system?,DOS,Linux,Windows,Oracle,D,Oracle database (Oracle DB) is a relational database management system (RDBMS) from the Oracle Corporation.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),Linux is a(n) ....... operating system,Open source,Microsoft,Windows,Mac,A,"Linux is a family of free and open-source software operating systems built around the Linux kernel. Typically, Linux is packaged in a form known as a Linux distribution for both desktop and server use.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),Which operating system can you give smallest file name?,Ps/2,Dos,Windows,Windows NT,B,"DOS (Disk Operating System) is an operating system that runs from a hard disk drive. The term can also refer to a particular family of disk operating systems, most commonly MS-DOS (Microsoft Disk Operating System).",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),Which one is not operating system?,P11,OS/2,Windows,Unix,A,"An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs. Early computers were built to perform a series of single tasks, like a calculator. Basic operating system features were developed in the 1950s, such as resident monitor functions that could automatically run different programs in succession to speed up processing.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),Which of the following is not a multitasking operating system?,Windows,Linux,Win NT,DOS,D,DOS is not a multitasking operating system. DOS did however provide a Terminate and Stay Resident (TSR) function which allowed programs to remain resident in memory.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),You should choose Sleep option when,The computer is tired after working for the whole day,You are leaving for a very short time and want to resume you work shortly,When computer gets hanged frequently. Let it sleep for some time,You finish working and going to bed,B,"Sleep mode, sometimes called standby or suspend mode, is a power-sparing state that a computer can enter when not in use. The computer's state is maintained in RAM (random access memory). A computer usually wakes from sleep mode through touching a key, clicking the mouse or pressing the power button.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),The ..... displays the name of every computer user on the computer,Wish list screen,Command screen,Welcome screen,None of the above,C,Welcome screen displays the name of every computer user on the computer display screen (Computer Monitor).,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),The category of software most appropriate for controlling the design and layout of complex document like newsletters and brochure is:,Word processing,Computer aided design,Web page authoring,Desktop publishing,A,The category of software most appropriate for controlling the design and layout of complex document like newsletters and brochure is Word processing.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),Which one is not a system tool?,Backup,Disk defragment,Virus scanning,All of the above,C,"Virus scanning is not a system tool as tools such as disk defragmenter, backup, et cetera assist in system maintenance. It does basic maintenance to keep system running smoothly. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=3,
+Operating Systems,Operating System (Examveda),The memory which allocates space for DOS and application is called,Expanded memory,Cache memory,Virtual memory,Conventional memory,D,"In DOS memory management, conventional memory, also called base memory, is the first 640 kilobytes (640 × 1024 bytes) of the memory on IBM PC or compatible systems. It is the read-write memory directly addressable by the processor for use by the operating system and application programs.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),The operating system creates _____ from the physical computer,Virtual space,Virtual computers,Virtual device,None,B,"In computing, a virtual machine is an emulation of a computer system. Virtual machines are based on computer architectures and provide the functionality of a physical computer.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),Which menu bar selection would you access to open file?,Option,Help,View,None of above,D,,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),Which mode loads minimal set of drivers when starting Windows?,Safe Mode,Normal Mode,VGA Mode,Network Support Mode,A,"Safe mode is a diagnostic mode of a computer operating system (OS). It can also refer to a mode of operation by application software. In Windows, safe mode only allows essential system programs and services to start up at boot. Safe mode is intended to help fix most, if not all problems within an operating system. It is also widely used for removing rogue security software.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),Which of the following are loaded in safe mode?,Keyboard driver,Mouse driver,VGA drive,All of above,D,"Safe mode is a diagnostic mode of a computer operating system (OS). It can also refer to a mode of operation by application software. Safe mode is intended to help fix most, if not all, problems within an operating system. It is also widely used for removing rogue security software. 
+In safe mode, an operating system has reduced functionality, but the task of isolating problems is easier since many non-core components are disabled, such as sound, and many core components are enabled, such as keyboard drivers, mouse drivers, vga drivers, etc. An installation that will only boot into safe mode typically has a major problem, such as disk corruption or the installation of poorly-configured software that prevents the operating system from successfully booting into its normal operating mode. 
+Safe mode typically provides access to utility and diagnostic programs so a user can troubleshoot what",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),A ....... is a named location on a disk where files are stored,Folder,Pod,Version,None of the above,A,"When talking about file systems, a folder (also called directory, or catalog) is a way to organize computer files. A folder is a storage space that many files can be placed into to group them together and organize the computer. A folder can also contain other folders.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),Which type of command requires additional files to perform specific operations?,Internal commands,External commands,Valuable commands,Primary commands,B,"External commands are predefined commands for end users. They are operating-system independent and are protected by authorizations, so that normal end users can schedule only those commands that the system administrator permits them to.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),Which of the following is system software?,Operating system,Compiler,Utilities,All of the above,D,"The operating system (OS) is the best-known example of system software. The OS manages all the other programs in a computer. According to some definitions, system software also includes system utilities, such as the disk defragmenter and System Restore, and development tools such as compilers and debuggers.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),A user-interface that is easy to use is considered to be,User-happy,User-simple,User-friendly,None of the above,C,"A GUI is considered to be more user-friendly than a text-based command-line interface, such as MS-DOS, or the shell of Unix-like operating systems. Unlike a command-line operating system or CUI, like UNIX or MS-DOS, GUI operating systems are easier to learn and use because commands do not need to be memorized.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),A ..... is a flash memory storage device that plugins into a USB port,USB snap drive,USB flash drive,USB memory maker drive,None of above,B,"A USB flash drive is a device used for data storage that includes a flash memory and an integrated Universal Serial Bus (USB) interface. Most USB flash drives are removable and rewritable. Physically, they are small, durable and reliable. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=4,
+Operating Systems,Operating System (Examveda),The ....... is the drive containing the files to be copied,Source drive,Destination drive,USB drive,None of the above,A,"The Source drive is the drive containing the files to be copied. Open source refers to the computer software or applications where the owners or copyright holders allow the users or third party to see, use and provide the right to modify the source code of the product. An Open-source Operating System is the Operating System in which source code is visible publically and editable.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),Which one of the following is not a multitasking operating system?,DOS,Windows,Unix,Linux,A,DOS is not a multitasking operating system. DOS did however provide a Terminate and Stay Resident (TSR) function which allowed programs to remain resident in memory.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),The most recent version of MAC OS is based on the ...... operating system,Windows,Linux,Unix,CMOS,C,"You may have heard that Macintosh OSX is just Linux with a prettier interface. That's not actually true. But OSX is built in part on an open source UNIX derivative called FreeBSD. It was built atop UNIX, the operating system originally created over 30 years ago by researchers at AT&T's Bell Labs.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),"In Windows, start button is used to",Run applications,Device setting,Turn off the system,All of above,D,"The Start button was first introduced with the release of Microsoft Windows 95 and has been featured in all releases of Windows since. The Start button allows users to access their run applications, device setting, turn off the system, computer programs or configure Microsoft Windows easily by accessing the Start Menu.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),Which one is true for unconditional disk formatting?,Destroys every byte of data on a disk by overwriting it with blank spaces,Do not check/scan surface after format,Transfer system files after format,All of above,A,"The correct answer is Option D: All of above. Each of the provided statements is true for unconditional disk formatting.
+
+ Unconditional disk formatting, also known as a low-level format or full format, completely erases data on a disk by writing over every sector with zeroes or blank spaces. This process ensures that all data is removed from the disk, making it unrecoverable.
+
+ Details for each option: 
+
+ Option A: Destroys every byte of data on a disk by overwriting it with blank spaces is true because unconditional disk formatting writes zeroes or blank data to every sector of the disk, effectively erasing all existing data. 
+ Option B: Do not check/scan surface after format is true as well because an unconditional format does not perform a surface scan to check for bad sectors; it only writes over the data. 
+ Option C: Transfer system files after format is true in the sense that afte",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),"Once text has been cut to the clipboard, you can ...... that text into another document",Paste,Copy,Transfer,None of the above,A,"In your document, click where you want to paste the item. Do one of the following in the Clipboard: Click the down arrow next to the item you want to paste, and click Paste. To paste everything in the Clipboard to the selected area in your document, click Paste All.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),What is the function of radio button?,To select multiple option,To select single option,To select all option,All of above,B,A radio button or option button is a graphical control element that allows the user to choose only one of a predefined set of mutually exclusive options.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),The Banker's algorithm is used,to rectify deadlock,to detect deadlock,to prevent deadlock,to solve deadlock,C,"The Banker algorithm, sometimes referred to as the detection algorithm, is a resource allocation and deadlock avoidance algorithm developed by Edsger Dijkstra that tests for safety by simulating the allocation of predetermined maximum possible amounts of all resources, and then makes an ""s-state"" check to test for possible deadlock conditions for all other pending activities, before deciding whether allocation should be allowed to continue.
+Source : wikipedia.org",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),The primary purpose of an operating system is:,To make the most efficient use of the computer hardware,To allow people to use the computer,To keep systems programmers employed,To make computers easier to use,A,"An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs. 
+For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it.
+Source : wikipedia.org",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),You can use print manage window,To check status of files in the print queue,To cancel the print job,To interrupt printing,All of the above,D,"Print Management is a snap-in in Microsoft Management Console (MMC) that enables you to install, view, and manage all of the printers in your organization from any computer running Windows Server. Print Management provides up-to-the-minute details about the status of printers and print servers on the network. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=5,
+Operating Systems,Operating System (Examveda),Which of the following operating system reads and reacts in actual time?,Quick Response System,Real Time System,Time Sharing System,Batch Processing System,B,"A real-time operating system (RTOS) is an operating system (OS) intended to serve real-time applications that process data as it comes in, typically without buffer delays. Processing time requirements (including any OS delay) are measured in tenths of seconds or shorter increments of time. A real time system is a time bound system which has well defined fixed time constraints.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),All of the following are TRUE regarding virtual memory EXCEPT,Any amount of RAM can be allocated to virtual memory,The setting for the amount of hard disk drive space to allocate virtual memory can be manually change,This temporary storage is called the swap file or page file,Virtual memory is the physical space o the hard drive,A,Any amount of RAM can be allocated to virtual memory. The setting for the amount of hard drive space to allocate to virtual memory can be manually changed. This temporary storage is called the swap file (or page file). Virtual memory is physical space on the hard drive.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),The essential difference between an operating system like Linux and one like Windows is that,"Windows can run with an Intel processor, whereas Linux cannot",Linux is a proprietary whereas Windows is not,"There are multiple versions of Linux, but only one version of Windows",Any programmer can modify Linux code which is not permitted with Windows,D,"The essential difference between an operating system like Linux and one like Windows is that. Windows can run with an Intel processor, whereas Linux cannot. Linux is proprietary, whereas Windows is not.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),What is dispatch latency?,The time taken by the dispatcher to stop one process and start another,The time taken by the processor to write a file into disk,The whole time taken by all processor,None of Above,A,The time taken by the dispatcher to stop one process and start another. The amount of time taken by the dispatcher to pause one process. and start another is called dispatch latency. The process of saving the state of a previously running process or thread. and loading the initial or previously saved state of a new process by the dispatcher. Dispatch latency is a time value.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),A page fault occurs when,the Deadlock happens,the Segmentation starts,the page is found in the memory,the page is not found in the memory,D,An interrupt that occurs when a program requests data that is not currently in real memory. The interrupt triggers the operating system to fetch the data from a virtual memory and load it into RAM. An invalid page fault or page fault error occurs when the operating system cannot find the data in virtual memory.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),Whenever you move a directory from one location to another,All files inside the directory are moved,All the subdirectory inside that directory are moved,The directory is moved the source file is not moved,Both A and B,D,All the files inside the directory and inside subdirectory are moved in that location.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),The Basic Input Output System (BIOS) resides in,RAM,ROM,The CPU,Memory Cache,B,"A computer's basic input/output system (BIOS) is a program that's stored in nonvolatile memory such as read-only memory (ROM) or flash memory, making it firmware. The BIOS (sometimes called ROM BIOS) is always the first program that executes when a computer is powered up.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),Which of the following does not occur during the power-on-self-test (POST)?,The ScanDisk utility begins to run,The video card and video memory are tested,The BIOS identification process occurs,Memory chip are checked to ensure that they are working properly,A,The ScanDisk utility begins to run. The video card and video memory are tested. The BIOS identification process occurs.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),The maximum size of a write file is limited to only,Name of the file,Extension of the file,The amount of memory in your computer,All of above,C,"The maximum size of a write file is limited to the amount of memory in your computer. Charles Babbage originated the concept of a programmable computer. In computers, a memory unit is used for the storage of data. Memory is mainly classified into Primary memory (RAM and ROM) and Secondary memory (hard drive, CD, etc.).",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),Which of the following is drop down list?,List,Combo box,Text area,None,B,"A Combo Box displays a text box combined with a List Box, which enables the user to select items from the list or enter a new value. The Dropdown Style property specifies whether the list is always displayed or whether the list is displayed in a drop-down. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=6,
+Operating Systems,Operating System (Examveda),Recently deleted files are stored in,Recycle bin,Desktop,Taskbar,My computer,A,"In computing, the Trash (also known as the Recycle Bin in Windows and by other names in other operating systems ) is temporary storage for files that have been deleted in a file manager by the user, but not yet permanently erased from the file system. Typically, a recycle bin is presented as a special file directory to the user (whether or not it is actually a single directory depends on the implementation), allowing the user to browse deleted files, undelete those that were deleted by mistake, or delete them permanently (either one by one, or by the ""Empty Trash"" function).
+Source : wikipedia.org",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),Which components appear in the initial Windows start up display?,Dialog boxes,Start menu,Taskbar,All of above,C,The taskbar is an element of an operating system located at the bottom of the screen. It allows you to locate and launch programs through Start and the Start menu or view any program that's currently open.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),A small part of taskbar that has icons of background running applications is,Start button,Quick launch,Task bar,System tray,D,"The system tray is a notification area on the operating system taskbar. It contains icons that provide users with easy access to system functions such as email, printer, network connections and volume control. The icons also indicate the statuses of the processes running on the computer.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),An operating system version designed for use with a media center PC is Microsoft Windows XP,Home edition,Media center edition,Tablet PC edition,None of above,B,"Windows XP Media Center Edition (MCE) is a version of the Windows XP operating system which was the first version of Windows to include Windows Media Center, designed to serve as a home-entertainment hub.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),An operating system version designed for use with a tablet PC is Microsoft Windows XP,Home edition,Media center edition,Tablet PC edition,None of the above,C,"An operating system version designed for use with a tablet PC is Microsoft Windows XP Tablet PC edition. A tablet PC is a portable PC that is a hybrid between a personal digital assistant (PDA) and notebook PC. Equipped with a touch screen interface, a tablet PC usually has a software application used to run a virtual keyboard. However, many tablet PCs support external keyboards.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),"If you hard disk is partitioned into 3 drives, the number of recycle bin for that hard disk is",1,2,3,4,A,,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),The date and time displays on,Taskbar,Status bar,System tray,Launch pad,C,"The system tray is a notification area on the operating system taskbar. It contains icons that provide users with easy access to system functions such as email, printer, network connections and volume control. The icons also indicate the statuses of the processes running on the computer.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),...... runs on a computer hardware and serves as a platform for other system to run on,Operating system,Application system,System software,All of above,A,Operating system runs on computer hardware and serves as platform for other software's to run on it. The other software that runs on operating system platform is known as application or application programs.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),Which runs on computer hardware and serve as platform for other software to run on?,Operating System,Application Software,System Software,All,A,Operating system runs on computer hardware and serves as platform for other software's to run on it. The other software that runs on operating system platform is known as application or application programs.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),Which is the first program run on a computer when the computer boots up?,System software,Operating system,System operations,None,B,"When we turn on our computer installed operating system will start working. It ensures the co-ordination of other stored programs with system's hardware components. To enable operating system a Process is done which is called ""Booting"". 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=7,
+Operating Systems,Operating System (Examveda),The ....... contains commands associated with the My Computer window,Standard menu,Start menu,System menu,None of the above,C,"The System menu contains commands associated with the My Computer window. The Android System Settings menu allows you to control most aspects of your device everything from establishing a new Wi-Fi or Bluetooth connection, to installing a third-party onscreen keyboard, to adjusting system sounds and screen brightness.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),....... is the layer of a computer system between the hardware and the user program,Operating environment,Operating system,System environment,None of these,B,"Operating system is the layer of a computer system between the hardware and the user program. For the most part, the IT industry largely focuses on the top five OSs, including Apple Mac OS, Microsoft Windows, Google's Android OS, Linux Operating System, and Apple I OS.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),Which is the layer of a computer system between the hardware and the user program,Operating environment,Operating system,System environment,None,B,"Operating system is the layer of a computer system between the hardware and the user program. For the most part, the IT industry largely focuses on the top five OSs, including Apple Mac OS, Microsoft Windows, Google's Android OS, Linux Operating System, and Apple I OS.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),When you start up the computer the boot up storage at which the BIOS versions manufacturer and data are displayed on the monitor is called,Bootstrap,Power on self test (POST),System configuration,Kernel loading,B,"When power is turned on, POST (Power-On Self-Test) is the diagnostic testing sequence that a computer's basic input/output system (or ""starting program"") runs to determine if the computer keyboard, random access memory, disk drives, and other hardware are working correctly.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),The operating system is the most common type of ...... Software,Communication,Application,System,Word processing software,C,"The operating system is the most common type of system software. System software is computer software designed to provide a platform to other software. Examples of system software include operating systems, computational science software, game engines, industrial automation, and software as a service application.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),Which of the following is/are external commands?,Edit,Label,Sys,All of above,D,,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),Which is not an external command?,Edit,XCOPY,Sys,None of the above,D,"External commands are predefined commands for end users. They are operating-system independent and are protected by authorizations, so that normal end users can schedule only those commands that the system administrator permits them to.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),Which of the following is not essential to shut down your computer?,Save all opened files,Close all running applications,Switch off monitor,Cut off the power supply,C,"After finding the power button, press the button to turn off the monitor. Sometimes, you may need to press and hold the power button for 2 or 3 seconds to power off the monitor. Some monitor power buttons may also only require your finger touch and not push in on the button.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),What is Dr. Watson?,IT Expert,Diagnosis tool,Surgeon,None,B,Dr. Watson is a diagnostic tool that gathers information about your computer when a problem occurs with a program. The information gathered by Dr. Watson is called a snapshot. The snapshot includes information that: Identifies the program that has a problem.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),You can move a window to a different position on your screen by dragging it by its,Move handle,Tail,Status bar,Title bar,A,,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=8,
+Operating Systems,Operating System (Examveda),"A bar that inform you the available options in your computer, opened applications, background running applications and can be used to switch between applications quickly is",Menu bar,Tool bar,Status bar,Task bar,D,"A bar that informs you the available options in your computer, opened applications, background running applications and can be used to switch between applications quickly is Task bar.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),Taskbar is used for,Navigation program,Switching between program,Start a program,All of above,D,Answer: Taskbar is used to launch an application through the start menu. It displays all the opened applications and files. It is used to set taskbar and desktop properties.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),To install the new font in window XP,Start ⇒ setting ⇒ control panel ⇒ font,Start ⇒ setting ⇒ control panel ⇒ font ⇒ install new font,Start ⇒ control panel ⇒ font ⇒ install new font,Start ⇒ setting ⇒ font,B,"To install the new font in window XP 
+Start ⇒ setting ⇒ control panel ⇒ font ⇒ install new font. 
+• Unzip the fonts first. 
+• From the 'Start' menu select 'Control Panel'. 
+• Select the 'Appearance and Themes' category. 
+• Select 'Fonts' from the 'See Also' panel at the left of the screen. 
+• In the Fonts window, select the 'File menu', and choose 'Install New Font'.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),"When a peripheral device needs immediate attention from the operating system, it generates a(n)",Interrupt,Spool,Stack,Page file,A,An interrupt is a signal emitted by hardware or software when a process or an event needs immediate attention. It alerts the processor to a high-priority process requiring interruption of the current working process.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),"Underlined text, such as text and folder names is referred to as",Hyperlink,Menu,Source drive,None of these,A,"Underlined text, such as text and folder names is referred to as Hyperlink. 
+• Alternatively referred to as a link and web link, a hyperlink is an icon, graphic or text that links to another file or object. 
+• Hyperlinks are what allow web pages to connect to other web pages and without them you would need to know the URL (Uniform Resource Locator) for every page on the Internet.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),Which of the following is suitable after you install new drivers?,Shut Down,Restart,Sleep,Hibernate,B,,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),Windows displays various options to shutdown. Which is suitable at the end of day?,Shut Down,Restart,Sleep,Hibernate,A,,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),Which of the following shutdown method is often called Warm Boot?,Shut Down,Restart,Sleep,Hibernate,B,,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),"______ is most often done after fixing a problem, adding a new program or making configuration change",Shut Down,Restart,Sleep,Hibernate,B,"Restart is most often done after fixing a problem, adding a new program or making configuration change. Computer should be restarted after fixing a problem or installing a new application or making configuration. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=9,
+Operating Systems,Operating System (Examveda),___ is a compromise mode between Shut Down and Sleep mode because it does not consume power and remembers the current state of your desktop,Shut Down,Restart,Sleep,Hibernate,D,"This option was designed for laptops and might not be available for all PCs. (For example, PCs with InstantGo don't have the hibernate option.) Hibernate uses less power than sleep and when you start up the PC again, you’re back to where you left off (though not as fast as sleep). 
+Use hibernation when you know that you won't use your laptop or tablet for an extended period and won't have an opportunity to charge the battery during that time. First check to see if this option is available on your PC and if it is, turn it on.
+Source : microsoft.com",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),You should choose this mode if you don't know how long you won't use your computer but want to have the same desktop state when you resume,Shut Down,Restart,Sleep,Hibernate,D,"This option was designed for laptops and might not be available for all PCs. (For example, PCs with InstantGo don't have the hibernate option.) Hibernate uses less power than sleep and when you start up the PC again, you’re back to where you left off (though not as fast as sleep). 
+Use hibernation when you know that you won't use your laptop or tablet for an extended period and won't have an opportunity to charge the battery during that time. First check to see if this option is available on your PC and if it is, turn it on.
+Source : microsoft.com",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),The category of operating system that you most likely have running on your PDA computer is a ....... Operating system,Real time,"Single user, single task","Single user, multitask","Multiuser, multitask",B,"The category of operating system that you most likely have running on your PDA computer is a Single user, single task Operating system.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),Running multiple programs at the same time is called:,Multitasking,Foreground tasking,Single tasking,Symmetric,A,"Multitasking, in an operating system, is allowing a user to perform more than one computer task (such as the operation of an application program) at a time. The operating system is able to keep track of where you are in these tasks and go from one to the other without losing information.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),"What is the meaning of ""Hibernate"" in Windows XP/Windows 7?",Restart the Computer in safe mode,Restart the Computer in hibernate mode,Shutdown the Computer terminating all the running applications,Shutdown the Computer without closing the running applications,D,"The computer saves the current state of the system from the computer's RAM to the hard disk, then shuts down. When the computer is restarted, instead of going through the typical boot sequence, the previously saved state is automatically loaded into the RAM. The open windows and running programs from your previous session appear just as they were when the computer entered Hibernate mode. Basically, Hibernate mode acts like Standby mode, except the computer can be completely turned off.
+Source : techterms.com",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),The function of Dir/W is,Show all details of file,Show only file name and directory name,Shows only directory,All of the above,B,The function of Dir/W is Displays only filenames and directory names (without the added information about each file) in a five-wide display format. Dir c:*. This form of the DIR command will also display directories. They can be identified by the DIR label that follows the directory name.,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),Page stealing,Is a sign of an efficient system,Is taking page frame from other working sets,Should be the turning goal,Is taking layer disk space for page in page out,B,"Page stealing is taking page frames from other working sets. When pure demand paging is used, pages are loaded only when they are referenced.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),What do you mean by dialog box?,Interactive message box,Group of options,Set of controls,All of the above,D,"In Microsoft Windows, when you right-click a file and choose Properties, you are presented with the Properties dialog box. You can press Esc to cancel or close a dialog box. If the Esc key does not work, click the Cancel button or X button if available.",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),Dial up connection allows you to,Connect ISP,Internet,Server,All of above,A,A dial-up connection is established when two or more communication devices use a public switched telephone network (PSTN) to connect to an Internet service provider (ISP).,medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,
+Operating Systems,Operating System (Examveda),To properly exit Windows,Click the stop button on the desktop,Click the exit button on the desktop,Select shut down from Start menu,None of above,C,"The shut down button is located on the bottom-right side of the Start Menu. If you click on the arrow near Shut down, you can find other related options, all of which can be set as the default. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(Operating System)
+ Each Section contains maximum 100 MCQs question on Operating System. To get more questions visit other sections.
+ 
+ Operating System - Section 2
+ Operating System - Section 3
+ Operating System - Section 4
+ Operating System - Section 5
+ Operating System - Section 6
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-operating-system/?page=10,

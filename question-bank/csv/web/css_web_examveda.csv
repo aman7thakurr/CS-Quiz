@@ -1,0 +1,2081 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Web Technologies & Internet / PHP,basic css,What is css stands for,Color Style Sheets,Cascade Sheets Style,Cascade Style Sheet,Cascading Style Sheets,D,CSS stands for Cascading Style Sheets.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/,
+Web Technologies & Internet / PHP,basic css,In css what does h1 can be called as,Selector,Attribute,Value,Tag,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/,
+Web Technologies & Internet / PHP,basic css,In css what does “color:red” can be called as,Selector,Rule,Declaration,None of the above,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/,
+Web Technologies & Internet / PHP,basic css,Which of the following attributes is used to specify elements to bind style rules to?,id,class,tag,all of the mentioned,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/,
+Web Technologies & Internet / PHP,basic css,"________ selectors, which are used to specify a rule to bind to a particular unique element",id,class,tag,both (B) and (C),A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/,
+Web Technologies & Internet / PHP,basic css,In css what does “font-size” can be called as,Selector,Rule,Property,Property-Name,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/,
+Web Technologies & Internet / PHP,basic css,"_________ selectors, which are used to specify a group of elements",id,class,tag,both (B) and (C),B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/,
+Web Technologies & Internet / PHP,basic css,"__________ implementation that introduced text, list, box, margin, border, color, and background properties.",css,html,ajax,php,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/,
+Web Technologies & Internet / PHP,basic css,Which of the following element is used by the filter property to blur the images?,opaque(),scatter(),blur(),all of the mentioned,C,"The filter property in CSS is used to apply various visual effects to an element, such as blurring an image. To blur an image, the blur() function is used in the filter property. Therefore, the correct answer is option C, ""blur()"". 
+
+Let's understand the other options: 
+
+ Option A, ""opaque()"", is not a valid function used with the filter property. It does not apply blurring effects. 
+ Option B, ""scatter()"", is also not a valid function used with the filter property. It does not apply blurring effects either. 
+ Option D, ""all of the mentioned,"" is incorrect because options A and B are not valid functions used for blurring images with the filter property. 
+
+Therefore, the correct answer is option C, ""blur()"", as it is the function used by the filter property to blur images.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,"Which of the following function adjust the brightness of an element’s color, for use by the filter property?",contrast(),dark(),light(),brightness(),D,"A value of 100% or decimal value of 1 leaves the image as is, while 0 produces black. Increasing the value from 1 or 100% brightens pixels from their original values.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,"Which of the following function adjusts the difference between light and dark values, for use by the filter property?",contrast(),dark(),light(),brightness(),A,"A value of 100% or a decimal value of 1 leaves the image as is, while 0 results in black. Increasing the value past 1 or 100% produces more dramatically stratified areas of light and dark.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,Which of the following function with filter property to create your own sophisticated effects on DOM elements?,create(),DOM(),custom(),none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,"Which of the following function converts an element’s color to a shade of gray, for use by the filter property?",shade(),grayscale(),black(),brightness(),B,A decimal value between 0 and 1 or percentage up to 100% controls the extent of the gray effect.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,"Which of the following function flips an element’s colors, for use by the filter property?",image(),flip(),invert(),contrast(),C,"A decimal value between 0 and 1 or percentage up to 100% controls the extent of the color-negative effect, with 0.5 or 50% producing gray.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,"Which of the following function applies a saturation effect to an element’s color, making it appear more or less vivid, for use by the filter property?",color(),saturation(),saturate(),none of the mentioned,B,"A decimal value of 1 or percentage of 100% keeps the image as is, while increasing the amount produces more dramatically stratified hues.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,Which of the following function defines a linear gradient as a CSS image?,grayscale(),gradient(),image(),linear-gradient(),D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,Which of the following function two dimensional transformation in matrix format?,matrix(),matrix2d(),matrix3d(),perspective,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,"Which of the following function apply a sepia tinge to an element’s color, typical of old photographs, for use by the filter property?",grayscale(),sepia(),contrast(),brightness(),B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=2,
+Web Technologies & Internet / PHP,basic css,Which of the following value is supposed to be a slightly bolder weight that standard bold in font attribute?,empasize,light,lighter,dark,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,"Which of the following property allows contextual adjustment of inter-glyph spacing, i.e. the spaces between the characters in text?",font-style,font-family,font-kerning,font-variant,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,Which of the following is not a value for font-style property?,normal,italic,oblique,none of the above,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,Which of the following value specifies whether the user agent is allowed to synthesize bold or oblique font faces when a font family lacks bold or italic faces?,font-weight,font-synthesis,font-kerning,font-variant,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,"Which of the following selects a normal, or small-caps face from a font family?",font-weight,font-synthesis,font-kerning,font-variant,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,Which of the following is not a appropriate value for font-variant property?,inherit,default,large-caps,small-caps,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,"Which of the following property adjusts the font-size of the fallback fonts defined with font-family, so that the x-height is the same no matter what font is used?",default,font-size-fallback,font-adjust,font-size-adjust,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,"Which of the following Allows you to expand or condense the widths for a normal, condensed, or expanded font face?",font-style,font-stretch,font-expand,none of the mentioned,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,Which of the following font-size-adjust is value used in calculating the size of the fallback fonts?,auto,number,count,none,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=3,
+Web Technologies & Internet / PHP,basic css,What is the CSS Extension Prefixes for WebKit?,-webkit,-o-,-web,-chrome,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,What is the CSS Property Equivalent for the attribute <center>?,color,margin,align,none,B,Values for margin such as auto generally are used when centering blocks with textalign for content.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,What is the CSS Property Equivalent for the align attribute?,float,text-align,centre,both (A) and (B),A,"In the case of some elements such as <img>, the CSS float property is more appropriate than text-align.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,What is the latest version of css available?,CSS2,CSS3,CSS3.1,CSS4,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,What is the CSS Property Equivalent for the attribute <font>?,font-family,font-size,color,all of the mentioned,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,What is the CSS Property Equivalent for the attribute,text-decoration:reappear,text-decoration:blink,text-decoration:no-text,none,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,The first CSS specification to become an official W3C Recommendation is ___________,(X)HTML CSS,CSS level 2,CSS level 2.1,CSS level 1,D,"The first CSS specification to become an official W3C Recommendation is CSS level 1, published on December 17, 1996. Håkon Wium Lie and Bert Bos are credited as the original developers.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,"________ first became a Candidate Recommendation on February 25, 2004, but it was reverted to a Working Draft on June 13, 2005 for further review.",CSS level 1,CSS level 2,CSS level 3,CSS level 2.1,D,"CSS level 2 revision 1, often referred to as “CSS 2.1”, fixes errors in CSS 2, removes poorly supported or not fully interoperable features and adds already implemented browser extensions to the specification. To comply with the W3C Process for standardizing technical specifications, CSS 2.1 went back and forth between Working Draft status and Candidate Recommendation status for many years. CSS 2.1 first became a Candidate Recommendation on February 25, 2004, but it was reverted to a Working Draft on June 13, 2005 for further review.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,"There is no single, integrated ____________________ because it is split into separate modules.",CSS1 specification,CSS2 specification,CSS3 specification,CSS4 specification,D,"Here is no single, integrated CSS4 specification,[42] because it is split into separate modules. However, there are “level 4” modules.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,"Unlike CSS 2, which is a large single specification defining various features?",CSS level 1,CSS level 2,CSS level 3,CSS level 2.1,C,"Unlike CSS 2, which is a large single specification defining various features, CSS 3 is divided into several separate documents called “modules”. Each module adds new capabilities or extends features defined in CSS 2, preserving backward compatibility. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=4,
+Web Technologies & Internet / PHP,basic css,"___________ describes CSS properties to manipulate the position of “ruby”, which are small annotations on top of or next to words, especially common in Chinese and Japanese.",align,ruby,lang,text-align,B,"Ruby describes CSS properties to manipulate the position of “ruby”, which are small annotations on top of or next to words, especially common in Chinese and Japanese. They are often used to give the pronunciation or meaning of difficult ideograms.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=5,
+Web Technologies & Internet / PHP,basic css,___________ has a grammar but unlike traditional (X)HTML it is not defined with a document type definition.,CSS 1,CSS 2,CSS 2.1,CSS 3,C,CSS 2.1 has a grammar (www.w3.org/TR/CSS21/grammar.html) but unlike traditional (X)HTML it is not defined with a document type definition. Instead the CSS specification is a combination of prose and a grammar that could be used to build a simple parser.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=5,
+Web Technologies & Internet / PHP,basic css,"What will happen in this case? 
+h1 {color: red text-decoration: underline; font-style: italic;}","color: red, text-decoration: underline and font-style: italic all works",text-decoration: underline and font-style: italic works,"color: red, text-decoration: underline works",only font-style: italic works,D,"In this case, we should see the browser continue to parse the value of color as “red textdecoration:
+underline” before it sees a closing semicolon. The font-style property that follows would then be used. Because the color property has an illegal value, it should be
+ignored.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=5,
+Web Technologies & Internet / PHP,basic css,"What will happen in this case? 
+h1 {color: ""green"";}",heading becomes green,heading becomes dark-green,error occors,nothings happen,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=5,
+Web Technologies & Internet / PHP,basic css,Which of the following is the correct way to applying style to a document?,"Use an external style sheet, either by importing it or by linking to it",Directly embed a document-wide style in the head element of the document,Set an inline style rule using the style attribute directly on an element,All of the mentioned,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=5,
+Web Technologies & Internet / PHP,basic css,What does screen media type is used for?,For use with all devices,For use with handheld devices,For use with color computer screens,For use with television-type devices,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=5,
+Web Technologies & Internet / PHP,basic css,Which of the following measurement defines a measurement relative to a font’s x-height?,ex,em,pt,px,A,"Defines a measurement relative to the height of a font in em spaces. Because an em unit is equivalent to the size of a given font, if you assign a font to 12pt, each em unit would be 12pt, thus 2em would be 24pt. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=5,
+Web Technologies & Internet / PHP,basic css,Which of the following measurement defines a measurement as a percentage?,%,cm,em,in,A,Defines a measurement as a percentage. Percentages are denoted by a number followed by the % symbol and are always relative to another value such as length. Quite often they are used to specify some value relative to an inherited value from a parent element.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following property sets the font size of text?,text-size,font-size,size,text,B,"Syntax: 
+font-size: length | percentage | larger | smaller | xx-small | x-small | small | medium | large | x-large | xx-larger | inherit",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following property sets a variation of the specified or default font family?,height,font-weight,default,font-variant,D,"Syntax: 
+font-variant: normal | small-caps | inherit",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following property defines labels for a list of items?,list-style-type,list-style-image,list-style,none of the above,A,"Syntax: 
+list-style-type: disc | circle | square | decimal | decimal-leading-zero",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following property assigns a graphic image to a list item?,list-style-type,list-style-image,list-style,none of the above,B,"Syntax: 
+list-style-image: url(url of image) | none",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following property sets the amount of spacing between letters?,space,line-height,letter-spacing,none of the mentioned,C,"Syntax: 
+letter-spacing: length | normal | inherit",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following CSS3 Color Feature can be used as a macro for whatever the current color is?,CurrentColor keyword,HSLa Color,HSL Color,RGB Color,A,This is useful if you want to dynamically change one color and have other related colors change.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following CSS3 Color Feature like RGB color but adds an alpha channel value to specify the opacity of the color?,RGB,RGBa,RGBaplha,AlphaRGB,B,"An RGBa is specified via a function style rgba(r,g,b,a) value, where colors r, g, and b are specified as a decimal value from 0 to 255 or a percentage from 0 to 100%, and the alpha channel value for defining opacity is a number between 0 (fully transparent) and 1 (fully opaque). Values outside this range will be rounded up or down to fit the closest value.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following Color Format is a CSS’s six-digit hexadecimal format is the same as color defined in (X)HTML?,6-Hex Color,3-Hex Color,RGBS,RGBa,A,"The format specifies color as #rrggbb, where rr is the amount of red, gg the amount of green, and bb the amount of blue, all specified in a hexadecimal value ranging from 00 to FF.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following Color Format is a CSS2 introduced named color keywords which allows Web page colors to be matched to an operating system’s color use?,HSLa Color,Commonly defined named colors,System Color Names,Specificationdefined named colors,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=6,
+Web Technologies & Internet / PHP,basic css,Which of the following Color Format are a 17 defined colors under CSS 2.1?,HSLa Color,Commonly defined named colors,System Color Names,Specificationdefined named colors,D,"maroon (#800000) 
+red (#ff0000) 
+orange (#ffA500) 
+yellow (#ffff00) 
+olive (#808000) 
+purple (#800080) 
+fuchsia (#ff00ff ) 
+white (#ffffff) 
+lime (#00ff00) 
+green (#008000) 
+navy (#000080) 
+blue (#0000ff) 
+aqua (#00ffff) 
+teal (#008080) 
+black (#000000) 
+silver (#c0c0c0) 
+gray (#808080) 
+Other color keywords may be commonly used but are ad hoc in their definition.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,"Which of the following Color Format is a CSS colors can also be defined using the keyword rgb, followed by three numbers between 0 and 255, contained in parentheses and separated by commas, with no spaces between them?",RGB Color,RGBa Color,HSL Color,HSLa Color,A,"RGB color values can also be defined using percentages. The format is the same, except that the numbers are replaced by percentage values between 0% and 100%.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,Which of the following Color Format is a CSS3 HSL value with a fourth value to set the alpha channel value for the color to define the opacity of the element?,RGB Color,RGBa Color,HSL Color,HSLa Color,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,Which of the following Selector selects an element if it’s the only child of its parent with its type?,@media,:target,::selection,:only-of-type,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,Which of the following Selector same as :firstline; changed under CSS3 to make pseudoelements obvious?,:first-letter,:last-child,:first-line,::first-line,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,What does HSL stands for?,Hue Specified Lightness,Hue Spot Lightness,Hue Saturation Lightness,None of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,Which of the following is not an Absolute Unit?,px,em,pt,mm,B,em is a Relative Unit,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,Which of the following unit represent the viewport’s width?,vh,vmin,vw,ch,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,"Which of the following Color Format can also be defined using the keyword rgb, followed by three numbers between 0 and 255, contained in parentheses and separated by commas, with no spaces between them?",RGB Color,RGBa Color,HSL Color,HSLa Color,A,"Example: p {color:rgb(0%,10%,50%);}",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,Which of the following is not a attribute of the audio element?,controls,src,check,loop,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=7,
+Web Technologies & Internet / PHP,basic css,Which of the following Protocol enables a hyperlink to access a file on the local file system?,https,ftp,file,telnet,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following attribute specifies the URL of the linked resource?,src,link,rel,href,D,href attribute specifies the URL of the linked resource. A URL might be absolute or relative.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following color has this value #ff0000?,blue,green,red,yellow,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following is correct about CSS?,CSS is used to control the style of a web document in a simple and easy way.,"CSS is the acronym for ""Cascading Style Sheet"".",You can write CSS once and then reuse same sheet in multiple HTML pages,All of the above,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following is a component of CSS style rule?,Selector,Property,Value,All of the above,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following selector matches all elements of a type?,The Type Selector,The Universal Selector,The Descendant Selector,The Class Selector,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following selector matches a particular element only when it lies inside a particular element?,The Type Selector,The Universal Selector,The Descendant Selector,The Class Selector,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following selector selects all paragraph elements with a lang attribute?,p[lang],"p[lang=""fr""]","p[lang~=""fr""]","p[lang|=""fr""]",A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,"Which of the following defines a measurement as a percentage relative to another value, typically an enclosing element?",%,cm,em,ex,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following defines 1% of viewport height?,px,vh,vw,vmin,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=8,
+Web Technologies & Internet / PHP,basic css,Which of the following defines 1% of viewport width?,px,vh,vw,vmin,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,"Which of the following uses 1vw or 1vh, whichever is smaller?",px,vh,vw,vmin,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,Which of the following is correct about Hex Code format of CSS colors?,The first two digits(RR) represent a red value.,The next two are a green value(GG).,The last are the blue value(BB).,All of the above,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,Which of the following tag is used to embed css in html page?,<script>,<style>,<css>,<!DOCTYPE html>,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,Which of the following tag is used to linked information should be placed inside?,<head>,<html>,<div>,<body>,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,"The . . . . . . . . directive allows style sheets to be grouped and joined together, though some might wonder what the value of this function is given what linked styles provide.",<head>,<style>,<script>,@import,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,Which of the following element is used for linking a External Files to the html page?,<script>,<style>,<link>,all of the above,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,Which of the following tag can be used to embed a Document-wide styles in a document's head element?,<head>,<style>,<script>,<html>,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,"With, which tag you write the style rules directly within the document found 
+within the head of the document.",<script>,<php>,<style>,<css>,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=9,
+Web Technologies & Internet / PHP,basic css,Which of the following property sets in a shorthand form any or all background properties?,color,wrap,background,all of the mentioned,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=10,
+Web Technologies & Internet / PHP,basic css,Which of the following element is used to specify multiple media resources for media elements like audio and video?,<source>,<link>,<script>,<src>,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-basic-css/?page=10,
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following CSS property defines the different properties of all four sides of an element’s border in a single declaration?,border,padding,border-collapse,border-width,D,The border-width property sets the width of an element’s four borders. This property can have from one to four values.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",Identify the CSS property defining bottom-left corner shape of the border?,border-radius,border-corner-radius,border-bottom-left-radius,border-left-radius,C,CSS3 border-radius property allows you can give any element “rounded corners”.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",Select the CSS property that sets the width of an element’s bottom border?,border-width,border-bottom,border-width-down,border-bottom-width,D,The border-bottom-width CSS property sets the width of the bottom border of a box.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following CSS property border-color property sets the color of an element’s four borders?,border-background,border-background-color,border-color,all of the mentioned,C,The border-color property sets the color of an element’s four borders. This property can have from one to four values.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",Choose the CSS property that can be used for collapsing the borders between table cells?,border,collapse-border,border-collapse,border-cell,C,The border-collapse property sets whether the table borders are collapsed into a single border or detached as in standard HTML.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",Which CSS property can be used to set the image as border instead of the border style?,background-image,border-image,background-image-source,border-image-source,D,The border-image-source property specifies the path to the image to be used as a border (instead of the normal border around an element).,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",In how many way border-image-width CSS property can be defined?,4,6,8,9,D,"The border-image-width CSS property defines the offset to use for dividing the border image in nine parts, the top-left corner, central top edge, top-right-corner, central right edge, bottom-right corner, central bottom edge, bottom-left corner, and central right edge.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following is not an appropriate value for border-collapse?,all,collapse,inherit,separate,A,"Except option a, all other values can be set to border collapse CSS property.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following specifies the distance between the borders of adjacent cells?,border-spacing-cell,border-width-spacing,border-spacing,cell-spacing,C,The border-spacing property sets the distance between the borders of adjacent cells (only for the “separated borders” model).,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property defines the border-width, border-style and border-color of an element’s top border in a single declaration?",border,border-top,border-top-corner,border-top-style,B,"The border-top shorthand property sets all the top border properties in one declaration. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Text, Borders and Images)
+ Each Section contains maximum 100 MCQs question on CSS Text, Borders and Images. To get more questions visit other sections.
+ 
+ CSS Text, Borders and Images - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following CSS property is used to set the text formatting?,font,font-style,text-decoration,all of the mentioned,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following sets the color of any text decoration, such as underlines, overlines, and strike throughs?",text-font,text-format,text-color,text-decoration-color,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following sets what kind of line decorations are added to an element, such as underlines, overlines, etc?",text-style,text-decoration,text-line,text-decoration-line,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following text-decoration value specifies each line of text has a line above it?,line,underline,overline,blink,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following CSS property determines how overflowed content that is not displayed is signaled to the users?,text-flow,text-underflow,text-overflow,none of the mentioned,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following sets the mode for the overline text decoration, determining whether the text decoration affects the space characters or not?",text-decoration,text-mode-overflow,text-mode,text-overline-mode,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following specifies what parts of an element’s content are skipped over when applying any text decoration?,@font-text,font-style,text-skip,text-decoration-skip,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property applies one or more drop shadows to the text?,text-shadow,text-effect,text-format,text-decoration-shadow,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the apparent position (in stereo sound) of the synthesized voice for spoken media?,voice-balance,media-balance,balance,none of the mentioned,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property allows the author to explicitly set the amount of time it should take a speech synthesizer to read an element’s content?,@media,voice,voice-duration,all of the mentioned,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=2",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the speaker’s voice used by a speech media agent to read an element?,voice-family,voice-check,voice-control,none of the mentioned,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property determines how much variation in pitch or tone will be created by the speech synthesize when reading an element?,voice-pitch,voice-range,voice-stress,none of the mentioned,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the speed at which the voice synthesized by a speech media agent will read content?,voice-volume,voice-pitch,voice-stress,voice-rate,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets pitch or tone (high or low) for the synthesized speech when reading an element; the pitch may be specified absolutely or relative to the normal pitch for the voice-family used to read the text?,voice-check,voice-format,voice-pitch,voice-volume,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the volume for spoken content in speech media. It replaces the deprecated volume property?,voice-volume,volume,!important,@media,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following is not a appropriate value for voice-balance?,left,leftwards,up,centre,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following is not a appropriate value for voice-rate?,slow,fast,medium,none of the mentioned,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property is used to draw a line around elements outside the borders?,line,padding,outline,border,C,"Outlines do not take up space, they are drawn above the content.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images","Choose the option that correctly specifies the output of the following CSS.
+span {
+ border: 1px solid red;
+ outline: green dotted thick;
+ }",All span elements will have a red border and a green dotted outline,All span elements will have a green thick border and a red outline,All span elements will have an outer red border and inner green dotted border,All span elements will have a outer green dotted border and an inner red border,D,"The border property creates the inner border, while the outline sets the outer border.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property specifies the color of an outline?,color-outline,outline-color,outline-style-color,none of the mentioned,B,"As the property name specifies, it sets the color of the outline to the provided value. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Text, Borders and Images)
+ Each Section contains maximum 100 MCQs question on CSS Text, Borders and Images. To get more questions visit other sections.
+ 
+ CSS Text, Borders and Images - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=3",
+Web Technologies & Internet / PHP,"css text, borders and images",Identify the outline property that specifies the amount of area extended beyond the border box.,outset3d,inset,outset,inset3d,C,It specifies a 3D outset border. The effect depends on the border-color value.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following value specifies a dashed outline?,dash,dashed,double-dash,all of the mentioned,B,The property defines a dashed border.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property specifies the look and design of an outline?,outline-font,outline-style,outline-format,none of the mentioned,B,"The outline-style CSS property is used to set the style of the outline of an element. An outline is a line that is drawn around elements, outside the border edge, to make the element stand out.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following values specifies a 3D grooved outline?,initial,ridge,groove,groove3d,C,groove specifies a 3D grooved border. The effect depends on the border-color value.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images","Select the output of the following CSS.
+div {
+ border-width: 5px;
+ border-style: dotted solid double dashed;
+ }","Box having dotted top outline, solid right outline, double bottom outline and dashed left outline","Box having dotted top outline, solid left outline, double bottom outline and dashed right outline","Box having dotted bottom outline, solid right outline, double top outline and dashed left outline","Box having dotted bottom outline, solid left outline, double top outline and dashed left outline",A,The shorthand run in clockwise direction.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following specifies the width of an outline?,outline-size,outline-width,outline-height,both a and b,B,The outline-width CSS property is used to set the width of the outline of an element.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following value specifies a solid outline?,bold,rock,solid,dashed,C,"As the name suggests, a solid outline is created using this value.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",What does all media type is used for?,For use with all devices,For use with speech synthesizers,For use with handheld devices,For use with tactile Braille devices,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",What does projection media type is used for?,"For use with projected media (direct computer-to-projector presentations), or printing transparencies for projection.",For use with color computer screens,For use with handheld devices,For use with television-type devices,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",What does tty media type is used for ?,"For use with low-resolution teletypes, terminals, or other devices with limited display capabilities.",For use with Braille printers.,For use with speech synthesizers.,"For use with projected media (direct computer-to-projector presentations), or printing transparencies for projection.",A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=4",
+Web Technologies & Internet / PHP,"css text, borders and images",What does aural media type is used for ?,"For use with low-resolution teletypes, terminals, or other devices with limited display capabilities",For use with Braille printers,For use with speech synthesizers,"For use with projected media (direct computer-to-projector presentations), or printing transparencies for projection",C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=5",
+Web Technologies & Internet / PHP,"css text, borders and images",What does braille media type is used for?,For use with all devices,For use with speech synthesizers,For use with handheld devices,For use with tactile Braille devices,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=5",
+Web Technologies & Internet / PHP,"css text, borders and images",The __________ rule makes it possible to define different style rules for different media types in the same stylesheet.,audio/video,sink,@media,@canvas,C,"@media screen { 
+ p {
+ font-family: verdana, sans-serif;
+ font-size: 17px;
+ }
+}",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=5",
+Web Technologies & Internet / PHP,"css text, borders and images",What is the way to specify media dependencies for style sheets ?,Specify the target medium from a style sheet with the @media or @import at-rules,Specify the target medium within the document language,both (A) and (B),none of the mentioned,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=5",
+Web Technologies & Internet / PHP,"css text, borders and images",____________ types are mutually exclusive in the sense that a user agent can only support one media type when rendering a document.,tv,tty,media,audio,C,"Media types are mutually exclusive in the sense that a user agent can only support one media type when rendering a document. However, user agents may use different media types on different canvases. For example, a document may (simultaneously) be shown in ‘screen’ mode on one canvas and ‘print’ mode on another canvas.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=5",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property defines in a shorthand form the width, style, and color for the bottom border of an element?",border-bottom,border-bottom-color,border-bottom-all,none of the mentioned,A,Syntax: border-bottom: border-width border-style border-color;,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=5",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the width of an element’s bottom border?,border,border-collapse,border-bottom-width,none of the mentioned,C,Syntax: border-bottom-width: non-negative length | medium | thick | thin | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=5",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines whether table cell borders are connected or separate?,border-table,border,border-collapse,none of the mentioned,C,"Syntax: border-collapse: collapse | separate | inherit 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Text, Borders and Images)
+ Each Section contains maximum 100 MCQs question on CSS Text, Borders and Images. To get more questions visit other sections.
+ 
+ CSS Text, Borders and Images - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=5",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines the style for the right border of an element?,border-spacing,border-right-style,border-right,None of the above,C,Syntax: border-right-style: dashed | dotted | double,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines the color of an element’s top border?,border-color,border-top,border-top-color-webkit,border-top-color,D,Syntax: border-top-color: color | transparent | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the width of an element’s complete border?,border-width,width,border-depth,none of the mentioned,A,Syntax: border-width: width,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines the visual style of up to four different sides of a border?,border-style,border,border-top,none of the mentioned,A,Syntax: border-style: style,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following defines in a shorthand form the width, style, and color for the top border of an element?",border-up,border-bottom,border-style,none of the mentioned,D,Syntax: border-top: border-width border-style border-color;,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property defines the y (vertical) coordinate for a positioned element, relative to the bottom of the enclosing object or browser window?",border,bottom,position,none of the mentioned,B,Syntax: bottom: length | percentage | auto | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property specifies the placement of an element in relation to floating objects?,clear,color,space,none of the mentioned,A,Syntax: clear: both | left | none | right,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property specifies the transparency of an element?,alpha,opacity,opac,none of the mentioned,B,Syntax: opacity: alphavalue | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines the offset from an element’s border and its outline?,outline-border,outline-offset,outline-radius,none of the mentioned,B,Syntax: outline-offset: length | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property allows a marquee to be used in the case of a text overflow?,overflow-style,overflow-text,overflow-marquee,none of the mentioned,A,"none of the mentioned 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Text, Borders and Images)
+ Each Section contains maximum 100 MCQs question on CSS Text, Borders and Images. To get more questions visit other sections.
+ 
+ CSS Text, Borders and Images - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=6",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines how content should behave when it exceeds the width of its enclosing element?,overflow-y,overflow-x,overflow-z,overflow-width,B,Syntax: overflow-x: auto | hidden,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property is used to give a 3-D sense of depth to an element?,animation,perspec,sense,perspective,D,Syntax: perspective: none,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property is used to define whether an element should be resized and, if so, upon what axis?",axis,resize,set-origin,set-axis,B,Syntax: resize: both | horizontal | none,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property defines the alignment of Ruby text as defined by a <rt> tag, in relation to base text defined by a <ruby> tag?",ruby-align,ruby-text,ruby,none of the mentioned,A,Syntax: ruby-align: auto | center,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property sets the base color for a scroll bar, which will include the scroll box, track, and scroll arrows?",scrollbar-base,scrollbar-base-color,scrollbar-background,none of the mentioned,C,Syntax: scrollbar-base-color: color,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property defines a color for the face of a scroll bar, including arrow regions and the scroll box?",scrollbar-face,scrollbar-face-color,scrollbar-face-background,scrollbar-background,C,Syntax: scrollbar-face-color: color,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines a highlight color for a scroll bar and scroll arrows?,scrollbar-color,scrollbar-highlight,scrollbar-highlight-color,scrollbar-highlight-background,C,Syntax: scrollbar-highlight-color: color,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the size of the font?,font-size,font-variant,font-style,font-weight,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following Property controls the display of small caps?,font-size,font-variant,font-style,font-weight,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following font-weight property make the text lighter in relation to its parent?,unfocus,normal,lighter,None of the above,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=7",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property converts text to initial capitals, all uppercase, or all lowercase?",text-transform,text,text-decoration,text-uppercase,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following font-variant property render text using the same letter case as in the underlying code?,bold,small-caps,normal,none of the mentioned,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the alignment of the last line of a text block?,overflow-wrap,text-align-last,text-transform,text-indent,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property controls how spaces and word wrapping are handled?,spacing,text-space,white-space,word-spacing,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following property specifies what line decorations, if any, are added to the text?",text-decoration-line,text-line-decoration,text-decoration-style,text-style-decoration,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property applies one or more shadows to text?,text-shadow,shadowed,shadow,word-shadow,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following is used to associate a font name to be used in a style sheet with some
+downloadable font?",@font-face,@charset,@media,!important,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following is not value for the font-stretch(Font descriptor)?,normal,50%,expanded,ultra-expanded,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following font format is supported by all the latest browser?,EOT,WOFF2,SVG,WOFF,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following media query describe the ratio of the width to the height of the media?,ratio,aspect-ratio,deviceaspect-ratio,resolution,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=8",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following media query describe describes the height of the screen or full height of the output page?,height,aspect-ratio,device-height,resolution,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=9",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the style of a font?,font,style,font-style,@font-face,C,Syntax: font-style: italic | normal | oblique | inherit.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=9",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property specifies whether an element is an accelerator indicator or not?,push,accelerator,jump-start,animation,B,Syntax: accelerator: true | false.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=9",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property adds padding to the top of an element?,height,padding-height,top,padding-top,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=9",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following display property value is described by treats the element as inline?,inline-block,list-item,block,inline,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=9",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines the style for the bottom border of an element?,border-bottom-style,border-collapse,border-style-bottom,none of the mentioned,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=9",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines the style for the left border of an element?,border-style,border-left-style,border-left-width,border-right,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=9",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following visibility property value is described by The element is not visible, but the layout of surrounding elements is not affected?",visible,hidden,collapse,none of the mentioned,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=9",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following display property value is described by used internally by browsers to create list items. Of no practical value to web designers?,inline-block,list-item,group,none,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property controls the horizontal overflow of a block or inline block?,overflow-x,overflow,overflow-y,overflow-k,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following Overflow property value is described by scrollbars should be provided if the content is too big, but actual implementation is left up to the browser?",visible,scroll,auto,hidden,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets a consistent margin on all four sides of the affected element?,boder,margin,padding,none fof the mentioned,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,"css text, borders and images","Which of the following box-sizing property value is described by width and height include content, padding, and borders?",border-box,content-box,border-content-box,None of the above,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets the background image to scroll or not to scroll with its associated element’s content?,background-scroll,background-attach,background-attachment,background-allowance,C,Syntax: background-attachment: scroll | fixed | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property sets an element’s background color?,background-image,background-color,background-colors,background-position,B,Syntax: background-color: color | transparent,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines the color of an element’s right border?,border-right-colors,border-right-color,border-right,border-color,B,Syntax: border-right-color: color | transparent,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,"css text, borders and images",Which of the following property defines the space between cells in a table?,auto,border,spacing,border-spacing,D,Syntax: border-spacing: non-negative length(s) | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-text,-borders-and-images/?page=10",
+Web Technologies & Internet / PHP,css selectors and css files,"What will happen in this case?
+<p style=""color: red"">text</p>",make that specific paragraph red.,error,nothing happens,none of the mentioned,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,The _______property is used to set the color of the text.,pallet,colour,color,text-decoration,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following is the correct way to apply Styles?,inside an HTML element,inside the section of an HTML page,in an external CSS file,all of the mentioned,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following CSS list properties is/are correct?,Set different list item markers for ordered lists,Set different list item markers for unordered lists,Set an image as the list item marker,All of the mentioned,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,A ___________ is used to define a special state of an element.,pseudo-tag,pseudo-element,pseudo-id,pseudo-class,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,The __________ property specifies the type of positioning method used for an element.,align,float,position,padding,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects all elements of E that have the attribute attr that end with the given value?,E[attr^=value],E[attr$=value],E[attr*=value],none of the mentioned,B,"Example: p[title$=""!""] {color: red;}",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects the elements that are checked?,E ~ F,::after,:checked,none of the mentioned,C,Example: :checked {color: blue;},medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects the elements that are the default among a set of similar elements?,:default,:%,:disabled,none of the mentioned,A,"Example: :default {background-color: red;} 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+2
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects an element that has no children?,:empty,:nochild,:inheritance,:no-child,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects the elements that are currently enabled?,:element,:empty,:enabled,none of the mentioned,C,Example: input:enabled {background-color:white;},medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects the element that is the first child of its parent that is of its type?,:first-of-type,:last-child,::first-line,::first-letter,A,Example: strong:first-of-type {font-size:bigger;},medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects elements that do not match the selector s?,:!(s),:nth-child(s),:not(s),none of the mentioned,C,Example: *:not(h1) {color: black;},medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects an element if it’s the only child of its parent?,:root,:nth-oftype(n),:only-child,none of the mentioned,C,Example: h1:only-child {color: blue;},medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector selects the element that is the target of a referring URI?,:target,:selection,::selection,:URI,A,Example: :target{color:red;},medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selector applies styles to elements that are valid per HTML5 validations set either with the pattern or type attributes?,:valid,:required,:optional,:invalid,A,Example: :valid {color: green;},medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,p {line-height: 150%;}.What type of selector is used in this case?,class Selectors,element Selectors,id Selectors,none of the mentioned,B,"These selectors are called element selectors and are simply used as follows: 
+element-name { /* properties */ }",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,By applying an ___________ a style can be applied to just a single tag.,class rule,element rule,id rule,none of the mentioned,C,"By applying an id rule, a style can be applied to just a single tag. For example, if we name a tag with a unique id attribute as follows 
+<tag id=""id-value"">Affected Text</tag>",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,The _____________ attribute is used to define the name(s) of the class(es) to which a particular tag belongs.,class,element,id,none of the mentioned,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=2,
+Web Technologies & Internet / PHP,css selectors and css files,"What will happen in this case? 
+p strong {background-color: yellow;}",Strong have yellow background,Strong element within a p element have a yellow background,Both p and strong have yellow background,None of the mentioned,B,All occurrences of the strong element within a p element have a yellow background.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,css selectors and css files,A similar rule called the ____________ is specified using the plus sign (+) and is used to select elements that would be siblings of each other.,class selectors,attribute selectors,adjacent-sibling selector,none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selectors selects any tag with an id attribute set?,E#id,.class,#id,*,C,"Example:#test {color: green;} 
+/* makes a tag with id=’test’ green */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selectors selects direct descendents?,E > F,E F,E + F,E ~ F,A,"Example: body > p {background-color: yellow;} 
+/* makes all p tags that have the body tag as their immediate parent have the background color yellow */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selectors selects siblings?,E.class,E ~ F,*,"E, F, G",B,"Example: p ~ strong {font-style: italic;} 
+/* sets the font style to italic on all strong tags that have a p tag as a preceding sibling */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selectors selects the specified elements of type E with a particular class value?,E.class,E ~ F,*,"E, F, G",A,"Example: h1.note {text-decoration: underline;} 
+/* underlines all h1 tags with class='note' */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,css selectors and css files,Which of the following selectors selects adjacent siblings?,E > F,E F,E + F,E ~ F,C,"Example: h1 + p {color: red;} 
+/* makes all p tags that are immediately preceded by an h1 tag red */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,css selectors and css files,"What will be the output of following code snippet? 
+ 
+Hello",h1 heading becomes green,error,h1 heading disappears,nothing happens,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,css selectors and css files,Which style is this?,Inline Styles,External Style Sheet,External Style Sheettyle Sheet,None of the mentioned,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-selectors-and-css-files/?page=3,
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","Which of the following elements are block and inline elements, respectively, that have no particular rendering?",div,span,box-model,both (A) and (B),D,"The div element and span element are block and inline elements, respectively, that have no particular rendering. You might call them generic tags. Because these tags don’t have any predefined meaning or rendering, they are very useful for arbitrary style duties.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",The _____________ property specifies the background color of an element.,background-color,border,color,display,A,"Example: 
+
+body {
+ background-image: url(""img_tree.png"");
+ background-repeat: no-repeat;
+ }",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",The ___________ property specifies if/how an element is displayed.,background-color,border,color,display,D,"Example: 
+
+h1.hidden {
+ display: none;
+ }",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",The _____________ property allows us to include the padding and border in an element’s total width and height.,margin,box-sizing,padding,none of the mentioned,B,"Example: 
+
+.div1{
+ box-sizing: border-box;
+ }",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",____________ property sets the coordinates of the clipping shape that exposes or hides the content of absolutely positioned elements,clammper,clip,clear,none of the mentioned,B,clip: rect(coordinates) | auto | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",_____________ property defines the space between cells in a table.,border,border-spacing,border-style,none of the mentioned,B,border-spacing: non-negative length(s) | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",____________ property defines whether table cell borders are connected or separate.,border-color,border,border-style,none of the mentioned,D,border-collapse roperty defines whether table cell borders are connected or separate.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",______________ property sets the background image to scroll or not to scroll with its associated element’s content,background,background-position,background-attachment,none of the mentioned,C,"Example: 
+background-attachment: scroll | fixed | inherit",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",____________ property associates a background image with an element.,image,background-image,float,none of the mentioned,B,"Example: 
+background-image: url(image-file) | none | inherit",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",_____________ property defines whether table cell borders are connected or separate.,pre,border-color,border-collapse,table,C,"Example: 
+border-collapse: collapse | separate | inherit 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following CSS property sets the opacity level for an element?,opacity,transparency,transparent,all of the mentioned,A,"The opacity property defines the transparency-level, where 1 is opaque, 0.5 is translucent, and 0 is completely transparent.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property specifies the order of a flexible item relative to the rest of the flexible items inside the same container?,sort,layout,order,asort,C,The CSS order property specifies the order used to lay out flex items in their flex container. Elements are laid out in the ascending order of the order value.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following is an appropriate value for overflow element?,hidden,auto,scroll,all of the mentioned,D,Overflow of a div or a container can have the following values: visible|hidden|scroll|auto|initial|inherit.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Identify the CSS property that specifies the length of the space used for the tab character.,size,tab-size,tab-space,all of the mentioned,B,The tab-size CSS property is used to customize the width of a tab.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property specifies the stack order of an element?,order,z-index,p-index,auto,B,The correct option is z-index. It can only be applied on positioned values.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property allows long words to be able to be broken and wrap onto the next line?,line-wrap,break-word,word-wrap,word-break,C,This property helps you break the words and wrap onto the next line to prevent overflow of div.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following CSS property can be used to provide the flex-direction and flex-wrap properties?,flex,flex-flow,flex-wrap,all of the mentioned,B,It is a shorthand for both flex-direction and flex-wrap.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following specifies how much the item will grow relative to the rest of the flexible items inside the same container?,flex-scale,flex-size,flex-grow,flex-flow,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property aligns the flexible container’s items when the items do not use all available space on the main-axis?,wrap-content,fix-content,adjust-content,justify-content,D,The CSS justify-content property defines how the browser distributes space between and around flex items along the main-axis of their container.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Choose the CSS property which specifies the placement of a table caption.,table-caption,cell-caption,caption-side,caption-adjust,C,"The caption-side CSS property positions the content of a table’s caption on the specified side. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=2",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","If a particular rule should never be overridden by another rule, the ____________ indication should be used.",@important,!important!,!important,important!,C,"If a particular rule should never be overridden by another rule, the !important indication should be used. For a rule never to be ignored, insert the indication !important just before the semicolon of the rule.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following option a rule consists of?,Tag,Selector,Declaration,Both (C) and (D),D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following option a declaration consist of?,Tag,Property,Selector,Class,B,"A declaration has two parts separated by a colon: 
+Property – that part before the colon 
+Value – that part after the colon.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",The ______________ is the link between the HTML document and the style. It specifies what elements are affected by the declaration.,Tag,Selector,Declaration,Class,B,The selector is the link between the HTML document and the style. It specifies what elements are affected by the declaration. The declaration is that part of the rule that sets forth what the effect will be.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",How a style sheet can be glued to the HTML document?,Import a style sheet using the CSS @import notation.,"Apply the basic, document-wide style sheet for the document by using the style element",Link an external style sheet to the document using the link elemen,All of the mentioned,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","As a general rule, properties in CSS inherit from ___________ elements",child to parent,parent to child,grandparents to parents,none of the mentioned,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",CSS3 ___________ let you display smooth transitions between two or more specified colors,Float,Align,Gradients,Color,B,"Earlier, you had to use images for these effects. However, by using CSS3 gradients you can reduce download time and bandwidth usage. In addition, elements with gradients look better when zoomed, because the gradient is generated by the browser.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",The ___________________ property specifies whether or not an element should be resizable by the user.,Outline Offset,Resize,Unit,None of the mentioned,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","The __________ specifies style sheets for a source document according to the conventions of the document language. For instance, in HTML, style sheets may be included in the document or linked externally.",author,user,user-agent,none of the mentioned,A,"Author. The author specifies style sheets for a source document according to the conventions of the document language. For instance, in HTML, style sheets may be included in the document or linked externally.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","The __________ may be able to specify style information for a particular document. For example, the user may specify a file that contains a style sheet or the user agent may provide an interface that generates a user style sheet.",author,user,user-agent,none of the mentioned,B,"User: The user may be able to specify style information for a particular document. For example, the user may specify a file that contains a style sheet or the user agent may provide an interface that generates a user style sheet (or behaves as if it did) . 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=3",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","Each property may also have a cascaded value of ___________ which means that, for a given element, the property takes the same specified value as the property for the element’s parent.",!important,delay,inherit,important,C,"Each property may also have a cascaded value of ‘inherit’, which means that, for a given element, the property takes the same specified value as the property for the element’s parent. The ‘inherit’ value can be used to enforce inheritance of values, and it can also be used on properties that are not normally inherited.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=4",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",_____________ property specifies the direction in which a marquee should move.,marquee-style,marquee-play-count,marquee-direction,none of the mentioned,C,Syntax: marquee-direction: forward | reverse,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=4",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",___________ property defines a mask to be used as a box’s overlay in order to clip the box to a complex shape.,mask,mask-box-image,mask-attachment,mask-origin,A,Syntax: mask: mask-attachment,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=4",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",_____________ property specifies whether the mask should scroll or stay fixed when the page is scrolled.,mask-image,mask-box-image,mask-attachment,mask-origin,C,Syntax: mask-attachment: fixed | scroll,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=4",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",___________ property specifies how the position of the mask should be calculated by setting the origin relative to different locations within an element’s box.,mask-image,mask-box-image,mask-attachment,mask-origin,D,Syntax: mask-origin: border | content | padding,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=4",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to set the color of the arrow icon within a scroll bar?,scrollbar-base-color,scrollbar-arrow-color,scrollbar-darkshadow-color,scrollbar-face-color,B,"Syntax: 
+scrollbar-arrow-color: color 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=4",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property defines the text alignment rules on the alignment of the last line of an element?,text-justify,text-fill-color,text-align-last,none of the mentioned,C,"Syntax: 
+text-align-last: auto | center | justify | left | right | inherit",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following strings are defined by in css?,Which of the following strings are defined by in css?,double quotes,both (A) and (B),none of the mentioned,C,"In CSS, strings are defined with either single quotes (‘example’) or double quotes (“example”). Quotes may be found within the opposite quote (“I say this is an ‘example’!”).",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following defined as alphanumeric names that correspond to some current counter value in a document?,Class,Key,Counters,None of the mentioned,C,Counters demonstrate the possibility of variable-like values in CSS. They are defined as alphanumeric names that correspond to some current counter value in a document.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following is the Color Format that is a CSS’s six-digit hexadecimal format as color defined in (X)HTML?,Specification defined named colors,System Color Names,6-Hex Color,3-Hex Color,C,"CSS’s six-digit hexadecimal format is the same as color defined in (X)HTML. The format specifies color as #rrggbb, where rr is the amount of red, gg the amount of green, and bb the amount of blue, all specified in a hexadecimal value ranging from 00 to FF.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following is the Color Format that is the CSS3 HSL value with a fourth value to set the alpha channel value for the color to define the opacity of the element?,HSLa Color,HSL Color,RGBa Color,RGB Color,A,"An HSLa is specified via a function style hsla(hue,saturation, lightness, alpha), where hue, saturation, and lightness are the same as standard hsl() values, and the alpha channel value for defining opacity is a number between 0 (fully transparent) and 1 (fully opaque).",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","Which of the following is the Color Format that is a defined using the keyword rgb, followed by three numbers between 0 and 255, contained in parentheses and separated by commas, with no spaces between them.",HSLa Color,HSL Color,RGBa Color,RGB Color,D,"RGB color values can also be defined using percentages. The format is the same, except that the numbers are replaced by percentage values between 0% and 100%.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property allows the text direction to be overridden to support multiple languages and text flow directions in the same document?,unicode-bidi,visibility,top,vertical-align,A,"Syntax: 
+unicode-bidi: bidi-override | embed | normal| inherit",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property determines whether or not an element is visible?,display,visibility,transperancy,disappear,B,This property is not the same as display: none as it simply makes the item invisible; it does not completely remove it from the display canvas.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","Which of the following property controls how spaces, tabs, and newline characters are handled in an element?",space,display,widows,white-space,D,The values of pre-wrap and pre-line are not supported in older browsers.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property defines the minimum number of lines in a paragraph to be left at the top of a page?,white-space,widows,display,width,B,"This property is really only meaningful in a paged environment, such as print output. 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=5",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property sets the spacing between words?,display,white-space,sr,word-spacing,D,"Syntax: 
+word-spacing: length | normal | inherit",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement defines a measurement in centimeters?,c,cm,centi,centimeter,B,Example: div {margin-bottom: 1cm;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement defines a measurement relative to the height of a font in em spaces?,px,in,em,pt,C,"Defines a measurement relative to the height of a font in em spaces. Because an em unit is equivalent to the size of a given font, if you assign a font to 12pt, each em unit would be 12pt, thus 2em would be 24pt.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement defines a measurement in points?,px,in,em,pt,D,Defines a measurement in points. A point is defined as 1/72nd of an inch. A point does not equate to a pixel unless there are 72 pixels per inch onscreen.,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement defines a measurement in inches?,px,in,em,pt,B,Example: p {word-spacing: .25in;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement defines a measurement in pixels?,px,in,em,pt,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement is relative to 1percentage of viewport’s larger dimension?,vw,vmax,vmin,ch,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement is relative to 1percentage of the width of the viewport?,vw,vmax,vmin,ch,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement is relative to 1% of the height of the viewport?,ch,rem,%,vh,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=6",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following measurement is relative to font-size of the root element?,rem,kd,rr,hx,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following represents a comment?,/!– comments –!/,/! comments !/,/* comments */,None of the mentioned,C,Comments can be placed within style sheets. Style sheets use the comment syntax used in C programming,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",A single _____________ rule can be used in an external sheet to define character set encoding of the style rules and values.,@media,@charset,@font-face,None of the mentioned,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",An ___________ rule can be used to define style rules for multiple media types in a single embedded style sheet,@media,@charset,@font-face,None of the mentioned,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",An ___________ rule is used to define a page block for printed styles.,@important,@page,@css,@html,B,"An @page rule is used to define a page block for printed styles. Generally, within this construct we see various CSS properties like size, page, and margin to control the dimensions of the page.",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property specifies the size of the mask?,box-sizing,box-shadow,box-reflect,none of the mentioned,C,Syntax: -webkit-box-reflect: direction offset mask-box-image,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to control column element breaks after an associated element when flowing multicolumn text?,column-break,column-break-after,column-count,column-break-before,B,Syntax: column-break-after: always | auto | avoid,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property defines the gap between columns in a multicolumn text flow?,column-float,column-flow,column-gap,column-width,C,Syntax: column-gap: length | normal,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","Which of the following property defines the style, width, and color of the rule divider between columns in a multicolumn text flow?",column,column-rule,column-change,column-check,B,Syntax: column-rule: rule-width rule-style color,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property defines the width of a rule between columns in a multicolumn text flow?,column-width,column-rule,column-float,column-rule-width,D,"Syntax: column-rule-width: non-negative length | medium | thick | thin | inherit 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=7",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property sets the coordinates of the clipping shape that exposes or hides the content of absolutely positioned elements?,clip,clamp,clip-wekit,clamp-webkit,B,Syntax: clip: rect(coordinates) | auto | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=8",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property generates content in a document and is used with the :before and :after pseudo-elements?,text,content,contents,none of the mentioned,C,Syntax: content: normal | none | string,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=8",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property controls CSS counter values?,counter,counter-increment,counter-decrement,none of the mentioned,B,Syntax: counter-increment: counter-name1 [integer] ... counter-nameN [integer] | none | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=8",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property determines how the cursor displays when passed over the affected element?,mouse,cursor,click,focus,D,Syntax: cursor: url(address of cursor file),medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=8",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables","Which of the following property is used to control the text direction, much like the dir attribute for (X)HTML tags?",left,right,direction,direct,C,Syntax: direction: ltr | rtl | inherit,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=8",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property specifies an element’s display type and can override an element’s defined presentation?,content,display,visibility,none of the mentioned,D,"Syntax: display: inline | block | list-item 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=8",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property specifies whether an element is an accelerator indicator or not.,move,@keyframes,accelerator,none of the mentioned,C,Syntax: accelerator: true | false,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to define the animations that should be run?,animation-delay,animation-iteration-count,animation-duration,animation-name,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to define the number of times an animation should play?,animation-direction,animation-iteration-count,animation,animation-timing-function,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to indicate whether the backside of an element is visible if the element is rotated to display the back?,background-clip,backface-visibility,behavior,background-origin,B,Syntax: backface-visibility: hidden | visible,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property defines a relationship between bound elements(s) and some code or content?,behavior,anim,binding,none of the mentioned,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property defines the width of each column in a multicolumn text flow?,width,columns,filter,column-width,D,Explanation: Implemented CSS3 and Browser-Specific Syntax: column-width: length | auto,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to apply visual effects to associated elements?,filter,effect,adjust,none of the mentioned,A,Syntax: filter: filtername(filtervalues) ... filtername(filtervalues),medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property defines the resampling method to use when stretching images?,layout,ime-mode,image-rendering,none of the mentioned,C,Syntax: image-rendering: auto | inherit | optimizeSpeed,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property specifies the direction in which a marquee should move?,marquee,marquee-play,marquee-direction,none of the mentioned,C,Syntax: marquee-direction: forward | reverse,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property defines a mask to be used as a box’s overlay in order to clip the box to a complex shape?,shadder,mask,mask-attachment,mask-image,B,"Syntax: mask: mask-attachment 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=9",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to specify table borders in CSS?,table,border,table:border,none of the mentioned,B,Example: table{border: 7px solid black;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property sets whether the table borders are collapsed into a single border or separated:?,border,border-collapse,collapse,table-border,B,Example: table{ border-collapse: collapse;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to change the width of table?,width,table,table-width,resize,A,Example: table{width: 23px;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property sets the vertical alignment?,align,vertical,vertical-align,vertical-alignment,B,Example: table{vertical-align: top;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to control the space between the border and content in a table?,border,margin,padding,resize,C,Example: table{border: 4px solid black;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to change the background in a table?,table-background,background,color,none of the mentioned,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to change the height of a table?,height,table-height,resize,position-y,A,Example: table{height: 45%;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to align the text in a table?,align,text,text-align,none of the mentioned,C,Example: table{text-align: left;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following property is used to set order in a table?,border,padding,dotted,text,A,Example: table{border: 1px solid #000;},medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css properties, css elements, css functions and tables",Which of the following selector same as :after; changed under CSS3 to make pseudo-elements obvious?,::after,:after,#after,none of the mentioned,A,"Example: div::after {content: url(sectionend.gif);} 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More Section(CSS Properties, CSS Elements, CSS Functions and Tables)
+ Each Section contains maximum 100 MCQs question on CSS Properties, CSS Elements, CSS Functions and Tables. To get more questions visit other sections.
+ 
+ CSS Properties, CSS Elements, CSS Functions and Tables - Section 2
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-properties,--css-elements,-css-functions-and-tables/?page=10",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which is not a WebKit value?,push-button,menulist,radio,tooltip,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which is not the property of CSS box model?,width,height,margin,color,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which of the following will provide date pickers?,jQuery UI,Niceforms,WebShim,Twitter Bootstrap,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which is not a Mozilla value?,caret,resizer,listbox,scrollbar,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which is not a Mozilla CSS Extension?,::-webkit-input-placeholder,:-moz-placeholder,-moz-ui-valid,:-moz-submit-invalid,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which of the following is not the pseudo class for CSS Basic UI Level3?,:optional,:read-only,:valid,:checked,D,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which property is used to add space inside the text field?,padding,margin,number,password,A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which of the following will insert generated content in the counter?,content,counter-reset,counter-increment,counter(),A,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which one can animate the width of search input when get focus?,focus,transition,outline,color,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which of the following is an extension to the common JavaScript framework?,Niceforms,Uni-forms,Formalize,jQuery UI,C,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/",
+Web Technologies & Internet / PHP,"css lists, tables and forms",Which of the following helps to deal with HTML5 support?,Twitter Bootstrap,WebShim,jQuery UI,Niceforms,B,,medium,"web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-lists,-tables-and-forms/?page=2",
+Web Technologies & Internet / PHP,css layout and images,Which of the following moves an element from its current position?,rotate(),translate(),scale(),matrix(),B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,Which of the following is not the value for an unordered list?,disc,square,circle,numeric,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,Using margin is also known as. . . . . . . .,Fahrner image replacement,The Lindsay method,Radu Darvas Technique,The Langridge method,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,@font-feature-values are only supported in . . . . . . . .,chrome,firefox,IE,Opera,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,Which of the following is used for adding perspective background images for each section?,.bg1,.parallax,.static,.section,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,Which of the following value sits to the left of the block of text?,outside,left,inside,right,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,In which every block-level element appears on a new line?,normal flow,relative positioning,absolute positioning,floating positioning,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,@page is not supported in . . . . . . . .,Firefox,Opera,Chrome,Internet Explorer,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,Which of the following is only for table elements?,initial,collapse,hidden,inherit,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,Which of the following does not support sticky version?,Firefox,Opera,IE,Chrome,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/,
+Web Technologies & Internet / PHP,css layout and images,Which value will compare the difference between none and contain?,contain,scale-down,none,cover,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,Which selects all unvisited links?,:last-child,:not(selector),:link,:nth-child(n),C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,Which property specifies the painting area of the background?,background-clip,background-image,background-size,background-origin,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,What prohibits the break?,always,avoid,left,right,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,Clip property is not supported in . . . . . . . .,Internet Explorer,Chrome,Safari,Opera,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,Using Pseudo element is known as . . . . . . . .,Nash Image replacement,Phark method,Radu Darvas Shim,The Langridge method,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,Which of the following increases or decreases the size of element?,skewX(),matrix(),scale(),skewY(),C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,"Which of the following does not support the "":hover"" pseudoclass?",IE 6,Chrome,Opera,Safari,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,Which value clear property can't take?,left,right,none,center,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,Which of the following is a library for JavaScript?,PlotKit,List bar chart,Pie chart,Stacked bar graphs,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=2,
+Web Technologies & Internet / PHP,css layout and images,Which of the following is positioned relative to the nearest positioned ancestor?,absolute,static,clip,relative,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,Which of the following media type is used for computer screens?,speech,screen,all,print,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will show a pop-up window that breaks into pieces once clicked?,click and break it,3D movement effect,blurred background,left bottom corner,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,Which of the following specify the approximate range of colors?,max-color-index,max-color,color-index,color-gamut,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,Which of the following selects all elements with a target attribute?,attribute,attribute=value,attribute~=value,attribute^=value,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,Using Overflow is known as . . . . . . . .,The Leon method,The Scott Kellum method,The Phark method,The Langridge method,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will select all elements within the class?,.class,#id,element,element>element,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,object-fit is not supported by . . . . . . . .,Chrome,IE,Opera,Firefox,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will specify minimum width of display area?,min-resolution,min-width,monochrome,overflow-block,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,Using actual image with inline image method is also known as . . . . . . . .,The Langridge method,Radu Darvas Shim,The Levin Technique,Phark method,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=3,
+Web Technologies & Internet / PHP,css layout and images,What is the default value of object-fit?,fill,contain,none,cover,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Which selects all visited links?,:valid,:visited,:target,:selection,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Which should be used to overlay text on image with high contrast?,screen,high contrast,low contrast,opaque,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Which class is used for setting perspective and scroll properties for the page?,.wrapper,.section,.static,.parallax,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Which of the following is used for spread radius?,blur,spread,color,v-offset,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,What skews an element along X and Y-axis?,skew(),skewX(),skewY(),matrix(),A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Which of the following name should be added to mark a link as disabled?,responsive horizontal-to-vertical menu,pure-menu-disabled,pure-menu-selected,responsive vertical menu,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Orphans and widows properties are supported by . . . . . . . .,Safari,Chrome,Firefox,Opera 9.2+,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will not use JavaScript?,Animated attacked bar graph,Pie chart,Animated Donut chart,Infographic charts,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will move the image up and down?,scroll,fixed,repeat-x,repeat-y,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=4,
+Web Technologies & Internet / PHP,css layout and images,Which of the following selects all <div> elements and all <p> elements?,element element,element+element,"element,element",None of the above,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,"Which of the following position element is not affected by the top, bottom, left etc. property?",static,clip,relative,absolute,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will give a minimalist entrance effect on hover?,"""flappy"" buttons",material design,linear pop-up,SVG & jQuery pop-up animation,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,Using Small font-size is also known as . . . . . . . .,Lindsay method,Leon Dwyer method,Levin technique,Radu Darvas Shim,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will take the element out of normal flow?,fixed positioning,floating elements,relative positioning,absolute positioning,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,What is the default value of visibility?,visible,hidden,initial,inherit,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,Which of the following selects input element which has focus?,:in-range,:hover,:focus,:invalid,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,Which of the following technique is also known as Fahrner Image Replacement?,CSS ON/Images ON,CSS ON/Images OFF,CSS OFF/Images ON,CSS OFF/Images OFF,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,Which of the following represents browsing with no stylesheets applied?,CSS OFF/Images ON,CSS OFF/Images OFF,CSS ON/Images OFF,CSS ON/Images ON,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,Which selects document's root element?,:required,:root,::selection,:out-of-range,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=5,
+Web Technologies & Internet / PHP,css layout and images,Using negative text-indent is also known as . . . . . . . .,The Scott Kellum method,The Phark method,Radu Darvas Technique,The Langridge method,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,Which is not a box-level element?,<p>,<ul>,<li>,<b>,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will display a speech bubble pop-up?,pop-up question form,cartoon pop-up,modal animation physics,overlay pop-up,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,What combines all the 2D transform methods into one?,skewX(),matrix(),skewY(),skew(),B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will rotate an element clockwise or counter-clockwise?,rotate(),skewX(),skewY(),matrix(),A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,outline-offset is not supported by . . . . . . . .,IE,Chrome,Opera,Firefox,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,@page is not supported by . . . . . . . .,chrome,opera,IE,Firefox,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will select every <p> element that is the only child of its parent?,:only-child,:only-of-type,:optional,:out-of-range,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,Which of the following is not the value for background-repeat property?,repeat-y,repeat-x,no-repeat,fixed,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,Which of the following selects every <a> element whose href attribute value contains the given substring?,attribute$=value,attribute*=value,attribute^=value,attribute|=value,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=6,
+Web Technologies & Internet / PHP,css layout and images,Using Absolute Positioning is known as . . . . . . . .,The Langridge method,The Levin Technique,The Scott Kellum method,The Leon method,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,Which value will define the viewport width?,width,resolution,pointer,update,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,Which of the following does not break long URLs into a shorter one?,Internet Explorer,Chrome,Firefox,Opera,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,Which property specifies where the background image is positioned?,background-size,background-origin,background-image,background-clip,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,Which of the following position is based on the user's scroll position?,fixed,sticky,relative,static,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,What clips an absolutely positioned elements?,right,bottom,position,clip,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will take care of breaks behind an element?,page-break-before,page-break-inside,page-break-after,page-break-into,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,Using a bogus image is also called as . . . . . . . .,The Leon method,The Levin Technique,Radu Darvas Shim,The Langridge method,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,Using padding is also known as . . . . . . . .,Leon Dwyer method,Radu darvas method,Lindsay method,Langridge method,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,Which of the following is set for horizontal offset of the shadow?,h-offset,v-offset,none,blur,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=7,
+Web Technologies & Internet / PHP,css layout and images,What changes the shadow from an outer shadow?,inset,initial,inherit,spread,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,background-blend-mode is not supported by?,IE,Opera,Chrome,Firefox,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,What does not affect the element itself?,perspective(),sacle(),matrix(),rotate(),A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,ID selector name is preceded by . . . . . . . .,'.','%','#','@',C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,What sets the stack order of an element?,z-index,right,top,position,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,Which value specifies the number of colors the device can display?,color-index,color-gamut,color,max-color,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,What scales the background image as large as possible?,contain,cover,size,resize,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,A grid is not supported by . . . . . . . .,IE,Chrome,Opera,Firefox,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,Which of the following uses AngulaJS?,d3 linegraph,Animated Donut chart,Infographic charts,CSS 3D animated chart,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,Which of the property is not used for positioning columns next to each other?,float,width,margin,border,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=8,
+Web Technologies & Internet / PHP,css layout and images,Which of the following comes with a smooth full screen overlay effect?,Overlay pop-up,Conformation pop-up,Welcome pop-up,Cartoon pop-up,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=9,
+Web Technologies & Internet / PHP,css layout and images,Which of the following selects every <p> element that has no children?,:empty,:enabled,:checked,:disabled,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=9,
+Web Technologies & Internet / PHP,css layout and images,Which of the following will represent browsers in their normal states?,CSS ON/Images ON,CSS ON/Images OFF,CSS OFF/Images ON,CSS OFF/Images OFF,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=9,
+Web Technologies & Internet / PHP,css layout and images,What should be added to create a horizontal menu?,pure-menu-horizontal,pure-menu-selected,pure-menu-has-children,pure-menu-scrollable,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css-layout-and-images/?page=9,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following css property specifies an image to use as the background of an element?,background,background-img,background-image,none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following css property specifies a delay for the transition effect?,transition-delay,transition-effect,transition,transition-duration,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following method rotates an element around its Y-axis at a given degree using tranform 3D?,rotateY(),rotate-Y(),rotate-Yaxis(),none of the mentioned,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following property defines where a 3D element is based in the x- and the y-axis?,transform-style,perspective(n),perspective-origin,none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following css property repeats an image both horizontally and vertically?,background,background-image,background-repeat,background-position,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies how nested elements are rendered in 3D space?,transform,transform-style,transform-render,none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies the intrinsic resolution of all raster images used in/on the element?,image-orientation,image-rendering,image-resolution,all of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies how the contents of a replaced element should be fitted to the box established by its used height and width?,object-fit,object-position,image-orientation,none of the mentioned,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies the alignment of the replaced element inside its box?,object,object-allign,object-position,object-render,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following css property defines whether or not an element should be visible when not facing the screen?,visibility,backface-control,backface-visibility,none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following selector is used to select and style when you place mouse over it?,focus,hover,mouse,all of the mentioned,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following method increases or decreases the size of an element using tranform?,rotate(),scale(),translate(),matrix(),B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following method moves an element from its current position using tranform?,rotate(),scale(),translate(),matrix(),C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following property specifies the speed curve of the transition effect?,transition-delay,transition-duration,transition-timing-function,transition,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following method skews an element along the X-axis by the given angle using tranform?,skewX(),skewy(),x-axis(),skew(),A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following method skews an element along the X and Y-axis by the given angles using tranform?,skewX(),skewy(),skew-X-Y(),skew(),D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following transition-timing-function property specifies a transition effect with a slow start?,ease,ease-in,ease-in-out,none of the mentioned,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,"Which of the following transition-timing-function property specifies a transition effect with a slow start, then fast, then end slowly",ease,ease-in,ease-in-out,none of the mentioned,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following transition-timing-function property lets you define your own values in a cubic-bezier function,"cubic(n,n,n,n)","matrix(n,n,n,n)","cubic-bezier(n,n,n,n)",none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=2,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following method combines all the 2D transform methods into one using transform?,combine(),2D-tranform(),matrix(),matrix-2D(),C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property is used to tell the browser what the sizing properties should be include?,box-sizing,box-model,box-design,box-redesign,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies where to navigate when using the arrow-down navigation key?,down,nav-down,arrow-down,none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies the sequential navigation order for an element?,nav,class,nav-index,class-index,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following nav-left value sets it’s value to default value?,target-name,id,inital,inherit,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property adds space between an outline and the edge or border of an element?,offset,outline,outline-offset,none of the mentioned,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following outline-offset value sets the distance the outline is outset from the border edge?,distance,length,initial,all,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies whether or not an element is resizable by the user?,resize,length,inherit,none of the mentioned,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies where to navigate when using the arrow-up navigation key?,nav-upper,nav-top,nav-up,all of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following CSS3 property specifies where to navigate when using the arrow-right navigation key?,Which of the following CSS3 property specifies where to navigate when using the arrow-right navigation key?,nav-right,nav-side,none of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=3,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following nav-right value is used to the inherits this property from its parent element?,auto,id,target-name,inherit,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following Module is not available in CSS3.,DOMs,Fonts,Backgrounds and Borders,Color,A,The Document Object Model (DOM) is a programming API for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,"What module introduces the ability to modify CSS property values over time, such as position or color, to create animated layouts?",3D Transforms,Animations,2D Transforms,Box Model,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,"What module defines the management of generated content for print output, including crop mark indication, header/footer handling, and much more?",Behavioral Extensions,Generated and Replaced Content,Generated Content for Paged Media,Grid Positioning,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,"What module defines the handling of lists, including marker styles and some aspects of counters?",Line Layout,Lists,Media Queries,Namespaces,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,"What module expands the absolute and relative units of measure, including significant changes to support animation and aural changes with time (s and ms) and angle (deg and rad) values?",Transitions,Template Layout,Web Fonts,Values and Units,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following selector is used to selects siblings?,::after,E ~ F,:checked,E[attr^=value],B,"p ~ strong {font-style: italic;} 
+/* sets the font style to italic on all strong tags that have a p tag as a preceding sibling */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following selector is used to selects the elements that are the default among a set of similar elements?,::after,:disabled,:default,:checked,C,":default {background-color: red;} 
+/* sets the background color of a default button like a submit to red */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following selector is used to selects the element that is the first child of its parent that is of its type?,:nth-child(n),::first-line,:last-of-type,:first-of-type,D,"strong:first-of-type {font-size: bigger;} 
+/* sets the font size bigger on the first strong tag of its parent */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following selector is used to selects the element that is the nth child of its parent?,:nth-child(n),::first-line,:last-of-type,:first-of-type,A,"div:nth-child(2) {background-color: red;} 
+/* sets the background color to red if the div is its parent’s second child */ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=4,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following selector is used to selects the element that is the root of the document?,:only-of-type,:target,:root,::selection,D,":root {background-color: blue;} 
+/* sets the background color to blue for the root element */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=5,
+Web Technologies & Internet / PHP,css3 fundamentals,"Which of the following selector is used to select elements that are read-only. When applied to form elements, this would select fields with the readonly attribute set?",:valid,:target,:read-only,:required,C,"Explanation: input:read-only {color: gray;} 
+/* put all read only fields in gray */",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=5,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following measurement represent seconds?,s,se,sec,second,A,"Example: 
+ #a2 {transition-property: color; transition-duration: 1s;}",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=5,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following property is used to control column element breaks before the associated element when flowing multicolumn text?,multicolumn,column-break-before,column-break,multicolumn-break-before,B,Syntax: column-break-before: always | auto | avoid,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=5,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following property defines the number of columns in a multicolumn text flow?,columns,column-flow,column-number,column-count,D,Syntax: column-count: integer | auto,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=5,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following property defines the style of the divider rule between columns in a multicolumn text flow?,columns,column-flow,column-style,none of the mentioned,D,Syntax: column-rule-style: dashed | dotted,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=5,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following property is a shorthand definition of the number of columns and their widths in a multicolumn text flow?,column-width,column-style,columns,filter,C,"Syntax: columns: column-count width 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=5,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following property defines the color of any rules between columns in a multicolumn text flow?,column-color,column-rule-color,column-rule-style,column-rule-decoration,B,Syntax: column-rule-color: color,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=6,
+Web Technologies & Internet / PHP,css3 fundamentals,Which of the following property is used to apply visual effects to associated elements.,Alpha,BasicImage,Filter,Blur,C,"Syntax: 
+filter: filtername(filtervalues) ... filtername(filtervalues)",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-fundamentals/?page=6,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,What does SVG stands for?,Scaled Vector Graph,Scalable Vector Graphics,Scaled Vector Graphics,None of the mentioned,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following is not an attribute used with SVG ellipse?,cx,cy,rr,ry,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following is attribute of SVG line?,x,y,x1,all of the mentioned,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,"Which of the following defines the color of a line, text or outline of an element?",text,stroke,line,all of the mentioned,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css property should be used to make a responsive image?,float,max-width,margin-right,all of the mentioned,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following CSS framework is used to create a responsive design?,larawell,bootstrap,rails,django,B,"Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications.",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css propery defines a relationship between bound elements(s) and some code or content?,@import,@media,url-bind,binding,D,Syntax: binding: none | url(bindingfile),medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css propery define the properties that will be animated in an animation rule?,@keyframes,animation-origin,transform,animation,D,Syntax: @keyframes: keyframe-name {percentage | from | to {cssrules}},medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,"Which of the following css property allows elements to be offset, rotated, scaled, and skewed in a variety of different ways?",transform-3D,transform-origin,transform,transition,C,Syntax: transform: list of transform-functions | none,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css property is used to define a delay before an animation starts?,delay,transition-delay,transform-delay,none of the mentioned,B,"Syntax: transition-delay: time1 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+2
+3
+4
+5
+6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ -->
+ 
+ 
+ 
+
+
+ 
+
+-->
+ 
+ 
+ Copyright © 2026 Examveda.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us |
+ Terms & Condition |
+ Privacy Policy |
+ Contact Us",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css property is used to define the time it takes one iteration of an animation to play?,control,animation-duration,transition-duration,all of the mentioned,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=2,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css property is used to define which properties a transition will be applied to?,animation-property,transition-property,css3-property,none of the mentioned,B,Syntax: transition-property: all | none | property-name-1,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=2,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css property is used to describe how the animation will play?,animation-timing-function,css3-timing-function,transform-timing-function,transition-timing-function,D,"Syntax:transition-timing-function transition-timing-function: timingfunction,timingfunction2,...timingfunctionN]",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=2,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css property is used to indicate if an animation plays in reverse or repeats itself every other iteration?,animation-iteration,animation-check,animation-direction,animation-state,C,"Syntax: animation-direction: normal | alternate [,normal | alternate",medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=2,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css property is used to define the number of times an animation should play?,scale-iteration-count,transtion-iteration-count,animation-iteration-count,all of the mentioned,C,Syntax: animation-iteration-count: number | infinite,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=2,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following css property is used to define the animations that should be run?,animation-run,animation-name,transtion-name,none of the mentioned,D,Syntax:animation-name: @keyframe-name | none,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=2,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,"What does this code do? 
+Code:
+ @media only screen and (max-width: 500px) {
+ body {
+ background-color: lightblue;
+ }
+}","If the browser window is smaller than 500px, the background color will change to lightblue:","If the browser window is larger than 500px, the background color will change to lightblue:",The background color will change to lightblue,Nothing happens,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=3,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following element is used to create an SVG ellipse?,<circle>,<ellipse>,<curve>,none of the mentioned,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=3,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following element is used to begin an SVG image?,<image>,<svg>,<img>,<graph>,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=4,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,"What should be written in the blank of the code for resizing elements in Responsive Web Design with Transitions 
+Code:
+body { background-image: url(fog.jpg); background-size: cover;
+background-repeat: no-repeat; color: #fff; font-family: Avenir, Arial, sans-serif;
+}
+h1 { font-family: 'Calluna Sans', Arial, sans-serif; text-align: center;
+font-size: 10rem; margin: 8rem auto;
+}
+h1 { font-family: 'Calluna Sans', Arial, sans-serif;
+text-align: center; font-size: 10rem; margin: 8rem auto; transition: 1s font-size linear;
+}
+______________ and (max-width: 1100px) {
+h1 { font-size: 8rem; }",@media,@media screen,div,transform,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=4,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following code set the webpage correctly displayed on a device?,"<meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">","<meta name=""viewport"" content=""width=device-width, initial-scale=2.0"">","<meta name=""viewport"" content=""width=device-width, initial-scale='parent-size'"">","<meta name=""viewports"" content=""width=device-width, initial-scale=1.0"">",A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=4,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,"What does this code do? 
+Code:
+@media only screen and (max-width: 768px) {
+ class*=""col-""] {
+ width: 100%;
+ }
+}","When the screen gets larger than 768px, each column should have a width of 100%.","When the screen gets smaller than 768px, each column should have a width of 100%.",Error occured,None of the mentioned,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=5,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following element is used to create a circle?,<cir>,<round>,<circle>,<ellipse>,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=5,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,"What should be written in the blank of the code for JQuery Code Used to Apply CSS3 Animations? 
+CSS Code:
+_________ leftmove {
+100% { transform: translateX(-70px); opacity: 1; }
+}
+_________ rightmove {
+100% { transform: translateX(70px); opacity: 1; }
+}
+jQuery Code:",@media,@keyframes,animation-name,!important,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=5,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following element is used to create any shape that consists of only straight lines?,<polyogn>,<polyline>,<lines>,<multiline>,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=5,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,"What does this code do? 
+Code:
+@media only screen and (orientation: landscape) {
+ body {
+ background-color: lightblue;
+ }
+}",web page will have a lighblue background if the orientation is in landscape mode,web page will have a lighblue background if the orientation is not in landscape mode,web page will have a red background if the orientation is in landscape mode,None of the mentioned,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=6,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following element is used to create a SVG rectangle?,<rectangle>,<polygon>,<rect>,<square>,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=6,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following nav-left value sets it's value to default value?,target-name,id,inital,inherit,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=6,
+Web Technologies & Internet / PHP,css3 transitions and css 3 animations,Which of the following element is used to create a SVG line?,<line>,<dot>,<ray>,<stick>,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-css3-transitions-and-css-3-animations/?page=6,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,What gives the full path to CGI script?,script_filename,script_name,server_name,request_method,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,What specifies the speed curve of transition effect?,transition-delay,transition-property,transition-timing-function,transition-duration,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,How many values are there for the object-fit property?,2,5,3,4,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which variable defines the data type of the content?,content_type,content_length,http_cookie,http_user_agent,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following specifies the length of the data being returned?,set-cookie: string,location: URL string,content-length: string,last-modified: string,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,What defines the date when information becomes invalid?,last-modified: string,expires: date string,content-type: string,None of the above,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following specifies a transition effect with same speed from start to end?,linear,ease-out,ease-in-out,ease,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,How many values are there for animation-full-mode property?,1,2,3,4,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following is a format for scalable computer fonts?,EOT,WOFF,OTF,WOFF 2.0,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following specifies animation code?,@keyframes,animation,animation-delay,animation-direction,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which web font was developed by Apple and Microsoft in the late 1980s?,TTF,OTF,WOFF,WOFF 2.0,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,What value lets animation to play forwards first then backward?,alternate,alternate-reverse,reverse,normal,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which value specifies animation with slow start?,ease-out,ease-in,linear,ease,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which specifies the speed curve of animation?,animation-iteration-count,animation-name,animation-play-state,animation-timing-function,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following adds the value of a counter to an element?,counter-increment,content,counter(),counter-reset,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following gives the path for CGI script?,remote_host,remote_addr,query_string,path_info,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which property specifies the number of columns an element should be divided into?,column-rule,column-count,column-gap,column-fill,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following is not a combinatory?,*,>,~,+,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which font format is used in web pages?,WOFF 2.0,WOFF,SVG Fonts,EOT,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,"Which value specifies a transition effect with a slow start, then fast, then end slowly?",ease,linear,ease-in,ease-out,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=2,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following specifies how many seconds a transition effect takes to complete?,transition-delay,transition-duration,transition-property,transition,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=3,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following specifies how to slice border image?,border-image,border-image-source,border-image-outset,border-image-slice,D,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=3,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following defines a MIME string format of the content being returned?,content-type:string,expires:date string,location:URL string,last-modified:string,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=3,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which of the following selects all elements that are siblings of the specified element?,child selector,general sibling selector,adjacent sibling selector,descendant selector,B,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=3,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,Which property is used for setting column-width and column-count?,columns,column-width,column-span,column-width-rule,A,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=3,
+Web Technologies & Internet / PHP,cgi programming and miscellaneous,What returns the set cookies in the form of a key?,path_info,http_user_agent,http_cookie,query_string,C,,medium,web:Examveda.com https://www.examveda.com/css/practice-mcq-question-on-cgi-programming-and-miscellaneous/?page=3,

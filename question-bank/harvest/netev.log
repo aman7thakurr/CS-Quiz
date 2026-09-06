@@ -1,0 +1,60 @@
+series found: 16
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 8 q
+    page 10: 10 q
+  networking miscellaneous: 98 raw, cumulative 98
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 4 q
+  networking basics: 34 raw, cumulative 131
+    page 1: 10 q
+    page 2: 9 q
+  tcp ip: 19 raw, cumulative 150
+    page 1: 10 q
+    page 2: 9 q
+  ios and security device manager: 19 raw, cumulative 169
+    page 1: 10 q
+    page 2: 7 q
+  ip routing: 17 raw, cumulative 186
+    page 1: 10 q
+    page 2: 9 q
+  spanning tree protocol: 19 raw, cumulative 202
+    page 1: 10 q
+    page 2: 9 q
+  security: 19 raw, cumulative 220
+    page 1: 10 q
+    page 2: 8 q
+  wireless technologies: 18 raw, cumulative 238
+    page 1: 10 q
+    page 2: 9 q
+  wide area networks: 19 raw, cumulative 255
+    page 1: 9 q
+    page 2: 10 q
+  internetworking: 19 raw, cumulative 274
+    page 1: 10 q
+    page 2: 10 q
+  subnetting: 20 raw, cumulative 294
+    page 1: 10 q
+    page 2: 10 q
+  managing a cisco internetwork: 20 raw, cumulative 314
+    page 1: 10 q
+    page 2: 9 q
+  eigrp and ospf: 19 raw, cumulative 332
+    page 1: 10 q
+    page 2: 9 q
+  virtual lans: 19 raw, cumulative 349
+    page 1: 10 q
+    page 2: 9 q
+  network address translation: 19 raw, cumulative 367
+    page 1: 10 q
+    page 2: 5 q
+  ipv6: 15 raw, cumulative 382
+wrote computer_networks_examveda_web.csv: 382 rows

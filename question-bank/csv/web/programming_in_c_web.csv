@@ -1,0 +1,598 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Programming in C,General,C language was developed by ___.,Dennis Rechard,Dennis M. Ritchie,Bjarne Stroustrup,Anders Hejlsberg,B,C programming language was developed by an American computer scientist Dennis M. Ritchie at Bell Laboratories (formerly AT&T Bell Laboratories).,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,In which year was C language developed?,1962,1978,1979,1972,D,C programming language was developed by Dennis Ritchie at Bell Laboratories in 1972.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,C language is a successor to which language?,Basic,Cobol,C++,B,D,C programming language is a successor to the programming language B.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,C is a ___.,Low level language,High level language,Medium level language,None of the above,C,C is a medium-level language because it contains the features of low-level language as well as high-level language.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,How many keywords are there in C language?,32,33,64,18,A,C language has only 32 keywords.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,C language is a ___.,Procedural oriented programming language,General purpose programming language,Structured programming,All of the above,D,"C programming language is a general-purpose, procedural computer programming language that supports structured programming also.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,Which is not a valid keyword in C language?,for,while,do-while,switch,C,"do-while is not a valid keyword in the C programming language. It's a control statement. 'do' and 'while' are the separate keywords. The rest of all 'for', 'while', and 'switch' are the valid keywords in C.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,What is an identifier in C language?,An identifier is a combination of alphanumeric characters used for conditional and control statements,"An identifier is a combination of alphanumeric characters used for any variable, function, label name",Both A and B,None of the above,B,"An identifier is a combination of alphanumeric characters used for any variable, function, label name. An identifier is a name that is used to identify the variables/ constants, functions, arrays, label name, and user-defined data.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,"A C-style comment, simply surround the text with ___.",/* and */,// and //,//,/** and **/,A,"A C-style comment, simply surround the text with /* and */.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,"___ is an informal name for ISO/IEC 9899:1999, a past version of the C programming language standard?",C,C++,C89,C99,D,"C99 is an informal name for ISO/IEC 9899:1999, a past version of the C programming language standard.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,"In which version of C language, the C++ Style comment (//) are introduced?",C17,C18,C89,C99,D,"C language version C99 introduced C++ style comment (//), they can be used to comment a single line.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,The C source file is processed by the ___.,Interpreter,Compiler,Both Interpreter and Compiler,Assembler,B,The C source file is processed by the compiler.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,How many whitespace characters are allowed in C language?,2,3,4,5,D,"There are 5 whitespace characters are allowed in C language, they are:
+ Space
+ Horizontal tab
+ Vertical tab
+ Form feed
+ New-line",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,How many punctuation characters are allowed in C language?,29,30,31,32,A,"There are 29 punctuation characters are allowed in C language, they are: 
+_ { } [ ] # ( ) % : ; . ? * + - / ^ & | ~ ! = , \ "" '",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,What is the extension of a C language source file?,.c,.cpp,.c99,.h,A,"The extension of a C language source file is "".c"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,What is the extension of a C language header file?,.c,.cpp,.c99,.h,D,"The extension of a C language source file is "".h"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,"To develop which operating, C language was invented?",Linux,Unix,Android,Mac,B,C language was invented to develop Unix operating system.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,1) C Basics,Which are the fundamental data types in C?,char,int,float,All of the above,D,"The fundamental / basic data types in C language:
+ char
+ int
+ float",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",How many byte(s) does a char type take in C?,1,2,3,4,A,The char data type takes one byte in the memory.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",What is the difference between float and double in C?,both are used for the same purpose,double can store just double value as compare to float value,double is an enhanced version of float and was introduced in C99,double is more precise than float and can store 64 bits,D,"In C programming language, the double is more precise than float and can store 64 bits.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",The short type represents ___.,int,float,unsigned int,short int,C,The short type represents short int in C language.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",How many byte(s) does a short type take in C?,1,2,3,4,B,"In C programming language, the short or short int takes 2 bytes (16 bits) in memory.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",What is the correct syntax to declare a variable in C?,data_type variable_name;,data_type as variable_name;,variable_name data_type;,variable_name as data_type;,A,"In C language, the correct syntax to declare a variable is:
+data_type variable_name;
+ Where, data_type is the type of data (such as int, char, float, etc) and variable_name is a valid identifier. For example: int age;",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",How many types of qualifiers are there in C language?,2,3,4,5,B,"There are 3 types of qualifiers in C language, they are:
+ Size qualifiers
+ Sign qualifiers
+ Type qualifiers",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Which is/are the size qualifier(s) in C language?,short,long,double,Both A. and B,D,The size qualifiers are short and long.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Which is/are the sign qualifier(s) in C language?,signed,unsigned,long,Both A. and B,D,The sign qualifiers are used to specify the signed nature of an integer type. The sign qualifiers are signed and unsigned.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Which is/are the type qualifier(s) in C language?,const,volatile,static,Both A. and B,D,"The type qualifiers are const and ""volatile"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Which is correct with respect to the size of the data types in C?,char > int > float,char < int < float,int < char < float,int < chat > float,B,The correct order of the data types as per the size is: char < int > float.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Which operator is used to find the remainder of two numbers in C?,/,\,%,//,C,"The % operator is known as ""Modulus Operator"" and it is used to find the remainder of two numbers.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Which of the following is not an arithmetic expression?,x = 10,x /= 10,x %= 10,x != 10,D,x != 10 is not a valid arithmetic expression.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    int x = 20;
+    x %= 3;
+    printf(""%d"",x);
+
+    return 0;
+}
+```",2,2.5,Error,Warning,A,"In the above code, the value of x is 20 and then in the next statement, the expression is x %= 3. That will be evaluate as:
+x %= 3;
+x = x % 3;
+x = 20 %3;
+x = 2",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    float x = 21.0;
+    x %= 3.0;
+    printf(""%f"",x);
+
+    return 0;
+}
+```",7,7.00,7.000000,Error,D,"In the above code, we are performing modulus operation with float values. Modulus operator doesn't work with float and double operands. Thus, the output will be:
+error: invalid operands to binary % (have ‘float’ and ‘double’)",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    float x = 23.456;
+    printf(""%.2f"",x);
+    return 0;
+}
+```",23.45600,23.456,23.45,23.46,D,"In the above code, the value of x is 23.456 and we are printing the value of x using the %.2f format specifier. %.2f rounds the value and prints the 2 digits after the decimal point.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What will be the output of the following C code?
+```
+#include <stdio.h>
+
+void main()
+{
+    int x = 10;
+    int y = x++ + 20;
+
+    printf(""%d,%d"",x,y);
+
+    return 0;
+}
+```","11,30","11,31","10,30","10,31",A,"In the above code, we are using a post-increment statement (x++), post-increment increases the value after evaluating the current expression. Thus, the value of y will be 30 and then x will be 11.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Increment (++) and decrement (--) are the ___ operators in C?,Unary,Binary,Ternary,None of the above,A,Increment (++) and decrement (--) are the unary operators. They need one operand to perform the operation.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    unsigned char c=290;
+    printf(""%d"",c);
+    return 0;
+}
+```",290,256,34,Garbage,C,290 is beyond the range of unsigned char. Its corresponding value printed is: (290 % (UCHAR_MAX +1) where UCHAR_MAX represents highest (maximum) value of unsigned char type of variable. The value of UCHAR_MAX=255. Thus it prints 290 % (UCHAR_MAX+1)=34,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    int a=0;
+
+    a=5||2|1;
+    printf(""%d"",a);
+
+    return 0;
+}
+```",1,7,0,8,A,"Bitwise OR operator (|) has precedence over logical OR operator (||). Thus the expression 5 || 2 | 1 is actually 5 || (2 |1).
+ Now,
+2= 0000 0010
+1= 0000 0001
+2|1= 0000 0011=3
+5 || 3 returns true as both are nonzero
+Thus a=1",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    int x =-100;
+
+    -100;
+    printf(""%d"",x);
+
+    return 0;
+}
+```",100,-100,0,Error,B,"The statement ""-100;"" is evaluated and this does not affect the value of ""x"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    int a,b,c;
+
+    a=0x10; b=010;
+    c=a+b;
+
+    printf(""%d"",c);
+
+    return 0;
+}
+```",20,24,Garbage,Error,B,"0x10 is hex value it's decimal value is 16 and 010 is an octal value it's decimal value is 8, hence answer will be 24.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Which C keyword is used to extend the visibility of variables?,extend,extends,extern,auto,C,"The ""extern: keyword used to define an extern variable, that can be accessed in any source file. i.e., extern is used to extend the visibility of variables in C language.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions","What is the name of ""&"" operator in C?",Ampersand,And,Address of,None of the above,C,"The ""&"" operator is known as 'Address Of' operator which is used to access the address of a variable.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,"2) C Data Types, Operators and Expressions",Which of the following are valid decision-making statements in C?,if,switch,nested if,All of these,D,"All valid decision-making statements in C program are:
+ if statement
+ if-else statement
+ nested if statement
+ switch statement
+ nested switch statement",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Decision making in the C programming language is ___.,Repeating the same statement multiple times,Executing a set of statements based on some condition,Providing a name of the block of code,All of these,B,Decision-making in C programming is executing a block of code to be executed by the program based on some condition.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Which of the following is a true value in C programming?,1,"""includehelp""",! NULL,All of these,D,All non-zero and non-null values in C programming are true.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Ternary operator in C programming is ___.,if-else-if,? :,? ; ?,None of these,B,Ternary operator is used to execute expressions based on the given condition.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    printf((43 > 43) ? ""value 1 is greater!"" : ""value 1 is not greater!"");
+    return 0;
+}
+```",value 1 is not greater,value 1 is greater,Error,None of these,A,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,What is the correct syntax of if statement in C program?,if(condition){ },if(condition) :,If { [condition] },None of these,A,"The correct syntax of if statement in C program is:
+if(condition){
+ // code to be executed
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,"When the condition of if statement is false, the flow of code will ___.",go into the if block,Exit the program,Continue the code after skipping the if block,None of these,C,"When the condition of if statement is false, the code after the if block will be executed and the if block code is skipped.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,"What will be the result of the following condition?
+```
+(! (25 > 25))
+```",True,False,Error,None of these,A,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Which statement is required to execute a block of code when the condition is false?,for,if,else,All of these,C,"In the if-else block, the if block is executed when condition is True and else block is executed when condition is false.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Which of these if...else block syntax is correct?,if(condition){ } else { },if(condition){ } else(condition){ },if{ } else { },None of these,A,"The syntax of if...else block of code in C is:
+if(condition){
+ // true block
+}
+else {
+ // false block
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,The if-elseif-else statement in C programming is used?,Create multiple conditional statements,Return values,Loop in if-else block,All of these,A,The if-elseif-else statement is a statement which contains multiple statements based on conditions.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    int marks = 43;
+
+    if (marks > 90)
+        printf(""Grade : A "");
+    else if (marks > 75)
+        printf(""Grade : B "");
+    else if (marks > 60)
+        printf(""Grade : C "");
+    if (marks > 40)
+        printf(""Grade : D "");
+    else
+        printf(""Fail "");
+    return 0;
+}
+```",Grade : A,Grade : B,Grade : C,Grade : D,D,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,How many expressions can be checked using if...elseif...else statement?,100,1,Infinite,None of these,C,"You can execute any number of expressions using if-elseif-else statements, each elseif statement containing one condition.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Which of the following syntax is correct for nested if-else statements?,"if(exp1){
+ if(exp2){
+ }
+}
+else {
+ if(exp3){
+ }
+}","if(exp1){
+}else {
+}",if{},None of these,A,"The correct syntax for nested if-else statements in C programming is:
+if(exp1){
+ if(exp2){
+ }
+}
+else {
+ if(exp3){
+ }
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main(){
+    int n = 65;
+    if (n >= 75) {
+        if (n >= 95) {
+            printf(""Excellent"");
+        }
+        else
+            printf(""Pass"");
+    }
+    else
+        printf(""Fail"");
+}
+```",Excellent,Pass,Fail,None of these,C,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Multiple values of the same variable can be tested using ___.,switch,for,Function,All of these,A,The switch statement in C is used to test for multiple values of a variable.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Without a break statement in switch what will happen?,All cases will work properly,Cases will fall through after matching the first check,Switch will throw error,All of these,B,"The break statement is used to terminate the current flow of code. And if it is not present in the switch statement, the cases will execute all cases after the matched case.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,When all cases are unmatched which case is matched in a switch statement?,Default case,First case,No case,None of these,A,The default case of switch statement is executed when no other case is matched.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main(){
+    char grade = 'B';
+
+    switch (grade) {
+    case 'A':
+        printf(""Excellent!\n"");
+    case 'B':
+    case 'C':
+        printf(""Well done\n"");
+    case 'D':
+        printf(""You passed\n"");
+    case 'F':
+        printf(""Better try again\n"");
+        break;
+    default:
+        printf(""Invalid grade\n"");
+    }
+}
+```",Well done,You passed,Better try again,All of these,D,"There is no break statement in case B, Case C, case D. the code will fall through executing all the print statements.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,C Conditional Statements,Loops in C programming are used to ___.,Execute a statement based on a condition,Execute a block of code repeatedly,Create a variable,None of these,B,Loops in programming are used to execute a block of code repeatedly.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,Which of these is an exit-controlled loop?,for,if,do...while,while,C,"The do...while loop check for a condition after executing the loop block once. Hence, it is called an exit-controlled loop.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,Which statements are used to change the execution sequence?,Loop control statement,Function statement,Conditional statement,All of these,A,Loop control statements in C are used to change the execution sequence of the loop.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,What will happen if the loop condition will never become false?,Program will throw an error,Program will loop infinitely,Loop will not run,None of these,B,An infinite loop in a program is a condition when the loop continues when the loop continues to run infinitely because the condition never becomes false.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,Which of these statements is correct in case of while loop in C?,Executes the block till the condition become false,Is an entry controlled loop,There might be condition when the loop will not execute at all,All of these,D,"All of the above statements are true in the case of while loop. While loop is an entry-controlled loop, the block executes when the condition becomes false.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,Which of the following is valid syntax for creating a while loop?,"while{
+} (condition)","while(condition){
+}","while{
+}",All of these,B,"The correct syntax for creating a while loop is:
+while(condition){
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main(){
+    int a = 11;
+
+    while (a < 20) {
+        printf(""%d  "", a);
+        a += 2;
+    }
+
+    return 0;
+}
+```",11 13 15 17 19,11 12 13 14 15 16 17 18 19 20,11 13 15 17 19 21,None of these,A,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,Which loop executes the block a specific number of times?,while loop,for loop,do...while loop,All of these,B,The for loop executes the block a specific number of times.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,Which of the following parts of the for loop can be eliminated in C?,init,condition,increment,All of these,D,"Syntax of for loop:
+for(init, condition, increment){
+}
+ Inside the initialization statement (init), any of the three init or condition or increment can be eliminated i.e., all are optional. The loop can work without them also.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,"When all parts of the for loop are eliminated, what will happen?",For loop will not work,Infinite for loop,Error,None of these,B,On eliminating all the parts of a for loop an infinite for loop will run.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,"When the condition of the do-while loop is false, how many times will it execute the code?",0,1,Infinite,All of these,B,"The do-while loop is an exit-controlled loop, hence it will run at least once, even if the condition becomes false.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main(){
+    int i, j;
+
+    for (i = 2; i < 10; i++) {
+        for (j = 2; j <= (i / j); j++)
+            if (!(i % j))
+                break;
+        if (j > (i / j))
+            printf(""%d "", i);
+    }
+
+    return 0;
+}
+```",2 3 4 5 6 7 8 9,3 5 7 9,2 3 5 7,2 3 5 7 11,C,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,4) C Control Statements,A string is terminated by ___.,Newline ('\n'),Null ('\0'),Whitespace,None of the above,B,"In C programming language, a string is a sequence of characters terminated with a null character \0.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,5) C Strings,Which format specifier is used to read and print the string using printf() and scanf() in C?,%c,%str,%p,%s,D,"The format specifier ""%s"" is used to read and print the string using printf() and scanf() in C.
+ Example:
+#include <stdio.h>
+int main()
+{
+ char name[30];
+ printf(""Input name: "");
+ scanf(""%s"", name);
+ printf(""Given name is: %s"", name);
+ return 0;
+}
+/*
+Output:
+Input name: Alvin
+Given name is: Alvin
+*/",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,5) C Strings,Which function is used to read a line of text including spaces from the user in C?,scanf(),getc(),fgets(),All of the above,C,"In C programming language, the fgets() function can be used to read a line of text including spaces from the user.
+ Syntax:
+fgets(variable_name, sizeof(size), stdin);",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,5) C Strings,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    char str1[] = { 'H', 'e', 'l', 'l', 'o' };
+    char str2[] = ""Hello"";
+
+    printf(""%ld,%ld"", sizeof(str1), sizeof(str2));
+
+    return 0;
+}
+```","5,5","6,6","5,6",None of the above,C,"str1 is initialized with the characters and there are only 5 characters. Thus, the length of the str is 5. While, str2 is initialized with the string ""Hello"", when we initialized the string in this way - a null ('\0') character is inserted after the string. Thus, the length of str2 is 6.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,5) C Strings,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+int main()
+{
+    char str1[] = ""Hello"";
+    char str2[10];
+
+    str2 = str1;
+
+    printf(""%s,%s"", str1, str2);
+
+    return 0;
+}
+```","Hello,","Hello,Hello","Hello,HelloHello",Error,D,"There will be a compilation error, because we cannot assign a string like this (str2 = str1). To resolve this issue, we have to use strcpy(str2,str1).
+ The output will be:
+main.c:8:10: error: assignment to expression with array type
+ 8 | str2 = str1;
+ | ^",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,5) C Strings,"What will be the output of the following C code? (If the input is ""Hello world"")
+```
+#include <stdio.h>
+
+int main()
+{
+    char str[30];
+
+    scanf(""%s"", str);
+    printf(""%s"", str);
+
+    return 0;
+}
+```",Hello world,Hello,Hello world\0,Error,B,"When we read a string using the scanf() function, the input is terminated by the whitespace. Here, the input is ""Hello world"", so only ""Hello"" will be stored to str. Thus, the output will be ""Hello"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,5) C Strings,Which function is used to compare two strings with ignoring case in C?,strcmp(),strcmpi(),compare(),cmpi(),B,"The function strcmpi() is used to compare two strings with ignoring case in C language.
+ The strcmpi() is a built-in library function and is declared in <string.h> header file. This function takes two strings as arguments and compare these two strings, it is similar to strcmp() function but the only difference is that strcmpi() function is not case sensitive.
+ Syntax:
+int strcmpi(const char* str1, const char* str2);",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,5) C Strings,Which is the correct syntax to declare an array in C?,data_type array_name[array_size];,data_type array_name{array_size};,data_type array_name[];,All of the above,A,"The correct syntax to declare an array in C is:
+data_type array_name[array_size];",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,You can access elements of an array by ___.,values,indices,memory addresses,All of the above,B,You can access elements of an array by indices. Array indices starts from 0 to array_size -1.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,Which is/are the correct syntax to initialize an array in C?,"data_type array_name[array_size] = {value1, value2, value3, …};","data_type array_name[] = {value1, value2, value3, …};",data_type array_name[array_size] = {};,Both A and B,D,"Both the options A and B are correct to initialize an array.
+ Example:
+int mark[5] = {19, 10, 8, 17, 9};
+// or
+int mark[] = {19, 10, 8, 17, 9};",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,Array elements are always stored in ___ memory locations.,Random,Sequential,Both A and B,None of the above,B,Array elements are always stored in sequential memory locations.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,"Let x is an integer array with three elements having value 10, 20, and 30. What will be the output of the following statement?
+```
+printf(""%u"",x);
+```","Prints the value of 0th element (i.e., 10)",Prints the garbage value,An error occurs,"Print the address of the array (i.e., the address of first (0th) element",D,"If we print the array (in this case, x). The output will be the memory address of the array (i.e., the address of first (0th) element.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,"What will be the output of the following C program?
+```
+#include <stdio.h>
+
+int main()
+{
+    int x[5] = { 10, 20, 30 };
+    printf(""%d"", x[3]);
+    return 0;
+}
+```",0,30,Garbage value,Error,A,"In C language, when an array is partially initialized at the time of declaration then the remaining elements of the array is initialized to 0 by default.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,"What will be the output of the following C program?
+```
+#include <stdio.h>
+
+int main()
+{
+    int x[5] = { 10, 20, 30 };
+    printf(""%d"", x[-1]);
+    return 0;
+}
+```",0,10,Garbage value,Error,C,"C language compiler does not check array with its bounds, when an index is out of the range the garbage value is printed.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,"What will be the output of the following C program?
+```
+#include <stdio.h>
+
+int main()
+{
+    int x[5] = { 10, 20, 30 };
+    printf(""%ld"", sizeof(x)/sizeof(x[0]));
+    return 0;
+}
+```",3,4,5,6,C,"The statement sizeof(x)/sizeof(x[0]) can be used to get the total numbers of elements, sizeof(x) will return the size of array while sizeof(x[0]) will return the size of first element i.e., size of the type. Their division will return the total number of elements.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,"If we pass an array as an argument to a function, what actually gets passed?",Value of elements in array,First element of the array,"Base address of the array i.e., the address of the first element",Address of the last element of array,C,If we pass an array as an argument to a function – the base address of the array (the address of the first element) is passed to the function.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,6) C Arrays,Which of the following is the collection of different data types?,structure,string,array,All of the above,A,"In C programming language, a structure is a user-defined data type which is the collection of different data types.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,Which operator is used to access the member of a structure?,-,>,*,.,D,The dot (.) operator is used to access the member of a structure.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,Which of these is a user-defined data type in C?,int,union,char,All of these,B,Union is a user defined data type in C.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,The size of a union is ___.,Sum of sizes of all members,Predefined by the compiler,Equal to size of largest data type,None of these,C,The size of the union is equal to the size of the largest data type declared in the union.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,All members of union ___.,Stored in consecutive memory location,Share same memory location,Store at different location,All of these,B,All members of a union in C are stored at the same memory location.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,Which of the below statements is incorrect in case of union?,Union is a user-defined data structure,All data share same memory,Union stores methods too,union keyword is used to initialize,C,Unions in C is a data structure which store data types but not the methods.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,The members of union can be accessed using ___.,Dot Operator (.),And Operator (&),Asterisk Operator (*),Right Shift Operator (>),A,The dot operator (.) is used to access members of a union.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,In which case union is better than structure?,Less memory is available,Faster compilation is required,When functions are included,None of these,A,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,Which is the correct syntax to create a union?,union union_name { };,union union_name { },union union_name ( );,Union union_name ( ),A,"The correct syntax of creating a union is:
+union union_name {
+};",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,"What will be the output of the following C program?
+```
+#include <stdio.h>
+
+union values {
+    int val1;
+    char val2;
+} myVal;
+
+int main()
+{
+    myVal.val1 = 66;
+
+    printf(""val1 = %p"", &myVal.val1);
+    printf(""\nval2 = %p"", &myVal.val2);
+
+    return 0;
+}
+```",val1 = 0x54ac88dd2012 val2 = 0x55ac76dd2014,Error,val1 = 0x55ac76dd2014 val2 = 0x55ac76dd2014,Exception,C,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,7) C Structures and Union,What is a function in C?,User defined data type,Block of code which can be reused,Declaration syntax,None of these,B,Function in C is a block of code which can be reused.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,Which keyword is used to return values from function?,Return,Value,Return type,All of these,C,The return in declaration is initialized using return type.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,Which of these is not a valid parameter passing method in C?,Call by value,Call by reference,Call by pointer,All of these,C,"Valid parameter passing method in C is:
+ Call by value
+ Call by reference",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,A C program contains ___.,At least one function,No function,No value from command line,All of these,A,The main() function is required in the C program.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,A recursive function in C ___.,Call itself again and again,Loop over a parameter,Return multiple values,None of these,A,Recursive function in C is a function which calls itself again and again.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,The scope of a function is limited to?,Current block,Only function,Whole file,Directory,C,The scope of a function is limited to the file it is declared in.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,Which of the below syntax is the correct way of declaring a function?,return function_name () { },data_type function_name (parameter) { },Void function_name ( ),None of these,B,"The correct syntax of declaring a function in C:
+data_type function_name (parameter){
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,The sqrt() function is used to calculate which value?,Square,Square of reverse bits,Square root,None of these,C,The sqrt() method in C is used to calculate the square root of a number.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,"What will be the output of the following C program?
+```
+#include <stdio.h>
+
+int myFunc(int x){
+    return (--x);
+}
+
+int main(){
+    int a = myFunc(13);
+    printf(""%d"", a);
+    return 0;
+}
+```",13,12,14,Error,B,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,8) C Functions,"Before using a pointer variable, it should be ___.",Declared,Initialized,Both A. and B.,None of the above,C,A pointer variable should be declared and initialized before the using.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,An uninitialized pointer in C is called ___.,Void pointer,Empty pointer,Invalid pointer,Wild pointer,D,"An uninitialized pointer in C is called wild pointer. Since, the pointer is initialized it may lead a program to behave wrongly or to crash.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,___ is a pointer that occurs at the time when the object is de-allocated from memory without modifying the value of the pointer.,Dangling pointer,Wild pointer,Void pointer,Null pointer,A,A dangling pointer is a pointer that occurs at the time when the object is de-allocated from memory without modifying the value of the pointer.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,A ___ can be assigned the address of any data type.,Dangling pointer,Wild pointer,Void pointer,Null pointer,C,A void pointer can be assigned the address of any data type.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,Which pointer is called general-purpose pointer?,Dangling pointer,Wild pointer,Void pointer,Null pointer,C,"A void pointer is called general-purpose, because it can be used with any type of variable.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,Pointer arithmetic is not possible on ___.,Integer pointers,Float pointers,Character pointers,Void pointers,D,Pointer arithmetic is not possible on void pointers due to lack of concrete value and size.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,"Comment on the following pointer declaration?
+```
+int *p, x;
+```","p is a pointer to integer, x is not","p and x, both are pointers to integer","p is pointer to integer, x may or may not be",p and x both are not pointers to integer,A,"In the above given statement, variable p is a pointer to integer, while x is an integer variable.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,"What will be the output of the following C code?
+```
+#include <stdio.h>
+int main(){
+    int x = 10, *ptr;
+    ptr = &x;
+    *ptr = 20;
+    printf(""%d"", x);
+}
+```",10,20,Error,A garbage value,B,"In the above program, x contains 10 and ptr is a pointer to x. We are changing the value of x with the help of pointer. Thus, the value will be changed and it will be 20.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,"What will be the output of the following C code?
+```
+#include <stdio.h>
+int main(){
+    char* ptr;
+    ptr = ""IncludeHelp"";
+    printf(""%c"", *&*ptr);
+    return 0;
+}
+```",IncludeHelp,I,Some address,Error,B,"In the above program, in printf statement – we are using two symbols those are * and &. The * is a dereference operator, and the & is a reference operator. These symbols can be used any number of times. Here ptr points to the first character in the string ""IncludeHelp"". *ptr dereferences it and so its value is I. Again & references it to an address and * dereferences it to the value I.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,"What is the correct syntax to declare pointer to pointer i.e., double pointer?",type **pointer_name;,type *&pointer_name;,type *(*pointer_name);,type **(pointer_name);,A,"The correct syntax syntax to declare pointer to pointer i.e., double pointer is:
+type **pointer_name;
+ Example:
+int **ptr; //declaration double pointer",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,"What is ptr in the given statement?
+```
+int (*ptr)[5];
+```",ptr is an array of 5 pointers,ptr is a simple integer array,ptr is a pointer to a 5 elements integer array,None of the above,C,"In the above statement, ptr is a pointer to a 5 elements integer array.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,9) C Pointers,What is the correct syntax to declare a pointer to a constant?,const type *pointer_name;,type const *pointer_name;,Both A. and B.,None of the above,A,"The correct syntax to declare a pointer to a constant is:
+const type *pointer_name;",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,10) C File Handling,Which character(s) is/are used to open a binary file in append mode in C?,a,b,ba,ab,D,"The characters ""ab"" opens a binary file in append mode.
+ Syntax:
+ptr = fopen(""fileopen"",""ab"");",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,10) C File Handling,Which function is used to close an opened file in C?,close(),fclose(),file_close(),fileclose(),B,"In C programming language, the fclose() function is used to close an opened file.
+ Syntax:
+fclose(file_pointer);",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,10) C File Handling,Function fwrite() works with ___.,Text files,Binary files,Both A. and B.,None of the above,B,Function fwrite() works with binary files. The file should be opened/created in binary mode.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,10) C File Handling,What is the value of EOF in C?,-1,0,1,Null,A,"The EOF stands for End of File which is a Macro defined in stdio.h header file. With the GNU C Library, EOF is -1. In other libraries, its value may be some other negative number.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,10) C File Handling,Which function checks the end-of-file indicator for the given stream in C?,eof(),EOF,feof(),None of the above,C,"The C library function feof() checks the end-of-file indicator for the given stream.
+ Syntax:
+int feof(FILE *stream);",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,10) C File Handling,Which function is used to seek the file pointer position in C?,seek(),fseek(),fileseek(),fmove(),B,"In C programming language, the fseek() function is used to seek the file pointer position.
+ Syntax:
+int fseek(FILE *file_pointer, long int offset, int whence);
+ Where,
+ file_pointer− This is the pointer to a FILE object that identifies the stream.
+ offset − This is the number of bytes to offset from whence.
+ whence − This is the position from where offset is added, the value of this parameter may SEEK_SET, SEEK_CUR, or SEEK_END.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,10) C File Handling,Which function is used to delete an existing file in C?,delete(),fremove(),frem(),remove(),D,"In C programming language, the remove() function is used to delete an existing file.
+ Syntax:
+int remove(const char *filename);
+ Where, filename is the name of the file to be removed.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,10) C File Handling,What is CPP in C programming?,C processing platform,C PreProcessor,C pre-platform,None of these,B,"In C programming, C preprocessors are referred to as CPP.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,Which symbol is used to begin a preprocessor?,@,!,#,All of these,C,All preprocessor commands begin with a hash symbol (#).,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,Which of these is a valid preprocessor in C?,#include,#if,#error,All of these,D,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,(\) operator in C is ___.,Macro continuation operator,Stringize operator,Tokenizer,None of these,A,Macro continuation (/) operator is used to continue a macro which is too long for a single line.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,Which operator is used to stringize variables in C?,/,&,*,#,D,# Operator is used to stringize variables in C.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,"What will be the output of the following C code?
+```
+#include <stdio.h>
+
+#define message_for(a, b) \
+    printf(""Learn "" #a "" programming language at "" #b)
+
+int main(void){
+    message_for(python, includehelp);
+    return 0;
+}
+```",Learn python programming language at includehelp,Learn #a programming language at #b,Learn programming language at,None of these,A,,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,Which of these is not a valid preprocessor in C?,\,?,###,None of these,B,\ and ### are both valid preprocessors in C.,medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,Header files ___.,Contain function declarations,Can be included to a program,End with .h extension,All of these,D,"All statements are correct. The header files are special files included in a program that contain functions and macros which can be imported and used in the code. The extension of header files is "".h"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,Which of these is valid syntax to include a header in C?,#include <header>,"#include ""header""",Both A and B,All of these,C,"The valid syntaxes to include a header file to a program in C are:
+ #include <header>
+ #include ""header""",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,What will happen if a header file is included in a program twice?,Program will throw an error,Program will throw an exception,Program will run normally,None of these,A,"When the same header is included twice in the program, the compiler will throw an error as its teens to process it twice.",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,
+Programming in C,11) C Preprocessor,Which syntax is correct to include a specific preprocessor based on configuration?,#defif system1 <system.h>,"#include system1 ""system.h""",import <system.h> if system1,All of these,B,"The correct way to include a specific preprocessor based on configuration is known as computed include is:
+#include system1 ""system.h""",medium,web:Includehelp.com https://www.includehelp.com/mcq/c-programming-language-mcqs.aspx,

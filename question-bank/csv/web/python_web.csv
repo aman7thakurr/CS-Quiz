@@ -1,0 +1,83 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Python Programming,General,Answer,Special purpose,General purpose,Medium level programming language,All of the mentioned above,B,"As a General Purpose Object-Oriented Programming Language, Python can model real-world entities, which makes it a useful tool for data scientists. Because it performs type checking at runtime, it is also known as dynamically typed code. Python is a general-purpose programming language, which means that it is widely used in every domain. This is due to the fact that it is very simple to understand and scalable, which allows for rapid development.",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,18. Python Dictionary is used to store the data in a ___ format.,"Answer
+```
+d = {
+	<key>: <value>,
+	<key>: <value>,
+	.
+	.
+	.
+	<key>: <value>
+}
+```",Group,List,Dictionary,All of the mentioned above,C,"With the help of curly braces (), we can define a dictionary that contains a list of key-value pairs that are separated by commas. Each key and its associated value are separated by a colon (:). For example:
+d = {
+ <key>: <value>,
+ <key>: <value>,
+ .
+ .
+ .
+ <key>: <value>
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,"28. In a Python program, Nested if Statements denotes?","Answer
+```
+a=7
+if a>4: print(""Greater"")
+```",Greater,7,4,None of the mentioned above,A,"When only one statement needs to be executed within an if block, the short hand if statement is used to accomplish this. This statement can be included in the same line as the if statement, if necessary. When using Python's Short Hand if statement, the following syntax is used:
+if condition: statement",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,30. What will be the output of the following Python code?,"Answer
+```
+x=13
+
+if x>12 or x<15 and x==16:
+    print(""Given condition matched"")
+else:
+    print(""Given condition did not match"")
+```",Given condition matched,Given condition did not match,Both A and B,None of the mentioned above,A,"In this code the value of x = 13, and the condition 13>12 or 13",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,31. What will be the output of the following Python code?,"Answer
+```
+a = int(input(""Enter an integer: ""))
+b = int(input(""Enter an integer: ""))
+
+if a <= 0:
+    b = b +1
+else:
+    a = a + 1
+```",if inputted number is a negative integer then b = b +1,if inputted number is a positive integer then a = a +1,Both A and B,None of the mentioned above,C,"In above code, if inputted number is a negative integer, then b = b +1 and if inputted number is a positive integer, then a = a +1. Hence, the output will be depending on inputted number.",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,"35. In Python, the break and continue statements, together are called ___ statem","Answer
+```
+num = 10
+
+if num > 0:
+    print(""Positive number"")
+elif num == 0:
+    print(""Zero"")
+else:
+    print(""Negative number"")
+```",Positive number,Negative number,Real number,None of the mentioned above,A,"In this case, the If condition is evaluated first and then the else condition. If it is true, the elif statement will be executed. If it is false, nothing will happen. elif is an abbreviation for else if. It enables us to check for multiple expressions at the same time. Similarly, if the condition for if is False, the condition for the next elif block is checked, and so on. If all of the conditions are met, the body of the else statement is run.",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,37. The elif statement allows us to check multiple expressions.,"Answer
+```
+i=5
+if  i>11 : print (""i is greater than 11"")
+```",No output,Abnormal termination of program,Both A and B,None of the mentioned above,C,"In the above code, the assign value of i = 5 and as mentioned in the condition if 5 > 11: print (""i is greater than 11""), here 5 is not greater than 11 so condition becomes false and there will not be any output and program will be abnormally terminated.",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,38. What will be the output of the following Python code?,"Answer
+```
+a = 13
+b = 15
+print(""A is greater"") if a > b else print(""="") if a == b else print(""B is greater"")
+```",A is greater,B is greater,Both A and B,None of the mentioned above,B,"In the above code, the assign value for a = 13 and b = 15. There are three conditions mentioned in the code,
+ print(""A is greater"") if a > b , here 13 is not greater than 15 so condition becomes false
+ print(""="") if a == b , here 13 is not equal to 15 so condition becomes false
+ else print(""B is greater""), condition 1 and 2 will not be true so program control will switch to else part and output will be ""B is greater"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,46. The ___ is a built-in function that returns a range object that consists ser,"Answer
+```
+for i in range(6):
+    print(i)
+```",0 1 2 3 4 5,0 1 2 3,1 2 3 4 5,None of the mentioned above,A,The range(6) is define as function. Loop will print the number from 0.,medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,
+Python Programming,54. Amongst which of the following shows the types of function calls in Python?,"Answer
+```
+def show(id,name):
+    print(""Your id is :"",id,""and your name is :"",name)
+
+show(12,""deepak"")
+```",Your id is: 12 and your name is: deepak,Your id is: 11 and your name is: Deepak,Your id is: 13 and your name is: Deepak,None of the mentioned above,A,"If we define a function in Python with parameters, and at the time of calling function it requires parameters. In above code passing arguments are 12, and Deepak. So, Output will be Your id is: 12 and your name is: deepak",medium,web:Includehelp.com https://www.includehelp.com/mcq/python-mcqs.aspx,

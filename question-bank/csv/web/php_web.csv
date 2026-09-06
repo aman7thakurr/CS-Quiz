@@ -1,0 +1,396 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Web Technologies & Internet / PHP,General,PHP is an acronym for ____.,Prefix Hypertext Preprocessor,Prototype Hypertext Preprocessor,Hypertext Preprocessor,PHP: Hypertext Preprocessor,D,"PHP is an acronym for ""PHP: Hypertext Preprocessor"". (Read: Introduction of PHP programming.)",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,Which is/are statement(s) true about PHP?,It is an open-source scripting language,PHP scripts execute on the server,It is used for developing dynamic & interactive websites,All of the above,D,All of the above-mentioned statements are true about PHP. (Read: Advantages & Disadvantages of PHP),medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,What is the extension of a PHP file?,.php,.ph,.phpfile,All of the above,A,The extension of a PHP file is .php.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,Who developed PHP?,Guido van Rossum,Rasmus Lerdorf,Jesse James Garrett,Douglas Crockford,B,Rasmus Lerdorf developed PHP.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,In which year PHP was developed?,1993,1994,1995,1996,B,PHP was developed in 1994.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,A PHP script starts with ____ and ends with ___.,<?php and ?>,<php> and </php>,<?php and /?php>,</php and />,A,"A PHP script starts with <?php and ends with ?>.
+ Read: Syntax of writing code in PHP",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,Single line comments can be placed in PHP script by using which symbol?,//,#,$,Both A. and B.,D,"In PHP, the single-line comment tells the interpreter to ignore everything that occurs on that line to the right of the comment. To place a single line comment type // or # and all text to the right will be ignored by the PHP interpreter.
+ Read: How to write comments in PHP?",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,Multi-line comments can be written within the ____.,// and //,## and ##,/* and */,/// and ///,C,"In PHP, the multi-line comments can be written within the /* and */.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,PHP statements end with a ______.,semicolon (;),colon (:),dot (.),"comma (,)",A,PHP statements end with a semicolon (;).,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,1) PHP Basics,Which sign is used to declare variables in PHP?,@,&,$,_,C,"The dollar ($) sign is used to declare variables in PHP.
+ Read: PHP Variables",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes",Which is not a valid variable name in PHP?,age,_age,PersonAge,1age,D,The variable name 1age is not valid in PHP. A variable name must start with a letter or the underscore character.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes",Which statement is commonly used for PHP output?,write,php.write,log,echo,D,The PHP echo statement is commonly used for PHP output.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes",How many variable scopes are there in PHP?,1,2,3,4,C,"There are 3 different variable scopes in PHP. Those are
+ local
+ global
+ static",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes",Which is not a valid variable scope in PHP?,local,global,static,external,D,The external is not a valid variable scope in PHP.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes","What will be the output of the following PHP code?
+```
+<?php
+$x = 5;
+
+function myFunction(){
+    echo ""Result $x"";
+}
+myFunction();
+?>
+```",Result $x,Result 5,Result,None of the above,C,"The variable x is a global variable, and can only be accessed outside a function.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes","What will be the output of the following PHP code?
+```
+<?php
+function myFunction()
+{
+    $x = 5;
+    echo ""Result1: $x , "";
+}
+myFunction();
+echo ""Result2: $x"";
+?>
+```","Result1: 5 , Result2:","Result1: 5 , Result2: 0","Result1: 5 , Result2: 5",None of the above,A,"The variable x is a local scope, and can only be accessed within that function.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes",Which PHP keyword is used to access a global variable inside the function?,php_ global,global,global_variable,globalscope,B,PHP keyword global is used to access a global variable inside the function.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes","There are two variables a, b which declared in global scope, which is the correct PHP statement to access them within a function?","global $a, $b;",global $a $b;,"global ($a, $b);","php_global $a, $b;",A,"The correct PHP statement to access them within a function is: global $a, $b;",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes","In the syntax of $GLOBALS[index], what does ""index"" hold?",Index (starting from 0) of the variable,Index (starting from 1) of the variable,Name of the variable,Line number of the variable where the variable was declared,C,"In the syntax of $GLOBALS[index], index holds the name of the variable.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,"2) PHP Variables, Variable Scopes","What will be the output of the following PHP code?
+```
+<?php
+function Increment(){
+    static $num = 0;
+    echo ""$num"";
+    $num++;
+}
+
+Increment();
+Increment();
+Increment();
+?>
+```",000,111,011,012,D,"In the above code, $num is a static variable and it will be initialized once. Thus, the output would be ""012"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,3) PHP echo and print Statements,What is the correct syntax of echo statement in PHP?,echo,echo(),echo = (),Both A. and B.,D,The echo statement can be used with or without parentheses.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,3) PHP echo and print Statements,"There is a variable ""name"" that contains the name of a person, which is/are the correct echo statement(s) to print the ""name"" suffix with ""Hello"".","echo ""Hello $name"";","echo ""Hello "" . $name;","echo (""Hello $name"");",All of the above,D,"All of the above statements can be used to print the name suffix with ""Hello"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,3) PHP echo and print Statements,What is the correct syntax of print statement in PHP?,print,print(),print = (),Both A. and B.,D,The print statement can be used with or without parentheses.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,3) PHP echo and print Statements,"There is a variable ""name"" that contains the name of a person, which is/are the correct print statement(s) to print the ""name"" suffix with ""Hello"".","print ""Hello $name"";","print ""Hello "" . $name;","print (""Hello $name"");",All of the above,D,"All of the above statements can be used to print the name suffix with ""Hello"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,3) PHP echo and print Statements,"What will be the output of the following PHP code?
+```
+<?php
+$a = 5;
+$b = 10;
+
+print (""$a, $b+10"");
+?>
+```","5, 10+10","5, 20",5 10+10,5 20,A,"In the above PHP script, the print statement prints the values of the variables and text as it as. Thus, in the statement ""$a, $b+10"", ""+10"" will be printed as it as.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,3) PHP echo and print Statements,"What will be the output of the following PHP code?
+```
+<?php
+var_dump (print ""Hello"");
+?>
+```",Helloint(5),Helloint(6),Helloint(1),Hellonumber(5),C,"In the above PHP script, we used two statements var_dump() and print. The print statement prints the text and returns 1 always and its return type of print statement is int. The var_dump() prints the return type and value. Thus, first ""Hello"" will be printed and then ""int(1)"" will be printed. And, the final output will be ""Helloint(1)"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,3) PHP echo and print Statements,Which data type is not supported by PHP?,Integer,Complex,Float,String,B,"PHP does not support ""Complex"" data type.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,4) PHP Data Types,String is placed within _____.,"Double quotes ("""")",Single quotes (''),Both A. and B.,None of the above,C,"String is written within either single quotes ('') or double quotes ("""").",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,4) PHP Data Types,A PHP integer data type can store values between ____.,"-65,536 and 65,535","0 and 4,294,967,295",-(2^63) and (2^63)-1,"-2,147,483,648 and 2,147,483,647",D,"An integer in PHP can store values between -2,147,483,648 and 2,147,483,647.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,4) PHP Data Types,"What will be the output of the following PHP code?
+```
+<?php
+$x = true;
+var_dump($x);
+?>
+```",boolean('true'),boolean(true),bool(true),bool('true'),C,"The type of the true is bool. And, the var_dump() method returns the variable type along with the value. Thus, the output will be bool(true).",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,4) PHP Data Types,"What will be the output of the following PHP code?
+```
+<?php
+$Laptops = array(
+    ""MAC"",
+    ""Lenovo"",
+    ""Dell"",
+    ""HP""
+);
+echo gettype($Laptops);
+?>
+```",array,array(4),object,string,A,"In the above PHP code, the type of the Laptops variable is an array and the function gettype() returns the type of the variable. Thus, the output will be array.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,4) PHP Data Types,What is NULL in PHP?,Value,Keyword,Data Type,Function,C,PHP introduced a special data type that is NULL which can have only one value: null.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,4) PHP Data Types,"What will be the output of the following PHP code?
+```
+<?php
+$value1 = NULL;
+$value2 = null;
+
+var_dump($value1);
+var_dump($value2);
+?>
+```",Error,NULL undefined,NULL object,NULL NULL,D,"Both of the values ""NULL"" and ""null"" are NULL. Thus, the output will be ""NULL NULL"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,4) PHP Data Types,Which type is used to store the database call?,object,class,resource,string,C,"In PHP, there is a special data type that is resource which is not an actual data type. The resource type of used to store the reference to functions and resources external to PHP.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,4) PHP Data Types,"What will be the output of the following PHP code?
+```
+<?php
+echo strpos(""Hello, Includehelp!"", ""Includehelp!"");
+?>
+```",6,7,8,-1,B,The strops() function is used to search for a text within a string and it returns the character position of the first match.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,Which function is used to replace text within a string?,str_replace(),replace(),replace_str(),string-replace(),A,The str_replace() is used to replace text within a string.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,"What will be the output of the following PHP code?
+```
+<?php
+$str = addcslashes(""IncludeHelp"",""e"");
+echo($str);
+?>
+```",Includehelp,IncludeH\elp,Includ\eHelp,Includ\eH\elp,D,The addcslashes() function returns a string with backslashes in front of the specified characters.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,"What will be the output of the following PHP code?
+```
+<?php
+$str = addslashes('Hello ""Includehelp!""');
+echo($str);
+?>
+```",Hello Includehelp!,"Hello ""Includehelp!""","Hello """"Includehelp!""""","Hello \""Includehelp!\""",D,The addslashes() function is used to get a string with backslashes in front of predefined characters.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,Which function converts a string of ASCII characters to hexadecimal values?,bin2hex(),str2hex(),hex(),str_hex(),A,The bin2hex() function converts a string of ASCII characters to hexadecimal values.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,"What will be the output of the following PHP code?
+```
+<?php
+$str = ""Includehelp"";
+echo pack(""H*"",bin2hex($str));
+?>
+```",496e636c75646568656c70,Includehelp,496e636c75646568656c70Includehelp,Includehelp496e636c75646568656c70,B,"The bin2hex() function converts a string of ASCII characters to hexadecimal values. And, the pack() function converts hexadecimal values back to the string.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,Which function is used to convert the ASCII value to the character?,asc(),str(),char(),chr(),D,The chr() function is used to convert the given ASCII value to the character.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,What is the complete syntax of chunk_split() function in PHP?,"chunk_split(string,length,end)",chunk_split(string),"chunk_split(string,end)",chunk_split(length),A,"The complete syntax of chunk_split() function is:
+chunk_split(string,length,end)",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,Which function is used to convert hexadecimal values to the ASCII characters?,hex2bin(),hex2str(),hex2asc(),hex_string(),A,The hex2bin() function is used to convert hexadecimal values to the ASCII characters.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,What is the complete syntax of join() function in PHP?,"join(string1, string2)","join(string1, string2, separator)","join(separator, array)","join(separator, string1, string2)",C,"The complete syntax of join() function is:
+join(separator, array)",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,"There are two strings (in an array) ""Hello"" and ""World"", which is the correct PHP statement to join them with the separator "",""?","join("","",""Hello"",""World"")","join(""Hello"",""World"","","")","join("","", (""Hello"",""World""))","join("","",array(""Hello"",""World""))",D,"The correct PHP statement to join two strings ""Hello"" and ""World"" is:
+join("","",array(""Hello"",""World""))",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,Which PHP function is used to print (output) a formatted string?,echo(),print(),printf(),prints(),C,The printf() function is used to print (output) a formatted string.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,Which PHP function is used to get the length of the string?,strlength(),strlen(),length(),str_len(),C,The length() function is used to get the length of the string.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,Which PHP functions are used to convert string to lowercase and uppercase?,strupper() and strlower(),str_toupper() and str_tolower(),toupper() and tolower(),strtoupper() and strtolower(),D,"The strtoupper() function is used to convert the string to uppercase. And, strtolower() function is used to convert the string to lowercase.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,5) PHP Strings,Which PHP constant returns the largest integer supported?,INT_MAX,MAX_INT,MAXINT,PHP_INT_MAX,D,The PHP_INT_MAX is a PHP predefined constant which returns the largest integer supported.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,Which PHP constant returns the size of an integer in bytes?,INT_SIZE,SIZE_INT,INTSIZE,PHP_INT_SIZE,D,The PHP_INT_SIZE is a PHP predefined constant which returns the size of an integer in bytes.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,Which is/are the function(s) to check if the type of a variable is integer?,is_int(),is_integer(),is_long(),All of the above,D,"The all of the functions is_int(), is_integer(), and is_long() are used to check if the type of a variable is integer.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,"What will be the output of the following PHP code?
+```
+<?php
+$x = -123.45;
+echo var_dump(is_int($x));
+?>
+```",bool(false),bool(true),false,true,A,"The is_int() method returns either true or false. Thus, the output of the above statement will be ""bool(false)"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,Which is/are the function(s) to check if the type of a variable is float?,is_float(),is_double(),is_longfloat(),Both A. and B.,D,The functions is_float() and is_double() are used to check if the type of a variable is float.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,Which is/are the function(s) to check if a numeric value is finite or infinite?,is_finite(),is_infinite(),is_inf(),Both A. and B.,D,The functions is_finite() and is_infinite() are used to check if a numeric value is finite or infinite.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,PHP NaN stands for ____.,not-a-number,not-a-numerical,nothing-a-number,numeric-a-number,A,"PHP NaN stands for ""not-a-number"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,"What will be the output of the following PHP code?
+```
+<?php
+echo var_dump(is_nan(10));
+?>
+```",bool(false),bool(true),false,true,A,"The is_nan() method is used to check whether the given value is NaN or not. Thus, the output of the above statement will be ""bool(false)"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,Which is the correct syntax to cast float to integer?,(int) float_variable,int (float_variable),(int) (float_variable),All of the above,A,"The correct syntax to cast float to integer is:
+(int) float_variable",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,6) PHP Numbers,Which PHP function is used to get the value of PI?,php_pi(),pivalue(),pi(),None of the above,C,The pi() function is used to get the value of PI.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,Which PHP functions are used to find the lowest and highest values from a list of arguments?,minimum() and maximum(),min() and max(),find_min() and find_max(),getmin() and getmax(),B,The PHP functions min() and max() are used to find the lowest and highest values from a list of arguments.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,Which PHP function is used to get the absolute value of the given number?,abs(),absolute(),find_abs(),php_abs(),A,The PHP function abs() is used to get the absolute value of the given number.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,Which PHP function is used to get the square root of the given number?,sqrt(),squareroot(),find_sqrt(),php_sqrt(),A,The PHP function abs() is used to get the square root of the given number.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,"What will be the output of the following PHP code?
+```
+<?php
+echo (round(0.49) . "","" . round(0.50) . "","" . round(0.51));
+?>
+```","0,0,0","1,1,1","0,0,1","0,1,1",D,"The round() function is used to round a floating-point number to its nearest integer. Thus, the output will be 0,1,1.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,Which PHP function is used to get the random number?,random(),randomize(),rand(),randnumbers(),C,The PHP function rand() is used to get the random number.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,Which PHP function is used to convert a number from one number base to another?,convert(),base_convert(),parseInt(),base_conversion(),B,The PHP function base_convert() is used to convert a number from one number base to another.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,What is the correct syntax of PHP base_convert() function?,"base_convert(number, from_base, to_base);","base_convert(number, to_base, from_base);",base_convert(number);,"base_convert(number, to_base);",A,"The correct syntax of PHP base_convert() function is:
+base_convert(number, from_base, to_base);",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,What is the use of PHP lcg_value() function?,Generates a pseudo random number in a range between 0 and 1,Generates a pseudo random number in a range between the given minimum to maximum numbers,Generates a pseudo random number in a range between 0 and 1 using the Mersenne Twister algorithm,Generates a pseudo random number in a range between -1 and +1,A,The use of the lcg_value() function in PHP is to generate a pseudo random number in a range between 0 and 1.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,7) PHP Math,Which keyword/function is used to create a constant in PHP?,define keyword,define() function,const keyword,const() function,B,The define() function is used to create a constant in PHP.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,8) PHP Constants,Which is the correct syntax of define() function in PHP?,define(constant_name),"define(constant_name, value)","define(constant_name, value, case-insensitive)",define(constant_name = value),C,"The correct syntax of the define() function is: 
+define(constant_name, value, case-insensitive)",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,8) PHP Constants,What can be the value of case-insensitive parameter in define() function?,true,false,Anything,Both A. and B.,D,The case-insensitive parameter may have either true or false.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,8) PHP Constants,"Give an example, how to define a constant array in PHP?","const cities = new array([""New Delhi"",""Mumbai"",""Banglore""]);","define(""cities""=[""New Delhi"",""Mumbai"",""Banglore""]);","define(""cities"", [""New Delhi"",""Mumbai"",""Banglore""]);","define(""cities"":[""New Delhi"",""Mumbai"",""Banglore""]);",C,"The PHP define() function can also be used to create a constant array, here is an example:
+define(""cities"", [""New Delhi"",""Mumbai"",""Banglore""]);",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,8) PHP Constants,What is the scope of a constant in PHP?,Local,Global,Static,Fixed,B,The constants are automatically global and can be used across the entire script.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,8) PHP Constants,"What is name of PHP ""==="" operator?",Equal,Safe Equal,Identity,Identical,D,"The PHP ""==="" operator is known as the ""Identical"" operator and it is used to compare two operands and returns true if they are of the same type.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,9) PHP Operators,"What will be the output of the following PHP code?
+```
+<?php
+$a = 123;
+$b = ""123"";
+
+var_dump($a !== $b);
+?>
+```",Error,bool(false),bool(true),true,C,"The statement $a !== $b will return true because the types of $a and $b are not equal. And, the var_dump() function will return the type and value of the expression. Thus, the output will be bool(true).",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,9) PHP Operators,"What is name of PHP ""<=>"" operator?",Spaceship,Safe Spaceship,Identity,Identical,A,"The PHP <=> operator is known as the ""Spaceship"" operator. It returns an integer value that is less than, equal to, or greater than zero, depending on if expression is less than, equal to, or greater than $y. The Spaceship Operator (<=>) was introduced in PHP 7.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,9) PHP Operators,"Which PHP operator known as ""Null coalescing"" operator?",?,?=>,??,???,C,"The PHP operator ?? is known as ""Null coalescing"" operator. The syntax is:
+$value = expression1 ?? expression2
+ It returns the value of $value. The value of $value is expression1 if expression1 exists, and is not NULL. If expression1 does not exist, or is NULL, the value of $value is expression2.
+ The Null coalescing operator (??) was introduced in PHP 7.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,9) PHP Operators,"What will be the output of the following PHP code?
+```
+<?php
+$a = 15;
+$b = 20;
+
+if ($a < ++$a || $b < ++$b){
+    echo ""True"";
+}
+else{
+    echo ""False"";
+}
+?>
+```",True,False,TrueFalse,Parse Error,B,"In PHP, the precedence of ++ operator is higher than < operator, so the first increment operation executes, and then the comparison operation will execute. But when the comparison operation executes, both OR operator conditions will return false. Thus, the else block will be executed.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,9) PHP Operators,Which PHP statement is used to select one of many blocks of code to be executed?,The if statement,The if...else statement,The switch statement,The select statement,C,The switch statement is used to select one of many blocks of code to be executed.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,9) PHP Operators,"What will be the output of the following PHP code?
+```
+<?php
+$car = ""Honda"";
+
+switch ($car) {
+    case ""Honda"":
+        echo ""You selected Honda."";
+    case ""BMW"":
+        echo ""You selected BMW."";
+    case ""AUDI"":
+        echo ""You selected Audi."";
+    default:
+        echo ""None is selected."";
+}
+?>
+```",You selected Honda.,You selected Honda.You selected BMW.,You selected Honda.You selected BMW.You selected Audi.,You selected Honda.You selected BMW.You selected Audi.None is selected.,D,"In the above PHP Script, break statements were not used in the case blocks. The value of $car is ""Honda"", so the first case executes and then all other blocks will be executed because the switch statement executes the blocks from the matched case block to the bottom if the break statement is not there.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,9) PHP Operators,How many loops are there in PHP?,2,3,4,5,C,"There are 4 types of Loops are there in PHP which are while, do...while, for, and foreach.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,"What will be the output of the following PHP code?
+```
+<?php
+$counter = 1;
+
+while ($counter++ <= 5)
+{
+    echo $counter, "","";
+    $counter++;
+}
+?>
+```","2,4,","1,2,3,4,5,","2,4,6,","1,2,4,",C,"In the while expression, the statement $counter++ is a post-increment operation and it executes after checking the condition. Thus, the output will be ""2,4,6,"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,Which loop statement is used to loop through a block of code a specified number of times?,while,do...while,for,foreach,C,"In PHP, the for loop statement is used to loop through a block of code a specified number of times.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,Which loop statement is used to loop through a block of code for each element in an array?,while,do...while,for,foreach,D,"In PHP, the foreach loop statement is used to loop through a block of code for each element in an array.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,"What will be the output of the following PHP code?
+```
+<?php
+$cars = array(
+    ""BMW"",
+    ""Mercedes"",
+    ""Honda"",
+);
+
+foreach ($cars as $c)
+{
+    echo ""$c "";
+}
+?>
+```",BMW Mercedes Honda,Honda Mercedes BMW,SyntaxError,TypeError,A,"The foreach loop statement is used to loop through a block of code for each element in an array. Thus, the output will be ""BMW Mercedes Honda"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,Which PHP statement is used to jump out of a loop?,exit,break,continue,stop,B,"In PHP, the break statement is used to jump out of a loop.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,"What is the use of PHP ""continue"" statement?",breaks the loop and transfers the control to the statement written just after the loop body,breaks the all loop statement (outer loops and inner loops),breaks one iteration of the loop and transfers the control to the next loop iteration,All of the above,C,"In PHP, the continue statement is used to break one iteration of the loop and transfer the control to the next loop iteration.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,"What will be the output of the following PHP code?
+```
+<?php
+for ($i = 1;$i <= 10;$i++){
+    if ($i == 6){
+        continue;
+    }
+    echo ""$i "";
+}
+?>
+```",1 2 3 4 5 7 8 9 10,1 2 3 4 5 6 7 8 9 10,1 2 3 4 5 6,1 2 3 4 5,A,"In the above PHP script, we used the continue statement when $i==6, the continue statement does not echo the value of $i when the value of $i is 6 and transfer the control again to the loop. Thus. The output will be ""1 2 3 4 5 7 8 9 10"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,"What will be the output of the following PHP code?
+```
+<?php
+$x = 10;
+
+while ($x < 10) {
+    $x++;
+    echo $x, "","";
+}
+?>
+```",Infinite loop,Error,"10, 11,",No output,D,"In the above PHP script, the condition which is written in the while statement is false. Thus, the loop will not be executed and nothing will print.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,11) PHP Loops,Which keyword is used to define a function in PHP?,def,fun,func,function,D,The function keyword is used to define a function in PHP.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,12) PHP Functions,"What will be the output of the following PHP code?
+```
+<?php declare(strict_types = 1);
+
+function details(string $name, int $age){
+    echo ""Name: $name, Age: $age"";
+}
+details(""Alvin"", ""21"");
+?>
+```","Name: Alvin, Age: 21","Name: Alvin, Age:","Name: Alvin, Age: 0",Fatal Error,D,"In the PHP Script, we are using the strict declaration, it will return a Fatal Error if the datatype of the function definition and calling mismatches. Thus, the output will be ""Fatal Error"".
+ The output is:
+PHP Fatal error: Uncaught TypeError: Argument 2 passed to details() must be of the type integer, 
+string given, called in /home/fBGU1n/prog.php on line 6 and defined in 
+/home/fBGU1n/prog.php:3 Stack trace: #0 /home/fBGU1n/prog.php(6): details('Alvin', '21') #1 {main} thrown 
+in /home/fBGU1n/prog.php on line 3",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,12) PHP Functions,Which is the correct syntax of defining a default argument value in PHP?,function function_name(type $argument_name : value) { /* function body*/ },"function function_name(type $argument_name , value) { /* function body*/ }",function function_name(type $argument_name = value) { /* function body*/ },All of the above,C,"The syntax of defining a default argument value in PHP is:
+function function_name(type $argument_name = value) { 
+/* function body*/ 
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,12) PHP Functions,Which is the correct syntax of defining function return type in PHP?,function function_name(type $arguments) : return_type { /* function body*/ },"function function_name(type $arguments) , return_type { /* function body*/ }",return_type function function_name(type $arguments) { /* function body*/ },function return_type function_name(type $arguments) { /* function body*/ },A,"The syntax of defining function return type in PHP is:
+function function_name(type $arguments) : return_type { 
+/* function body*/ 
+}",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,How many types of arrays are there in PHP?,1,2,3,4,C,There are 3 types of arrays are there in PHP.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which is/are valid types of arrays in PHP?,Indexed arrays,Associative arrays,Multidimensional arrays,All of the above,D,All of the above types are valid arrays in PHP.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,What is the difference between Indexed array and Associative array in PHP?,Index array has numeric index while associative array has named keys,Index array has numeric index while associative array has named keys and numeric index both,Index array is one-dimensional array with numeric index while associative array is two-dimensional array with numeric index,Index array has numeric index while associative array has one or more arrays,A,The main difference between Indexed array and Associative Array is that - Index array has numeric index while associative array has named keys.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which is the correct example of an Indexed array in PHP?,"$cities = array(""Delhi""; ""Mumbai""; ""Banglore"");","$cities = array(""Delhi"", ""Mumbai"", ""Banglore"");","$cities = new array(""Delhi"", ""Mumbai"", ""Banglore"");","$cities = new array(3) (""Delhi"", ""Mumbai"", ""Banglore"");",B,"The valid example of an Indexed array in PHP is:
+$cities = array(""Delhi"", ""Mumbai"", ""Banglore"");",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which is the correct example of an Associative array in PHP?,"$person = array(""Alvin""=>""Delhi"", ""Alex""=>""Mumbai"", ""Bhavik""=>""Banglore"");","$person = array(""Alvin""=>""Delhi""; ""Alex""=>""Mumbai""; ""Bhavik""=>""Banglore"");","$person = new array(""Alvin""=>""Delhi"", ""Alex""=>""Mumbai"", ""Bhavik""=>""Banglore"");","$person = new array(""Alvin""=>""Delhi""; ""Alex""=>""Mumbai""; ""Bhavik""=>""Banglore"");",A,"The valid example of an Associative array in PHP is:
+$person = array(""Alvin""=>""Delhi"", ""Alex""=>""Mumbai"", ""Bhavik""=>""Banglore"");",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which PHP function(s) is/are used to compare arrays and returns the differences?,array_diff(),array_diff_assoc(),array_diff_key(),All of the above,D,All of the above PHP functions are used to compare arrays and returns the differences.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,What is the difference between array_diff() and array_diff_assoc() functions?,array_diff() compares the values only while array_diff_assoc() compares the keys only,array_diff() compares the values only while array_diff_assoc() compares the keys and values,Both functions can be used to compare the values and keys,None of the above,B,The difference between array_diff() and array_diff_assoc() functions is: The array_diff() compares the values only while array_diff_assoc() compares the keys and values.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which PHP function is used to sort multi-dimensional arrays?,array_sort(),sort(),multisort(),array_multisort(),D,The PHP function array_multisort() is used to sort multi-dimensional arrays.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,What is the use of PHP sort() function?,Sorts an indexed array,Sorts an associative array,Sorts a multi-dimensional array,Sorts any kind of array,A,The PHP function sort() is used to sort an indexed array.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which PHP function is used to sort an indexed array in descending order?,sort_reverse(),reverse_sort(),revsort(),rsort(),D,The PHP function rsort() is used to sort an indexed array in descending order.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which PHP function is used to return the current element in an array?,get(),start(),current(),cur(),C,The PHP function current() is used to return the current element in an array.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which PHP function is used to check if a specified value exists in an array?,in_array(),check_array(),exist(),None of the above,A,The PHP function in_array() is used to check if a specified value exists in an array.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,"Which PHP function is used to sort an associative array in descending order, according to the key?",sort(),rsort(),ksort(),krsort(),D,"The PHP function krsort() is used to sort an associative array in descending order, according to the key.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which PHP function is used to get one or more random keys from an array?,array_random(),array_randomize(),array_rand(),krand(),C,The PHP function array_rand() is used to get one or more random keys from an array.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,13) PHP Arrays,Which is not a valid PHP superglobal variable?,$GLOBALS,$_SERVER,$_ENV,$_SESSIONS,D,$_SESSIONS is not a PHP Superglobal variable.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,14) PHP Superglobals,What is the use of PHP $_SERVER variable?,To update the content on the server,"To access the information about headers, paths, and script locations",To access and update the database records on the server,All of the above,B,"The PHP $_SERVER is used to get the information about headers, paths, and script locations.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,14) PHP Superglobals,Which element of the of PHP $_SERVER variable is used to get the path of the current script?,SCRIPT_NAME,SCRIPT_PATH,PATH,FILE_PATH,A,The SCRIPT_NAME element is used to get the path of the current script.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,14) PHP Superglobals,Which element of the of PHP $_SERVER variable is used to get the filename of the currently executing script?,PATH,FILE_PATH,PHP_SELF,SELF,C,The PHP_SELF element is used to get the filename of the currently executing script.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,14) PHP Superglobals,Which PHP global variable is used to collect data after submitting an HTML form?,$_GET,$_REQUEST,$_POST,$_ENV,B,The PHP global variable $_REQUEST is used to collect data after submitting an HTML form.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,14) PHP Superglobals,"Which PHP global variable is used to collect form data after submitting an HTML form with method=""post""?",$_GET,$_REQUEST,$_POST,$_ENV,C,"The PHP global variable $_POST is used to collect form data after submitting an HTML form with method=""post"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,14) PHP Superglobals,What is the return value of preg_match() function?,0 or 1,False or True,"0, less than 1, or greater then 1",None of the above,A,"The PHP function preg_match() return 1 if the given pattern was found in the string; 0, otherwise.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,15) PHP Regular Expressions,"What will be the output of the following PHP code?
+```
+<?php
+$str = ""Hello, IncludeHelp"";
+$pattern = ""/includehelp/i"";
+
+echo preg_match($pattern, $str);
+?>
+```",0,1,5,7,B,"In the above PHP script, the pattern is found in the string and the value i enables the case-insensitivity. Thus, the result will be 1.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,15) PHP Regular Expressions,"What will be the output of the following PHP code?
+```
+<?php
+$str = ""Hello, IncludeHelp"";
+$pattern = ""/el/m"";
+
+echo preg_match($pattern, $str);
+?>
+```",0,1,5,7,B,"In the above PHP script, the pattern is found in the string and the value ""m"" is used to perform a multiline search (it will search the patterns for the beginning or end of a string will match the beginning or end of each line). Thus, the result will be 1.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,15) PHP Regular Expressions,What are the metacharacters in PHP Regular Expression?,Metacharacters are characters with a special meaning,Metacharacters are set of symbols to perform the mathematical operations on the characters,Metacharacters are characters written within the double quotes to search in the string,None of the above,A,Metacharacters are characters with a special meaning.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,15) PHP Regular Expressions,What is the search pattern to find any character from the range 5 to 8?,[5 to 8],[5...8],[5-8],[4-9],C,The search pattern [5-8] is used to find any character from the range 5 to 8.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,15) PHP Regular Expressions,What is the complete syntax of PHP date() function?,date(format),date(timestamp),"date(format, timestamp)","date(format, value, timestamp)",C,"The complete syntax of PHP date() function is: date(format, timestamp).",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,What will be the output of the following PHP code (if the date is 30th December 2021)?,30th - Dec - 2021,30 (Thursday) - Dec - 2021,30 (Thu) - Dec - 2021,30 (l) - Dec - 2021,B,"The output will be ""30 (Thursday) - Dec - 2021"". The meaning of the values used in the code,
+ d – Displays the date
+ l – Displays the weekday
+ M – Display the month name in 3 characters
+ Y – Displays the year in four digits",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,"Which is the correct PHP statement to print the current time in the format of hour:minutes:seconds(am/pm) i.e., 10:22:54pm?","<?php echo date(""h:i:sa"");?>","<?php echo date(""h:m:sa"");?>","<?php echo date(""h:mi:sa"");?>","<?php echo date(""hh:min:sa"");?>",A,"The correct PHP statement to print the current time in the format of hour:minutes:seconds(am/pm) i.e., 10:22:54pm is:
+<?php echo date(""h:i:sa"");?>",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,The PHP date() function returns the ____.,Current date and time of the localhost,Current date and time of the server,Current UTC time,All of the above,B,The PHP date() function returns the current date and time of the server.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,"Which PHP function is used to add days, months, years, hours, minutes, and seconds to a date?",add(),add_date(),date_add(),add_dates(),C,"The PHP date_add() function is used to add days, months, years, hours, minutes, and seconds to a date.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,Which PHP function modifies the timestamp?,date_modify(),modify_timestamp(),date_stamp(),stamp(),A,The PHP date_modify() function modifies the timestamp.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,Which PHP function is used to get the current Unix timestamp with microseconds?,date_microtime(),microtime(),mtime(),microsecondstime(),B,The PHP microtime() function is used to get the current Unix timestamp with microseconds.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,Which PHP function is used to get the current time in the number of seconds since the Unix Epoch (January 1 1970 00:00:00 GMT)?,time(),gettime(),stime(),time_seconds(),A,The PHP time() function is used to get the current time in the number of seconds since the Unix Epoch (January 1 1970 00:00:00 GMT).,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,"What will be the output of the following PHP code (if the date is 30th December 2021)?
+```
+<?php
+$d=mktime(12, 13, 14, 1, 2, 2021);
+echo date(""d-M-Y h:i:sa"", $d);
+?>
+```",01-Feb-2021 12:13:14pm,01-feb-2021 14:13:12pm,02-Jan-2021 12:13:14pm,02-Jan-2021 14:13:12pm,C,"The PHP mktime() function is used to get the Unix timestamp for a given date. The order of the parameters is,
+mktime(hour, minute, second, month, day, year)",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,16) PHP Date and Time,What is the difference of include and require statements in PHP?,There is not difference both are the same,require is an alias of include,"require returns the Fatal Error, while include returns the Warning",include includes one PHP file while require can include multiple PHP files,C,"The both include and require statements are used to insert the content of one file into another file. Since both are identical but require returns the Fatal Error, while include returns the Warning.",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,17) PHP include and require Statements,"What is the syntax of PHP ""include"" statement?",include {'filename'};,<include 'filename'>;,include <'filename'>;,include 'filename';,D,"The syntax of the PHP include statement is:
+include 'filename';",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,17) PHP include and require Statements,"What is the syntax of PHP ""require"" statement?",require {'filename'};,<require 'filename'>;,require <'filename'>;,require 'filename';,D,"The syntax of the PHP “require” statement is:
+require 'filename';",medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,17) PHP include and require Statements,Which PHP function is used to open a file?,fopen(),open(),open_file(),PHP_open(),A,The PHP fopen() function is used to open a file.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,18) PHP File Handling,Which PHP function is used to close a file?,fclose(),close(),close_file(),PHP_close(),A,The PHP fclose() function is used to close a file.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,18) PHP File Handling,Which PHP function is used to read the content of a file?,read(),getfile(),readfile(),All of the above,C,The PHP readfile() function is used to read the content of a file.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,18) PHP File Handling,Which PHP function reads a single line from a file?,readline(),getline(),fget(),fgets(),D,The PHP fgets() function reads a single line from a file.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,
+Web Technologies & Internet / PHP,18) PHP File Handling,Which PHP function reads a single character from a file?,readcharacter(),getchar(),fgetc(),fchars(),C,The PHP fgetc() function reads a single character from a file.,medium,web:Includehelp.com https://www.includehelp.com/mcq/php-multiple-choice-questions-mcqs.aspx,

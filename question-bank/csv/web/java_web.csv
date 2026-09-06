@@ -1,0 +1,206 @@
+subject,topic,question,option_a,option_b,option_c,option_d,correct_letter,explanation,difficulty,source,tags
+Java,General,JDK stands for ____.,Java development kit,Java deployment kit,JavaScript deployment kit,None of these,A,JDK stands for Java Development Kit. It is a platform to develop and run Java applications.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,JRE stands for ___.,Java run ecosystem,JDK runtime Environment,Java Runtime Environment,None of these,C,JRE stands for Java Runtime Environment which provides an environment to run a java program.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What makes the Java platform independent?,Advanced programming language,It uses bytecode for execution,Class compilation,All of these,B,"In Java, programs are compiled into byte code and that byte code is platform-independent.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What are the types of memory allocated in memory in java?,Heap memory,Stack memory,Both A and B,None of these,C,"Memory allocation in java occurs in two ways, mainly, stack and heap space.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Multiline comment is created using ___.,//,/* */,<!-- -- >,All of these,B,Multi-line comments start with /* and ends with */. Any text between /* and */ will be ignored by Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is the entry point of a program in Java?,main() method,The first line of code,Last line of code,main class,A,"Generally, the main() method is treated as the point where the flow of code starts.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which keyword in java is used for exception handling?,exep,excepHand,throw,All of these,C,the throw is a keyword introduced in java for exception handling.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which class in Java is used to take input from the user?,Scanner,Input,Applier,None of these,A,"The Scanner class is used to get user input, and it is found in the java. util package.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Method used to take a string as input in Java?,next(),nextLine(),Both A. and B.,None of these,B,"The next() method can read the input only till the space. It can't read two words separated by space, while the nextLine() reads input including space between the words (that is, it reads till the end of line \n).",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following is the correct syntax to create a variable in Java?,var name;,int name;,var name int;,All of these,B,Read here: Java variable declarations,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of these is a type of variable in Java?,Instance Variable,Local Variable,Static Variable,All of these,D,"There are three types of variables in Java:
+ Instance variable
+ Local variable
+ Class/Static variable",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,"What will be the output of following Java code?
+```
+public class Main {
+  public static void main(String[] args) {
+    String str = ""Hello"";
+    str = ""Bye"";
+    System.out.println(str);
+  }
+}
+```",Hello,Bye,Error,All of these,B,,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is type casting in Java?,It is converting type of a variable from one type to another,Casting variable to the class,Creating a new variable,All of these,A,Type casting is when you assign a value of one primitive data type to another type.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which type of casting is lossy in Java?,Widening typecasting,Narrowing typecasting,Manual typecasting,All of these,B,In Narrowing typecasting data loss is there.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following can be declared as final in java?,Class,Method,Variable,All of these,D,"Class, method, and variables all can be declared as final in Java.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Finally block is attached to?,Try-catch block,Class block,Method block,All of these,A,"Finally, block of code runs at the end of the try-catch block.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,The break statement in Java is used to ___.,Terminates from the loop immediately,Terminates from the program immediately,Skips the current iteration,All of these,A,The break statement in Java is used to terminate from the loop immediately.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,"What will be the output of following Java code?
+```
+public class Main {
+  public static void main(String arg[]) {
+    int i;
+    for (i = 1; i <= 12; i += 2) {
+      if (i == 8) {
+        System.out.println(i);
+        break;
+      }
+    }
+  }
+}
+```",1,No output,8,1357911,B,The condition (i == 8) could not be satisfied hence nothing cannot be printed.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Can the Java program accept input from the command line?,"Yes, using command-line arguments","Yes, by access command prompt",No,None of these,A,"In Java, we can also provide values (arguments) while calling the program through the command line. These arguments are known as Command Line Arguments.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Array in java is ___.,Collection of similar elements,Collection of elements of different types,The data type of consisting of characters,None of these,A,Array is a collection of similar elements.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Object in java are ___.,Classes,References,Iterators,None of these,B,Objects in Java are Reference Variables.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is garbage collection in java?,Method to manage memory in java,Create new garbage values,Delete all values,All of these,A,Garbage collection in Java is the process by which Java programs perform automatic memory management.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Static variables in java are declared as ___.,final variables,new variables,Constants,All of these,C,"The static variables declarations just like constants, they required static keyword and an initial value.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,BigInteger Class is used to ___.,Store very long range of number,Store integer values,A class that stores large range of integer,All of these,D,All of the above points are correct with respect to a BigInteger class.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,'this' keyword in java is ___.,Used to hold the reference of the current object,Holds object value,Used to create a new instance,All of these,A,Java this keyword is used to hold the reference of the current object.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,"What will be the output of following Java code?
+```
+import java.util.Scanner;
+
+class ThisKeyword {
+  private int a = 4;
+  private int b = 1;
+
+  void getSum(int a, int b) {
+    this.a = a;
+    this.b = b;
+    System.out.println(this.a + this.b);
+  }
+}
+
+public class Main {
+  public static void main(String args[]) {
+    ThisKeyword T = new ThisKeyword();
+    T.getSum(3, 5);
+  }
+}
+```",5,9,8,4,C,The above Java program is an example to demonstrate the use of this keyword.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,The 'super' keyword is used to ___.,Access instance of the parent class,Access instance of the same class,Access instance of child class,Access instance of friend class,A,"The super keyword refers to superclass (parent) objects. It is used to call superclass methods, and to access the superclass constructor.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,The super() method is used to ___.,Call constructor of friend class,Is a declared method,Call constructor of the parent class,Call constructor,C,"In Java programming language, the super() is a reference variable that is used to refer parent class constructors. The super can be used to call parent class's variables and methods. The super() can be used to call parent class' constructors only.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Wrapper class in java is ___.,Used to encapsulate primitive data types,Declare new classes called wrapper,Create a new instance of the class,None of these,A,A Wrapper class is a class whose object wraps or contains primitive data types.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Boxing is ___.,Creating new box,Creating object,Converting primitive type of object instance,All of these,C,"In Java programming language, the wrapper classes are those whose objects wraps a primitive data type within them. The wrapper class is used for converting primitive datatype to object is called boxing.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Abstract class is ___.,Created using abstract keyword,Contains only abstract method,Needs to be inherited to be used,All of these,D,"An abstract class is a class that contains an abstract method. It is defined using abstract keyword only has method declarations and to use these methods, the abstract class needs to be inherited.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is file handling in java?,"It is creating, deleting, and modifying files using a java program.",Creating new method,Filing method to different file to extract them better,All of these,A,"File handling is used for creating, deleting, and modifying files using a java program.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,How can we access methods for file handling in java?,Java.files,Java.io,Java.io.File,Java.FileHandling,C,"To access the file handling methods, we need to use Java.io.File.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which is the correct absolute path of a file in Java?,C:\Program Files\Java\jdk1.8.0_131\bin\file_name.txt,C:\Program Files\Java\file_name.txt,C:\Program Files\Java\jdk1.8.0_131\file_name.txt,C:\Program Files\Java\jdk1.8.0_131\bin\File Handling\file_name.txt,A,"The correct absolute path of a file in Java is:
+C:\Program Files\Java\jdk1.8.0_131\bin\file_name.txt",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which method is used to add a new line to file in Java?,file.addLine(),file.nextLine(),file.write(),file.line(),C,The file.write() method is used to add a new line to file in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which method deletes a file in Java?,file.delete(),file.remove(),file.garbage(),file.dump(),A,The file.delete() method is used to delete a file in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which method in java is used to read lines from file?,file.read(),file.nextLine(),file.getLine(),All of these,C,The file.getLine() method is used to read lines from a file.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,The correct syntax to import the math library in java is ___.,import java.lang.math,import math,import java.math,All of these,A,"The correct syntax to import the math library in java is:
+import java.lang.math",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which is/are valid method(s) of math library in java?,max(),cbrt(),log10(),All of these,D,"Some common methods of the math library are max(), min(), cbrt(), pow(), log(), log10(), etc.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which method in java is used to generate random numbers in Java?,random.nextInt(),random(),rand(),All of these,A,The Java method random.nextInt() is used to generate random numbers.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,"In java, recursion is ___.",Method,A process allowing methods to call itself,The process to call methods,None of these,B,The recursion is a process by which a process allow methods to call itself.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is stringBuffer in java?,Class to create a string array,Class to create a mutable string in java,Class to create a string from i/o buffer,All of these,B,StringBuffer class is used to create modifiable strings in java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following is a valid data structure in java?,Array,List,Vector,All of these,D,"All of the above (Array, List, and Vector) are valid data structures in Java.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which syntax is valid to create a vector in java?,Vector < string > names = new Vector < String > ();,Vector name = new string;,int name = new vector (),All of these,A,"The hex2bin() function is used to convert hexadecimal values to the ASCII characters.
+ The syntax to create a vector in Java is:
+Vector < string > names = new Vector < String > ();",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of these is true for interfaces in java?,The keyword interface is used to create a method,All the methods of an interface are abstract,It does not contain constructors,All of these,D,All of the above points are true for interfaces in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Encapsulation is ___.,Wrapping up of data and related functions into a single entity,Creating special methods,Creating special data structure,All of these,A,"In Java programming language, the encapsulation is a mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit. It is a object-oriented programming concept.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which Java method is used to convert an object to string?,createString(),toString(),object.string(),newString(),B,Java method toString() is used to convert an object to string.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is a comparator in Java?,Interface to compare integer,Comparison method for lists,Interface to compare two objects in java,All of these,C,Java Comparator interface is used to order the objects of a user-defined class.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following methods are present in comparator interface?,compare(),equate(),isEqual(),All of these,A,"The comparator interface contains the following two methods,
+ compare()
+ equals()",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following statements is not correct for vectors in Java?,It was created using vector keyword,It can store an object of different classes,It is asynchronous,None of these,C,Read more: Vector Class in Java,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,"What will be the output of following Java code?
+```
+public class Main {
+  public static void main(String[] args) {
+    StringBuffer sb = new StringBuffer(""include"");
+    sb.append(""help"");
+    System.out.println(sb);
+  }
+}
+```",Error,include,help,Includehelp,D,The string here is a StringBuffer hence the contents can be edited which makes the append method work on it by adding 'help' to the end of the string.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is a deadlock in Java?,State when all processes have complete working and are dead,State when threads are in hold state forever,State when threads are not ready,All of these,B,Deadlock in Java is a condition when two or more threads try to access the same resources at the same time.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which graph is used to check for deadlock in Java?,Deadlock graph,Time graph,Wait-for-graph,None of these,C,The wait-for-graph is used to check for deadlock in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Batch processing in java is ___.,"Used to execute a group of queries or a batch as executing a single query, again and again, is time taking and reduce the performance",Used to processing multiple queries can be executed at once,Used to increase program's performance,All of these,D,Read more: Batch Processing in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Null in Java is ___.,Reserved keyword,Literal value,Used in exception handling,All of these,D,All of the mentioned points are true about the Null in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Enumeration in Java is ___.,Data type which contains fixed set of constants,Method,Class,None of these,A,"In Java, the Enumeration is a data type which contains a fixed set of constants, they are used to create our own data type like classes.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following ways is the correct way to create an object in Java?,Using the new keyword,Using newInstance() method,clone() method,All of these,D,"All of the above-mentioned ways are the correct way to create an object Java.
+ There are five different ways to create an object and we will see the ways to create an object given below:
+ Using the new keyword
+ Using newInstance() method of Class
+ Using clone() method
+ Using newInstance() method of Constructor class
+ Using deserialization
+ Read more: Different ways to create an object in Java",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which statement is correct for private member in Java?,Access outside the class is allowed,Any class can access,Declared using private keyword,All of these,C,The private members are declared using the private keyword.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which keyword is used to inherit classes in Java?,extends,inheritance,isChild,None of these,A,The extends keyword is used to inherit classes in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following inheritance of class is invalid in Java?,Single,Multiple,Multi-level,Hierarchical,B,Java doesn't allow multiple inheritance.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,The 'implements' keyword is used to ___.,Implement the function of a class,Inherit an interface in Java,Inherit a class in java,All of these,B,The implements keyword is used to inherit an interface in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is polymorphism in Java?,Performing a single task in multiple ways,Performing multiple tasks using multiple methods,Creating a new class for each task,All of these,A,Polymorphism in Java is the ability of an object to take many forms.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What are packages in Java?,Methods of a friend class,Methods of the main class,"Way to encapsulate a group of classes, sub-packages, and interface",All of these,C,"Java packages are the ways to encapsulate a group of classes, sub-packages, and interface.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Empty interface in Java is called?,Marker interface,Abstract class,Derived class,None of these,A,Empty interface is called Marker interface in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of these is a non-access modifier?,public,private,native,All of these,C,The native is a non-access modifier in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,When a finally block executed in Java?,Try block is executed without any exception,Exception has occurred,Executed at last,None of these,C,Finally block is executed at the last.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is boolean in Java?,A value consisting of only true and false value,A value consisting of 8 values,Truthy value in java,All of these,A,"In Java, the boolean keyword is a primitive data type. It is used to store only two possible values, either true or false.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of these is not a valid Boolean method in Java?,equals() method,hashCode() method,toString() method,All of these,D,"All are valid Boolean class methods. Some common methods are equals(), hashCode(), toString(), valueOf(), etc.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which method in Java is used to check for NaN values?,isNan(),checkNan(),isNotNan(),All of these,A,The isNaN() method is used to check for NaN values.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of these is a property of threads in Java?,Multiple threads can be executed concurrently,Has its own priority,Both A. and B.,None of these,C,The multiple threads can be executed concurrently and it has own property.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which thread is executed in the background?,New thread,User-created thread,Daemon thread,All of these,C,The daemon thread is executed in the background.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Multithreading in java is ___.,Executing multiple processes simultaneously,Creating more threads at a time,Blocking threads,All of these,A,Multithreaded programming a process in which two or more parts of the same process run simultaneously.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,"What will be the output of following Java code?
+```
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(Math.copySign(100.6, -200.6));
+  }
+}
+```",100.6,-100.6,-200.6,200.6,B,The Math.copySign() returns the first floating-point argument with the sign of the second floating-point argument.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which method is used to convert radians to degree in Java?,convertRadtoDeg(),toDegrees(),degree(),All of these,B,The Java method toDegrees() is used to convert radians to degree.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following methods is used to extract the length of a string in Java?,length(),len(),sizeof(),size(),A,The Java method length() is used to extract the length of a string in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,The trim() method in Java used to ___.,Remove the given character,Remove the values after the given index,Remove leading and trailing spaces,None of these,C,The Java method trim() is a built-in function that eliminates leading and trailing spaces.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What are regexes in Java?,API to define a pattern for searching strings,String,Array to create a new integer,Wrapper class,A,"Java Regular Expressions or Regex is an API for defining String patterns that can be used for searching, manipulating, and editing a string.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is a map in Java?,Data structure,Defined in java.util package,Represented using key-value pairs,All of these,D,Read more: Differences between Set and Map interface in Java.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is a set in Java?,Represented in the form of values,Used to store key-value pairs,Primary structures,All of these,A,Read more: Differences between Set and Map interface in Java,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,"What will be the output of following Java code?
+```
+import java.util.Hashtable;
+
+public class HashTableClass {
+  int hashcode;
+  HashTableClass(int hashcode) {
+    this.hashcode = hashcode;
+  }
+  public int hashCode() {
+    return hashcode;
+  }
+  public String toString() {
+    return hashcode + "" "";
+  }
+
+  public static void main(String[] args) {
+    Hashtable ht = new Hashtable();
+
+    ht.put(new HashTableClass(10), ""Java"");
+    ht.put(new HashTableClass(3), ""C"");
+    ht.put(new HashTableClass(4), ""C++"");
+    ht.put(new HashTableClass(5), ""Ruby"");
+    ht.put(new HashTableClass(6), ""null"");
+
+    System.out.println(ht);
+  }
+}
+```","{10 =Java, 3 =C, 4 =C++, 6 =null, 5 =Ruby}","{10 =Java, 6 =null, 5 =Ruby, 4 =C++, 3 =C}","{3 =C, 4 =C++, 5 =Ruby, 6 =null, 10 =Java}",None of these,B,,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which of the following sorts the elements were inserted?,Hashtable,Map,Array,None of these,A,Hashtable sorts the elements were inserted.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which Java method is used to clear element of ArrayList?,deleteAll(),delete(),clearAll(),clear(),D,The clear() method of ArrayList in Java is used to remove all the elements from a list.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which Java method is used to add all of the specified elements to the specified collection?,addValue(),copy(),cpy(),addAll(),D,The addAll() method of java.util.Collections class is used to add all of the specified elements to the specified collection.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which Java method is used to detect the OS in which Java program is being run?,system.getOSdetails(),system.get(os.name),"system.getProperties(""os.name"")","system.getProperties(""os"")",C,"The Java method system.getProperties(""os.name"") is used to detect the OS in which Java program being run.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is the default encoding of OutstreamWriter?,UTF-32,UTF-16,UTF-12,Based on the host platform,D,The encoding of OutstreamWriter is based on the host platform.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which method in java is used to get the name of running java VM?,"System.getProperties(""java.vm.name"")",System.vmName,Sytem.getVmName,"System.getProperties(""vm.name"")",A,"The Java method System.getProperties(""java.vm.name"") is used to get the name of the running Java VM.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which Java method is used to get the version of running java VM?,System.vm.version,"System.getProperties(""vm.version"")","System.getProperties(""java.vm.version"")",System.getVmVersion,C,"The Java method System.getProperties(""java.vm.version"") is used to get the versions of the running Java VM.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,What is the full form of AWT?,Absolute window toolKit,Abstract window toolKit,Absolute wear kit,Abstract window tools,B,"The full form of AWT is ""Abstract window toolKit"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which escape character is used for word character in regex?,/w,/c,/str,/?,A,The escape character /w is used for word character in Regex.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Jar in java stands for ___.,Java ARchive,Java application runtime,Java application runner,None of these,A,"Jar stands for ""Java ARchive"".",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,Which Java keyword is used to access features of a package?,get,import,extends,All of these,B,The import keyword is used to access features of a package.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,The result of dividing by 0 in Java is ___.,Error,Expectation,Infinite,None of these,B,Dividing an integer by zero will result in an ArithmeticException.,medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,
+Java,List of Java,"What will be the output of following Java code?
+```
+public class ConcatNull {
+  public static void main(String[] args) {
+    String str1 = ""include"";
+    String str2 = ""help"";
+    System.out.println(str1 + str2);
+  }
+}
+```",includehelp,include,help,None of these,A,"In the above code, the ""+"" operator is concatenating both of the strings.",medium,web:Includehelp.com https://www.includehelp.com/mcq/java-multiple-choice-questions-mcqs.aspx,

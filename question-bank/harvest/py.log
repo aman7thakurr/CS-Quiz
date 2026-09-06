@@ -1,0 +1,208 @@
+series found: 26
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 1 q
+  introduction to python: 81 raw, cumulative 81
+    page 1: 10 q
+    page 2: 9 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 7 q
+  variable names and operators: 45 raw, cumulative 126
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 4 q
+  data types and numeric types: 54 raw, cumulative 177
+    page 1: 9 q
+    page 2: 10 q
+    page 3: 9 q
+    page 4: 10 q
+    page 5: 10 q
+  precedence and associativity: 48 raw, cumulative 222
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 9 q
+  bitwise and boolean: 59 raw, cumulative 278
+    page 1: 9 q
+    page 2: 10 q
+    page 3: 9 q
+    page 4: 9 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 8 q
+    page 8: 10 q
+    page 9: 2 q
+  formatting and decorators: 77 raw, cumulative 354
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 1 q
+  conditional formatting (while and for loops): 91 raw, cumulative 438
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  strings in python: 100 raw, cumulative 536
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 9 q
+    page 8: 10 q
+    page 9: 10 q
+    page 10: 10 q
+  lists in python: 99 raw, cumulative 633
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 10 q
+  tuples in python: 59 raw, cumulative 683
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 8 q
+    page 6: 9 q
+    page 7: 9 q
+    page 8: 9 q
+    page 9: 10 q
+  sets in python: 85 raw, cumulative 766
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+    page 9: 5 q
+  dictionary in python: 84 raw, cumulative 849
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 8 q
+  python built in functions: 58 raw, cumulative 904
+    page 1: 10 q
+    page 2: 9 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 10 q
+    page 7: 9 q
+    page 8: 9 q
+    page 9: 8 q
+    page 10: 10 q
+  functions in python: 94 raw, cumulative 995
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 9 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 8 q
+    page 8: 9 q
+    page 9: 9 q
+    page 10: 9 q
+  module in python: 94 raw, cumulative 1088
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 9 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 8 q
+    page 9: 9 q
+  regular expressions in python: 86 raw, cumulative 1174
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 10 q
+    page 7: 10 q
+    page 8: 10 q
+  files handling in python: 80 raw, cumulative 1254
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 9 q
+    page 6: 8 q
+    page 7: 7 q
+  classes and objects in python: 64 raw, cumulative 1316
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 9 q
+    page 4: 10 q
+    page 5: 8 q
+    page 6: 9 q
+    page 7: 9 q
+    page 8: 9 q
+    page 9: 6 q
+  concept of object oriented programs in python: 80 raw, cumulative 1392
+    page 1: 10 q
+    page 2: 9 q
+    page 3: 10 q
+    page 4: 10 q
+    page 5: 10 q
+    page 6: 9 q
+    page 7: 5 q
+  exception handling in python: 63 raw, cumulative 1440
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 5 q
+  generators and iterators: 25 raw, cumulative 1465
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 5 q
+  decorators in depth: 25 raw, cumulative 1490
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 5 q
+  advanced oop concepts: 25 raw, cumulative 1515
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 5 q
+  database connectivity with python: 25 raw, cumulative 1540
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 5 q
+  web scraping with python: 35 raw, cumulative 1575
+    page 1: 10 q
+    page 2: 10 q
+    page 3: 10 q
+    page 4: 5 q
+  gui programming with python: 35 raw, cumulative 1609
+wrote python_examveda_web.csv: 1609 rows
