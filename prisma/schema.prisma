@@ -1,0 +1,150 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─── Enums ───────────────────────────────────────────────
+
+enum QuestionType {
+  MCQ_SINGLE
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum QuestionStatus {
+  DRAFT
+  ACTIVE
+  ARCHIVED
+}
+
+enum AttemptMode {
+  CBT
+  PRACTICE
+}
+
+enum AttemptStatus {
+  IN_PROGRESS
+  SUBMITTED
+}
+
+enum GenerationStatus {
+  PENDING
+  SUCCESS
+  FAILED
+}
+
+// ─── Models ──────────────────────────────────────────────
+
+model Subject {
+  id        String     @id @default(cuid())
+  name      String     @unique
+  slug      String     @unique
+  order     Int        @default(0)
+  isActive  Boolean    @default(true)
+  topics    Topic[]
+  questions Question[]
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+  @@index([order])
+}
+
+model Topic {
+  id        String     @id @default(cuid())
+  name      String
+  subject   Subject    @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  subjectId String
+  questions Question[]
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+  @@unique([name, subjectId])
+  @@index([subjectId])
+}
+
+model Question {
+  id           String         @id @default(cuid())
+  type         QuestionType   @default(MCQ_SINGLE)
+  text         String         @db.Text
+  options      Json           // JSON array of exactly 4 strings
+  correctIndex Int            // 0–3
+  explanation  String         @default("") @db.Text
+  subject      Subject        @relation(fields: [subjectId], references: [id])
+  subjectId    String
+  topic        Topic?         @relation(fields: [topicId], references: [id])
+  topicId      String?
+  difficulty   Difficulty     @default(MEDIUM)
+  status       QuestionStatus @default(DRAFT)
+  source       String         @default("")
+  tags         String[]       @default([])
+  timesUsed    Int            @default(0)
+  timesCorrect Int            @default(0)
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+
+  @@index([subjectId, topicId])
+  @@index([status])
+  @@index([difficulty])
+  @@index([subjectId, status])
+}
+
+model SourceDocument {
+  id               String          @id @default(cuid())
+  filename         String
+  sizeBytes        Int
+  parsedTextLength Int
+  parsedText       String          @db.Text
+  importedAt       DateTime        @default(now())
+  generationLogs   GenerationLog[]
+}
+
+model Attempt {
+  id              String        @id @default(cuid())
+  mode            AttemptMode
+  config          Json          // { questionCount, durationSec, perQuestionMark, negativeMarkPerWrong, subjectFilter, shuffleSeed }
+  questionIds     Json          // ordered array of question IDs
+  optionShuffleMap Json?        // { questionId: [shuffled indices] } — maps original → displayed order
+  answerMap       Json          @default("{}") // { questionId: chosenIndex (in shuffled order) }
+  markedForReview Json          @default("[]") // array of questionIds flagged
+  startedAt       DateTime      @default(now())
+  submittedAt     DateTime?
+  timeTakenSec    Int?
+  score           Float?
+  correctCount    Int?
+  wrongCount      Int?
+  skippedCount    Int?
+  accuracy        Float?        // percentage 0–100
+  status          AttemptStatus @default(IN_PROGRESS)
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+
+  @@index([status])
+  @@index([mode])
+  @@index([createdAt])
+}
+
+model GenerationLog {
+  id               String           @id @default(cuid())
+  sourceDocument   SourceDocument?  @relation(fields: [sourceDocumentId], references: [id])
+  sourceDocumentId String?
+  promptMetadata   Json?            // { chunkIndex, chunkLength, systemPrompt summary }
+  tokensUsed       Int              @default(0)
+  questionsCreated Json?            // array of created question IDs
+  status           GenerationStatus @default(PENDING)
+  errorMessage     String?
+  createdAt        DateTime         @default(now())
+
+  @@index([status])
+  @@index([sourceDocumentId])
+}
